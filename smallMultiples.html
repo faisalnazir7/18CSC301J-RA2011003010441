@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+
+<html>
+<meta charset="utf-8">
+<head>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.min.js"></script>
+  
+  <style type="text/css">
+  body {
+    font: 11px sans-serif;
+    margin: 10px;
+    margin-right: 15px;
+  }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+
+  .bar:hover {
+    fill: #bcbcbc ;
+  }
+
+  
+
+  .d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #efefef;
+    border-radius: 2px;
+  }
+
+  /* Creates a small triangle extender for the tooltip */
+  .d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+  }
+
+  
+  .d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+  }
+
+  div#container {
+    width:100%;
+    height:25%;
+    position : fixed;
+    bottom : -40px;
+    
+   
+  }
+
+  div#titleDiv {
+    width:100%;
+    font: 13px sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 0px;
+   
+  }
+  </style>
+</head>
+
+<body>
+  <div id="titleDiv">Cluster Explorer</div>
+  <div id="vis"></div>
+  </br>
+  <div id="container" >
+    <select id = "clusterSelect" onchange="changePlots(true)">
+      <option value="0">Cluster 1</option>
+      <option value="1">Cluster 2</option>
+      <option value="2">Cluster 3</option>
+      <option value="3">Cluster 4</option>
+      <option value="4">Cluster 5</option>
+    </select>
+   
+    <input type="text" id="clusterChanger" hidden value="1">
+  </br>
+    <input type="button" name = "prevSix" value="Previous Stations" onclick="changeStations(false)">
+    <input type="button" name = "nextSix" value="Next Stations" onclick="changeStations(true)">
+    <div style="position: relative; float: right; padding-right: 50px; padding-bottom: -5px">
+      <strong style="font: 13px sans-serif;">Stations in cluster: </strong><strong id = "numTrip" style="font: 13px sans-serif;"></strong></br>
+      <strong style="font: 13px sans-serif;">Avg daily trips: </strong><strong id = "timeTrip" style="font: 13px sans-serif;"></strong>
+    </div>
+  </div>
+  
+<script type="text/javascript">
+
+var margin = {top: 45, right: 160, bottom: 40, left: 50},
+    width = 450 - margin.left - margin.right,
+    height = 150 - margin.top - margin.bottom;
+
+var formatPercent = d3.format(".0%");
+var filteredData;
+var color = d3.scale.linear()
+          .range(["#0571b0","#0571b0","#0571b0","#0571b0","#0571b0"])
+          .domain([0,0.2,0.4,0.6,0.8]);
+
+var x = d3.scale.ordinal()
+    .rangeRoundBands([0, width*0.8], .3);
+
+var counter = 0;
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .ticks(5)
+    .orient("left");
+
+var data;
+
+var tip = d3.tip()
+  .attr('class', 'd3-tip')
+  .offset([-10, 0])
+  .html(function(d) {
+    return "<span style='color:#fff'>" + d.bikes+ "</span>";
+  })
+
+// tsv loaded asynchronously
+d3.tsv("stations.tsv", type, function(dataStations) {
+
+  data = dataStations;
+  console.log(data.length)
+    filteredData = data.filter(function(entry){
+            return (entry.cluster1 == "0");
+            });
+  var clusterNum = filteredData[0].num1;
+  var clusterTrip = filteredData[0].trip1;
+   document.getElementById("numTrip").innerHTML = clusterNum;
+   document.getElementById("timeTrip").innerHTML = clusterTrip;
+    console.log(filteredData.length)
+  showPlots(filteredData);
+    
+
+});
+
+function showPlots(stationsData){
+  
+  
+  var stationsNest = d3.nest()
+      .key(function(d) { return d.name; })
+      .entries(stationsData);
+
+  var stations = [];
+  var len = stationsNest.length;
+  
+  for (var i = 0; i < 6; ++i){
+    stations.push(stationsNest[counter + i])
+    
+    if (i == len - 1 || counter + i == len - 1) break;
+  }
+  
+
+  
+  x.domain(data.map(function(d) { return d.period; }));
+  y.domain([0, d3.max(stations, function(s) { return Math.max(s.values[0].bikes, s.values[1].bikes, s.values[2].bikes, s.values[3].bikes); })]);
+
+  
+  var svg = d3.select("#vis").selectAll("svg")
+    .data(stations)
+    .enter()
+    .append("svg:svg")
+    .attr("width", (width + margin.left + margin.right)/2)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+
+      
+
+  svg.append("g")
+      
+      .attr("class", "y axis")
+      .call(yAxis)
+
+    .append("text")
+    .attr("x", width*0.35)
+    .attr("y", height*0.000001 - 20)
+    .attr("dy", ".71em")
+    .style("text-anchor", "middle")
+    .attr("font-size", "1.1em")
+    .text(function(d) { return d.key});
+    
+    svg.append('text')
+            .attr('class', 'label')
+            .attr('x', -(height / 2) )
+            .attr('y', -30)
+            .attr('transform', 'rotate(-90)')
+            .style('text-anchor', 'middle')
+            .text('Avg daily trips')
+            
+        
+        svg.append('text')
+            .attr('class', 'label')
+            .attr('x', width / 4 + 20)
+            .attr('y', height + 30)
+            .attr('text-anchor', 'middle')
+            .text('Period')
+    
+
+  
+  svg.selectAll(".bar")
+      .data(function(d) {return d.values;})
+      .enter()
+      .append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.period); })
+      .attr("width", x.rangeBand())
+      .attr("y", function(d) { return y(d.bikes); })
+      .attr("height", function(d) { return height - y(d.bikes); })
+      .attr("fill", function(d) {return color(d.bikes)})
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide)
+
+  svg.call(tip);
+}
+
+function type(d) {
+  d.bikes = +d.bikes;
+  return d;
+}
+
+function changePlots(start){
+  var clust = document.getElementById("clusterChanger").value;
+
+  
+
+  if (start) counter = 0;
+  console.log(data.length)
+  filteredData = data.filter(function(entry){
+            return (entry["cluster"+clust] == document.getElementById("clusterSelect").value);
+            });
+
+   var clusterNum = filteredData[0]["num"+clust];
+  var clusterTrip = filteredData[0]["trip"+clust];
+   document.getElementById("numTrip").innerHTML = clusterNum;
+   document.getElementById("timeTrip").innerHTML = clusterTrip;
+
+  console.log(filteredData.length)
+  d3.selectAll("svg").remove();
+  showPlots(filteredData);
+}
+
+function changeStations(add){
+  var stationsNest1 = d3.nest()
+      .key(function(d) { return d.name; })
+      .entries(filteredData);
+  //var len = filteredData.length;
+  if (add){
+    if (counter + 6  >= stationsNest1.length) counter = 0;
+    else counter += 6;
+  }
+  else {
+    if (counter - 6 < 0) {
+      if (stationsNest1.length % 6 == 0) counter = stationsNest1.length - 6;
+      else counter = stationsNest1.length - stationsNest1.length % 6;
+    }
+    else counter -= 6;
+  }
+  changePlots(false);
+}
+
+</script>
+</body>
+</html>

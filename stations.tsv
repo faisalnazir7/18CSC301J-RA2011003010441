@@ -1,0 +1,3065 @@
+name	period	bikes	cluster1	cluster2	num1	trip1	num2	trip2
+"Lafayette St & E 8 St"	morning	97.68	2	1	33	292.03	51	267.31
+"Lafayette St & E 8 St"	afternoon	119.16	2	1	33	292.03	51	267.31
+"Lafayette St & E 8 St"	evening	84.0	2	1	33	292.03	51	267.31
+"Lafayette St & E 8 St"	night	3.39	2	1	33	292.03	51	267.31
+"old - E 13 St & Avenue A"	morning	26.84	1	0	184	94.58	492	38.64
+"old - E 13 St & Avenue A"	afternoon	27.13	1	0	184	94.58	492	38.64
+"old - E 13 St & Avenue A"	evening	24.74	1	0	184	94.58	492	38.64
+"old - E 13 St & Avenue A"	night	2.87	1	0	184	94.58	492	38.64
+"W 15 St & 10 Ave"	morning	21.74	1	2	184	94.58	193	140.11
+"W 15 St & 10 Ave"	afternoon	79.39	1	2	184	94.58	193	140.11
+"W 15 St & 10 Ave"	evening	27.48	1	2	184	94.58	193	140.11
+"W 15 St & 10 Ave"	night	1.48	1	2	184	94.58	193	140.11
+"Barclay St & Church St"	morning	54.71	4	2	118	173.67	193	140.11
+"Barclay St & Church St"	afternoon	59.61	4	2	118	173.67	193	140.11
+"Barclay St & Church St"	evening	41.87	4	2	118	173.67	193	140.11
+"Barclay St & Church St"	night	1.94	4	2	118	173.67	193	140.11
+"W 50 St & 9 Ave"	morning	7.74	1	0	184	94.58	492	38.64
+"W 50 St & 9 Ave"	afternoon	22.06	1	0	184	94.58	492	38.64
+"W 50 St & 9 Ave"	evening	29.23	1	0	184	94.58	492	38.64
+"W 50 St & 9 Ave"	night	2.9	1	0	184	94.58	492	38.64
+"Berry St & N 8 St"	morning	23.42	1	0	184	94.58	492	38.64
+"Berry St & N 8 St"	afternoon	27.61	1	0	184	94.58	492	38.64
+"Berry St & N 8 St"	evening	27.94	1	0	184	94.58	492	38.64
+"Berry St & N 8 St"	night	2.0	1	0	184	94.58	492	38.64
+"Catherine St & Monroe St"	morning	37.71	1	0	184	94.58	492	38.64
+"Catherine St & Monroe St"	afternoon	24.97	1	0	184	94.58	492	38.64
+"Catherine St & Monroe St"	evening	16.35	1	0	184	94.58	492	38.64
+"Catherine St & Monroe St"	night	1.23	1	0	184	94.58	492	38.64
+"E 97 St & 3 Ave"	morning	5.58	0	0	430	29.5	492	38.64
+"E 97 St & 3 Ave"	afternoon	5.77	0	0	430	29.5	492	38.64
+"E 97 St & 3 Ave"	evening	4.55	0	0	430	29.5	492	38.64
+"E 97 St & 3 Ave"	night	0.32	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 66 St"	morning	17.97	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 66 St"	afternoon	19.77	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 66 St"	evening	19.65	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 66 St"	night	1.26	0	0	430	29.5	492	38.64
+"Forsyth St & Broome St"	morning	47.26	4	2	118	173.67	193	140.11
+"Forsyth St & Broome St"	afternoon	59.71	4	2	118	173.67	193	140.11
+"Forsyth St & Broome St"	evening	55.48	4	2	118	173.67	193	140.11
+"Forsyth St & Broome St"	night	5.84	4	2	118	173.67	193	140.11
+"Sterling Pl & 7 Ave"	morning	18.97	0	0	430	29.5	492	38.64
+"Sterling Pl & 7 Ave"	afternoon	15.32	0	0	430	29.5	492	38.64
+"Sterling Pl & 7 Ave"	evening	12.23	0	0	430	29.5	492	38.64
+"Sterling Pl & 7 Ave"	night	0.74	0	0	430	29.5	492	38.64
+"Park Ave & E 124 St"	morning	39.71	1	0	184	94.58	492	38.64
+"Park Ave & E 124 St"	afternoon	24.94	1	0	184	94.58	492	38.64
+"Park Ave & E 124 St"	evening	24.55	1	0	184	94.58	492	38.64
+"Park Ave & E 124 St"	night	0.48	1	0	184	94.58	492	38.64
+"W 106 St & Amsterdam Ave"	morning	12.19	0	0	430	29.5	492	38.64
+"W 106 St & Amsterdam Ave"	afternoon	13.16	0	0	430	29.5	492	38.64
+"W 106 St & Amsterdam Ave"	evening	13.06	0	0	430	29.5	492	38.64
+"W 106 St & Amsterdam Ave"	night	0.74	0	0	430	29.5	492	38.64
+"Metropolitan Ave & Bedford Ave"	morning	40.1	4	2	118	173.67	193	140.11
+"Metropolitan Ave & Bedford Ave"	afternoon	60.26	4	2	118	173.67	193	140.11
+"Metropolitan Ave & Bedford Ave"	evening	61.84	4	2	118	173.67	193	140.11
+"Metropolitan Ave & Bedford Ave"	night	3.77	4	2	118	173.67	193	140.11
+"W 33 St & 7 Ave"	morning	57.42	2	1	33	292.03	51	267.31
+"W 33 St & 7 Ave"	afternoon	87.23	2	1	33	292.03	51	267.31
+"W 33 St & 7 Ave"	evening	89.13	2	1	33	292.03	51	267.31
+"W 33 St & 7 Ave"	night	6.42	2	1	33	292.03	51	267.31
+"Cliff St & Fulton St"	morning	32.0	1	2	184	94.58	193	140.11
+"Cliff St & Fulton St"	afternoon	36.29	1	2	184	94.58	193	140.11
+"Cliff St & Fulton St"	evening	34.87	1	2	184	94.58	193	140.11
+"Cliff St & Fulton St"	night	2.32	1	2	184	94.58	193	140.11
+"W 67 St & Broadway"	morning	36.32	4	2	118	173.67	193	140.11
+"W 67 St & Broadway"	afternoon	54.16	4	2	118	173.67	193	140.11
+"W 67 St & Broadway"	evening	41.29	4	2	118	173.67	193	140.11
+"W 67 St & Broadway"	night	1.74	4	2	118	173.67	193	140.11
+"Leonard St & Maujer St"	morning	12.58	0	0	430	29.5	492	38.64
+"Leonard St & Maujer St"	afternoon	6.71	0	0	430	29.5	492	38.64
+"Leonard St & Maujer St"	evening	7.97	0	0	430	29.5	492	38.64
+"Leonard St & Maujer St"	night	1.71	0	0	430	29.5	492	38.64
+"5 Ave & E 63 St"	morning	15.84	0	0	430	29.5	492	38.64
+"5 Ave & E 63 St"	afternoon	38.39	0	0	430	29.5	492	38.64
+"5 Ave & E 63 St"	evening	7.97	0	0	430	29.5	492	38.64
+"5 Ave & E 63 St"	night	0.26	0	0	430	29.5	492	38.64
+"8 Ave & W 52 St"	morning	35.16	4	2	118	173.67	193	140.11
+"8 Ave & W 52 St"	afternoon	54.94	4	2	118	173.67	193	140.11
+"8 Ave & W 52 St"	evening	46.39	4	2	118	173.67	193	140.11
+"8 Ave & W 52 St"	night	3.32	4	2	118	173.67	193	140.11
+"Greenwich St & W Houston St"	morning	56.13	4	2	118	173.67	193	140.11
+"Greenwich St & W Houston St"	afternoon	86.23	4	2	118	173.67	193	140.11
+"Greenwich St & W Houston St"	evening	48.94	4	2	118	173.67	193	140.11
+"Greenwich St & W Houston St"	night	1.94	4	2	118	173.67	193	140.11
+"8 Ave & W 33 St"	morning	101.35	2	1	33	292.03	51	267.31
+"8 Ave & W 33 St"	afternoon	125.23	2	1	33	292.03	51	267.31
+"8 Ave & W 33 St"	evening	101.19	2	1	33	292.03	51	267.31
+"8 Ave & W 33 St"	night	8.61	2	1	33	292.03	51	267.31
+"E 118 St & 1 Ave"	morning	11.13	0	0	430	29.5	492	38.64
+"E 118 St & 1 Ave"	afternoon	5.94	0	0	430	29.5	492	38.64
+"E 118 St & 1 Ave"	evening	4.84	0	0	430	29.5	492	38.64
+"E 118 St & 1 Ave"	night	0.39	0	0	430	29.5	492	38.64
+"South End Ave & Liberty St"	morning	72.35	2	1	33	292.03	51	267.31
+"South End Ave & Liberty St"	afternoon	116.84	2	1	33	292.03	51	267.31
+"South End Ave & Liberty St"	evening	66.68	2	1	33	292.03	51	267.31
+"South End Ave & Liberty St"	night	2.97	2	1	33	292.03	51	267.31
+"Graham Ave & Conselyea St"	morning	24.0	1	0	184	94.58	492	38.64
+"Graham Ave & Conselyea St"	afternoon	22.65	1	0	184	94.58	492	38.64
+"Graham Ave & Conselyea St"	evening	27.0	1	0	184	94.58	492	38.64
+"Graham Ave & Conselyea St"	night	1.81	1	0	184	94.58	492	38.64
+"W 82 St & Central Park West"	morning	43.16	1	2	184	94.58	193	140.11
+"W 82 St & Central Park West"	afternoon	34.65	1	2	184	94.58	193	140.11
+"W 82 St & Central Park West"	evening	18.68	1	2	184	94.58	193	140.11
+"W 82 St & Central Park West"	night	0.68	1	2	184	94.58	193	140.11
+"Carmine St & 6 Ave"	morning	67.48	2	1	33	292.03	51	267.31
+"Carmine St & 6 Ave"	afternoon	101.0	2	1	33	292.03	51	267.31
+"Carmine St & 6 Ave"	evening	96.65	2	1	33	292.03	51	267.31
+"Carmine St & 6 Ave"	night	10.06	2	1	33	292.03	51	267.31
+"Schermerhorn St & Bond St"	morning	26.52	1	0	184	94.58	492	38.64
+"Schermerhorn St & Bond St"	afternoon	27.97	1	0	184	94.58	492	38.64
+"Schermerhorn St & Bond St"	evening	30.84	1	0	184	94.58	492	38.64
+"Schermerhorn St & Bond St"	night	1.26	1	0	184	94.58	492	38.64
+"E 71 St & 2 Ave"	morning	14.13	0	0	430	29.5	492	38.64
+"E 71 St & 2 Ave"	afternoon	18.68	0	0	430	29.5	492	38.64
+"E 71 St & 2 Ave"	evening	12.23	0	0	430	29.5	492	38.64
+"E 71 St & 2 Ave"	night	1.03	0	0	430	29.5	492	38.64
+"Broadway & W 41 St"	morning	95.97	4	1	118	173.67	51	267.31
+"Broadway & W 41 St"	afternoon	75.23	4	1	118	173.67	51	267.31
+"Broadway & W 41 St"	evening	34.13	4	1	118	173.67	51	267.31
+"Broadway & W 41 St"	night	3.06	4	1	118	173.67	51	267.31
+"MacDougal St & Prince St"	morning	65.45	4	1	118	173.67	51	267.31
+"MacDougal St & Prince St"	afternoon	81.81	4	1	118	173.67	51	267.31
+"MacDougal St & Prince St"	evening	67.23	4	1	118	173.67	51	267.31
+"MacDougal St & Prince St"	night	5.13	4	1	118	173.67	51	267.31
+"W 12 St & W 4 St"	morning	40.32	1	2	184	94.58	193	140.11
+"W 12 St & W 4 St"	afternoon	44.06	1	2	184	94.58	193	140.11
+"W 12 St & W 4 St"	evening	40.06	1	2	184	94.58	193	140.11
+"W 12 St & W 4 St"	night	3.29	1	2	184	94.58	193	140.11
+"W 26 St & 8 Ave"	morning	40.9	4	2	118	173.67	193	140.11
+"W 26 St & 8 Ave"	afternoon	66.0	4	2	118	173.67	193	140.11
+"W 26 St & 8 Ave"	evening	67.65	4	2	118	173.67	193	140.11
+"W 26 St & 8 Ave"	night	4.65	4	2	118	173.67	193	140.11
+"E 91 St & 2 Ave"	morning	31.23	1	0	184	94.58	492	38.64
+"E 91 St & 2 Ave"	afternoon	21.03	1	0	184	94.58	492	38.64
+"E 91 St & 2 Ave"	evening	17.29	1	0	184	94.58	492	38.64
+"E 91 St & 2 Ave"	night	1.29	1	0	184	94.58	492	38.64
+"W 21 St & 6 Ave"	morning	111.1	2	1	33	292.03	51	267.31
+"W 21 St & 6 Ave"	afternoon	173.35	2	1	33	292.03	51	267.31
+"W 21 St & 6 Ave"	evening	82.16	2	1	33	292.03	51	267.31
+"W 21 St & 6 Ave"	night	3.29	2	1	33	292.03	51	267.31
+"E 33 St & 5 Ave"	morning	50.9	4	2	118	173.67	193	140.11
+"E 33 St & 5 Ave"	afternoon	80.74	4	2	118	173.67	193	140.11
+"E 33 St & 5 Ave"	evening	31.84	4	2	118	173.67	193	140.11
+"E 33 St & 5 Ave"	night	3.61	4	2	118	173.67	193	140.11
+"E 16 St & 5 Ave"	morning	48.74	4	2	118	173.67	193	140.11
+"E 16 St & 5 Ave"	afternoon	108.87	4	2	118	173.67	193	140.11
+"E 16 St & 5 Ave"	evening	41.84	4	2	118	173.67	193	140.11
+"E 16 St & 5 Ave"	night	1.19	4	2	118	173.67	193	140.11
+"Centre St & Chambers St"	morning	54.32	4	1	118	173.67	51	267.31
+"Centre St & Chambers St"	afternoon	118.32	4	1	118	173.67	51	267.31
+"Centre St & Chambers St"	evening	52.06	4	1	118	173.67	51	267.31
+"Centre St & Chambers St"	night	4.06	4	1	118	173.67	51	267.31
+"Central Park West & W 76 St"	morning	34.81	1	2	184	94.58	193	140.11
+"Central Park West & W 76 St"	afternoon	58.29	1	2	184	94.58	193	140.11
+"Central Park West & W 76 St"	evening	14.39	1	2	184	94.58	193	140.11
+"Central Park West & W 76 St"	night	2.16	1	2	184	94.58	193	140.11
+"E 5 St & Avenue C"	morning	32.52	1	0	184	94.58	492	38.64
+"E 5 St & Avenue C"	afternoon	20.84	1	0	184	94.58	492	38.64
+"E 5 St & Avenue C"	evening	16.29	1	0	184	94.58	492	38.64
+"E 5 St & Avenue C"	night	1.42	1	0	184	94.58	492	38.64
+"W 15 St & 7 Ave"	morning	55.81	4	2	118	173.67	193	140.11
+"W 15 St & 7 Ave"	afternoon	73.94	4	2	118	173.67	193	140.11
+"W 15 St & 7 Ave"	evening	59.97	4	2	118	173.67	193	140.11
+"W 15 St & 7 Ave"	night	4.13	4	2	118	173.67	193	140.11
+"1 Ave & E 68 St"	morning	88.29	4	1	118	173.67	51	267.31
+"1 Ave & E 68 St"	afternoon	84.03	4	1	118	173.67	51	267.31
+"1 Ave & E 68 St"	evening	39.03	4	1	118	173.67	51	267.31
+"1 Ave & E 68 St"	night	2.9	4	1	118	173.67	51	267.31
+"Willoughby Ave & Walworth St"	morning	7.97	0	3	430	29.5	29	18.21
+"Willoughby Ave & Walworth St"	afternoon	7.39	0	3	430	29.5	29	18.21
+"Willoughby Ave & Walworth St"	evening	4.68	0	3	430	29.5	29	18.21
+"Willoughby Ave & Walworth St"	night	0.52	0	3	430	29.5	29	18.21
+"Driggs Ave & Lorimer St"	morning	8.0	0	0	430	29.5	492	38.64
+"Driggs Ave & Lorimer St"	afternoon	9.55	0	0	430	29.5	492	38.64
+"Driggs Ave & Lorimer St"	evening	9.32	0	0	430	29.5	492	38.64
+"Driggs Ave & Lorimer St"	night	0.77	0	0	430	29.5	492	38.64
+"E 53 St & Madison Ave"	morning	20.74	1	2	184	94.58	193	140.11
+"E 53 St & Madison Ave"	afternoon	68.81	1	2	184	94.58	193	140.11
+"E 53 St & Madison Ave"	evening	7.97	1	2	184	94.58	193	140.11
+"E 53 St & Madison Ave"	night	0.39	1	2	184	94.58	193	140.11
+"E 23 St & 1 Ave"	morning	78.74	4	2	118	173.67	193	140.11
+"E 23 St & 1 Ave"	afternoon	66.68	4	2	118	173.67	193	140.11
+"E 23 St & 1 Ave"	evening	47.9	4	2	118	173.67	193	140.11
+"E 23 St & 1 Ave"	night	2.48	4	2	118	173.67	193	140.11
+"Bank St & Hudson St"	morning	36.68	1	2	184	94.58	193	140.11
+"Bank St & Hudson St"	afternoon	42.81	1	2	184	94.58	193	140.11
+"Bank St & Hudson St"	evening	29.42	1	2	184	94.58	193	140.11
+"Bank St & Hudson St"	night	3.52	1	2	184	94.58	193	140.11
+"1 Ave & E 62 St"	morning	33.77	1	2	184	94.58	193	140.11
+"1 Ave & E 62 St"	afternoon	53.32	1	2	184	94.58	193	140.11
+"1 Ave & E 62 St"	evening	40.19	1	2	184	94.58	193	140.11
+"1 Ave & E 62 St"	night	3.23	1	2	184	94.58	193	140.11
+"9 Ave & W 45 St"	morning	40.06	4	2	118	173.67	193	140.11
+"9 Ave & W 45 St"	afternoon	73.06	4	2	118	173.67	193	140.11
+"9 Ave & W 45 St"	evening	72.1	4	2	118	173.67	193	140.11
+"9 Ave & W 45 St"	night	5.68	4	2	118	173.67	193	140.11
+"Cathedral Pkwy & Broadway"	morning	22.39	1	0	184	94.58	492	38.64
+"Cathedral Pkwy & Broadway"	afternoon	19.9	1	0	184	94.58	492	38.64
+"Cathedral Pkwy & Broadway"	evening	20.29	1	0	184	94.58	492	38.64
+"Cathedral Pkwy & Broadway"	night	2.48	1	0	184	94.58	492	38.64
+"Kent Ave & S 11 St"	morning	21.42	0	0	430	29.5	492	38.64
+"Kent Ave & S 11 St"	afternoon	22.48	0	0	430	29.5	492	38.64
+"Kent Ave & S 11 St"	evening	12.32	0	0	430	29.5	492	38.64
+"Kent Ave & S 11 St"	night	0.81	0	0	430	29.5	492	38.64
+"Clinton St & 4 Place"	morning	16.94	0	0	430	29.5	492	38.64
+"Clinton St & 4 Place"	afternoon	14.1	0	0	430	29.5	492	38.64
+"Clinton St & 4 Place"	evening	7.68	0	0	430	29.5	492	38.64
+"Clinton St & 4 Place"	night	0.16	0	0	430	29.5	492	38.64
+"E 59 St & Madison Ave"	morning	19.58	1	0	184	94.58	492	38.64
+"E 59 St & Madison Ave"	afternoon	57.94	1	0	184	94.58	492	38.64
+"E 59 St & Madison Ave"	evening	9.32	1	0	184	94.58	492	38.64
+"E 59 St & Madison Ave"	night	0.45	1	0	184	94.58	492	38.64
+"Grand St & Havemeyer St"	morning	18.48	1	0	184	94.58	492	38.64
+"Grand St & Havemeyer St"	afternoon	22.84	1	0	184	94.58	492	38.64
+"Grand St & Havemeyer St"	evening	23.97	1	0	184	94.58	492	38.64
+"Grand St & Havemeyer St"	night	3.84	1	0	184	94.58	492	38.64
+"W 16 St & 8 Ave"	morning	97.71	2	1	33	292.03	51	267.31
+"W 16 St & 8 Ave"	afternoon	99.52	2	1	33	292.03	51	267.31
+"W 16 St & 8 Ave"	evening	70.45	2	1	33	292.03	51	267.31
+"W 16 St & 8 Ave"	night	5.94	2	1	33	292.03	51	267.31
+"W 4 St & 7 Ave S"	morning	44.16	4	2	118	173.67	193	140.11
+"W 4 St & 7 Ave S"	afternoon	66.16	4	2	118	173.67	193	140.11
+"W 4 St & 7 Ave S"	evening	68.0	4	2	118	173.67	193	140.11
+"W 4 St & 7 Ave S"	night	11.06	4	2	118	173.67	193	140.11
+"Fulton St & Grand Ave"	morning	17.16	0	0	430	29.5	492	38.64
+"Fulton St & Grand Ave"	afternoon	12.03	0	0	430	29.5	492	38.64
+"Fulton St & Grand Ave"	evening	9.74	0	0	430	29.5	492	38.64
+"Fulton St & Grand Ave"	night	0.9	0	0	430	29.5	492	38.64
+"St Marks Pl & 1 Ave"	morning	42.52	4	2	118	173.67	193	140.11
+"St Marks Pl & 1 Ave"	afternoon	57.55	4	2	118	173.67	193	140.11
+"St Marks Pl & 1 Ave"	evening	52.03	4	2	118	173.67	193	140.11
+"St Marks Pl & 1 Ave"	night	6.9	4	2	118	173.67	193	140.11
+"6 Ave & 9 St"	morning	14.13	0	0	430	29.5	492	38.64
+"6 Ave & 9 St"	afternoon	12.55	0	0	430	29.5	492	38.64
+"6 Ave & 9 St"	evening	9.06	0	0	430	29.5	492	38.64
+"6 Ave & 9 St"	night	0.45	0	0	430	29.5	492	38.64
+"Peck Slip & Front St"	morning	30.35	1	2	184	94.58	193	140.11
+"Peck Slip & Front St"	afternoon	46.23	1	2	184	94.58	193	140.11
+"Peck Slip & Front St"	evening	32.61	1	2	184	94.58	193	140.11
+"Peck Slip & Front St"	night	1.77	1	2	184	94.58	193	140.11
+"Fulton St & Adams St"	morning	25.65	1	2	184	94.58	193	140.11
+"Fulton St & Adams St"	afternoon	49.48	1	2	184	94.58	193	140.11
+"Fulton St & Adams St"	evening	22.19	1	2	184	94.58	193	140.11
+"Fulton St & Adams St"	night	0.77	1	2	184	94.58	193	140.11
+"Reade St & Broadway"	morning	22.65	1	2	184	94.58	193	140.11
+"Reade St & Broadway"	afternoon	45.71	1	2	184	94.58	193	140.11
+"Reade St & Broadway"	evening	20.74	1	2	184	94.58	193	140.11
+"Reade St & Broadway"	night	1.06	1	2	184	94.58	193	140.11
+"Madison Ave & E 82 St"	morning	12.45	0	0	430	29.5	492	38.64
+"Madison Ave & E 82 St"	afternoon	35.84	0	0	430	29.5	492	38.64
+"Madison Ave & E 82 St"	evening	11.42	0	0	430	29.5	492	38.64
+"Madison Ave & E 82 St"	night	0.61	0	0	430	29.5	492	38.64
+"Grand St & Greene St"	morning	18.71	1	2	184	94.58	193	140.11
+"Grand St & Greene St"	afternoon	64.29	1	2	184	94.58	193	140.11
+"Grand St & Greene St"	evening	35.19	1	2	184	94.58	193	140.11
+"Grand St & Greene St"	night	1.87	1	2	184	94.58	193	140.11
+"Greenpoint Ave & Manhattan Ave"	morning	20.19	1	0	184	94.58	492	38.64
+"Greenpoint Ave & Manhattan Ave"	afternoon	19.97	1	0	184	94.58	492	38.64
+"Greenpoint Ave & Manhattan Ave"	evening	21.35	1	0	184	94.58	492	38.64
+"Greenpoint Ave & Manhattan Ave"	night	1.32	1	0	184	94.58	492	38.64
+"St Marks Pl & 2 Ave"	morning	38.52	4	2	118	173.67	193	140.11
+"St Marks Pl & 2 Ave"	afternoon	63.06	4	2	118	173.67	193	140.11
+"St Marks Pl & 2 Ave"	evening	73.48	4	2	118	173.67	193	140.11
+"St Marks Pl & 2 Ave"	night	10.48	4	2	118	173.67	193	140.11
+"W 56 St & 10 Ave"	morning	37.16	1	2	184	94.58	193	140.11
+"W 56 St & 10 Ave"	afternoon	29.52	1	2	184	94.58	193	140.11
+"W 56 St & 10 Ave"	evening	29.35	1	2	184	94.58	193	140.11
+"W 56 St & 10 Ave"	night	2.23	1	2	184	94.58	193	140.11
+"E 4 St & 2 Ave"	morning	45.97	4	2	118	173.67	193	140.11
+"E 4 St & 2 Ave"	afternoon	52.94	4	2	118	173.67	193	140.11
+"E 4 St & 2 Ave"	evening	56.84	4	2	118	173.67	193	140.11
+"E 4 St & 2 Ave"	night	8.23	4	2	118	173.67	193	140.11
+"Broadway & W 29 St"	morning	95.9	2	1	33	292.03	51	267.31
+"Broadway & W 29 St"	afternoon	116.87	2	1	33	292.03	51	267.31
+"Broadway & W 29 St"	evening	48.77	2	1	33	292.03	51	267.31
+"Broadway & W 29 St"	night	3.29	2	1	33	292.03	51	267.31
+"Mott St & Prince St"	morning	44.1	4	2	118	173.67	193	140.11
+"Mott St & Prince St"	afternoon	67.1	4	2	118	173.67	193	140.11
+"Mott St & Prince St"	evening	66.0	4	2	118	173.67	193	140.11
+"Mott St & Prince St"	night	4.45	4	2	118	173.67	193	140.11
+"Lexington Ave & E 29 St"	morning	52.58	4	2	118	173.67	193	140.11
+"Lexington Ave & E 29 St"	afternoon	55.39	4	2	118	173.67	193	140.11
+"Lexington Ave & E 29 St"	evening	38.87	4	2	118	173.67	193	140.11
+"Lexington Ave & E 29 St"	night	2.16	4	2	118	173.67	193	140.11
+"W 47 St & 10 Ave"	morning	40.45	4	2	118	173.67	193	140.11
+"W 47 St & 10 Ave"	afternoon	47.97	4	2	118	173.67	193	140.11
+"W 47 St & 10 Ave"	evening	40.58	4	2	118	173.67	193	140.11
+"W 47 St & 10 Ave"	night	4.48	4	2	118	173.67	193	140.11
+"S 5 Pl & S 5 St"	morning	46.52	1	2	184	94.58	193	140.11
+"S 5 Pl & S 5 St"	afternoon	51.61	1	2	184	94.58	193	140.11
+"S 5 Pl & S 5 St"	evening	34.06	1	2	184	94.58	193	140.11
+"S 5 Pl & S 5 St"	night	4.65	1	2	184	94.58	193	140.11
+"W 49 St & 8 Ave"	morning	56.52	4	2	118	173.67	193	140.11
+"W 49 St & 8 Ave"	afternoon	52.52	4	2	118	173.67	193	140.11
+"W 49 St & 8 Ave"	evening	46.16	4	2	118	173.67	193	140.11
+"W 49 St & 8 Ave"	night	4.52	4	2	118	173.67	193	140.11
+"Watts St & Greenwich St"	morning	38.58	4	2	118	173.67	193	140.11
+"Watts St & Greenwich St"	afternoon	54.52	4	2	118	173.67	193	140.11
+"Watts St & Greenwich St"	evening	38.65	4	2	118	173.67	193	140.11
+"Watts St & Greenwich St"	night	2.35	4	2	118	173.67	193	140.11
+"Sullivan St & Washington Sq"	morning	50.58	4	1	118	173.67	51	267.31
+"Sullivan St & Washington Sq"	afternoon	80.16	4	1	118	173.67	51	267.31
+"Sullivan St & Washington Sq"	evening	73.58	4	1	118	173.67	51	267.31
+"Sullivan St & Washington Sq"	night	8.0	4	1	118	173.67	51	267.31
+"Lispenard St & Broadway"	morning	28.45	1	2	184	94.58	193	140.11
+"Lispenard St & Broadway"	afternoon	50.68	1	2	184	94.58	193	140.11
+"Lispenard St & Broadway"	evening	44.84	1	2	184	94.58	193	140.11
+"Lispenard St & Broadway"	night	2.65	1	2	184	94.58	193	140.11
+"E 6 St & Avenue B"	morning	47.03	4	2	118	173.67	193	140.11
+"E 6 St & Avenue B"	afternoon	50.16	4	2	118	173.67	193	140.11
+"E 6 St & Avenue B"	evening	38.0	4	2	118	173.67	193	140.11
+"E 6 St & Avenue B"	night	3.71	4	2	118	173.67	193	140.11
+"Park Pl & Vanderbilt Ave"	morning	14.29	0	0	430	29.5	492	38.64
+"Park Pl & Vanderbilt Ave"	afternoon	14.74	0	0	430	29.5	492	38.64
+"Park Pl & Vanderbilt Ave"	evening	15.32	0	0	430	29.5	492	38.64
+"Park Pl & Vanderbilt Ave"	night	0.74	0	0	430	29.5	492	38.64
+"East End Ave & E 86 St"	morning	11.65	0	0	430	29.5	492	38.64
+"East End Ave & E 86 St"	afternoon	8.19	0	0	430	29.5	492	38.64
+"East End Ave & E 86 St"	evening	3.87	0	0	430	29.5	492	38.64
+"East End Ave & E 86 St"	night	0.03	0	0	430	29.5	492	38.64
+"Riverside Blvd & W 67 St"	morning	38.0	1	0	184	94.58	492	38.64
+"Riverside Blvd & W 67 St"	afternoon	29.84	1	0	184	94.58	492	38.64
+"Riverside Blvd & W 67 St"	evening	19.58	1	0	184	94.58	492	38.64
+"Riverside Blvd & W 67 St"	night	0.84	1	0	184	94.58	492	38.64
+"E 81 St & 3 Ave"	morning	19.35	0	0	430	29.5	492	38.64
+"E 81 St & 3 Ave"	afternoon	17.77	0	0	430	29.5	492	38.64
+"E 81 St & 3 Ave"	evening	15.42	0	0	430	29.5	492	38.64
+"E 81 St & 3 Ave"	night	0.81	0	0	430	29.5	492	38.64
+"Mercer St & Bleecker St"	morning	55.84	4	1	118	173.67	51	267.31
+"Mercer St & Bleecker St"	afternoon	87.19	4	1	118	173.67	51	267.31
+"Mercer St & Bleecker St"	evening	60.74	4	1	118	173.67	51	267.31
+"Mercer St & Bleecker St"	night	3.29	4	1	118	173.67	51	267.31
+"2 Ave & E 31 St"	morning	37.1	4	2	118	173.67	193	140.11
+"2 Ave & E 31 St"	afternoon	62.48	4	2	118	173.67	193	140.11
+"2 Ave & E 31 St"	evening	57.58	4	2	118	173.67	193	140.11
+"2 Ave & E 31 St"	night	3.77	4	2	118	173.67	193	140.11
+"Milton St & Franklin St"	morning	24.29	1	2	184	94.58	193	140.11
+"Milton St & Franklin St"	afternoon	38.13	1	2	184	94.58	193	140.11
+"Milton St & Franklin St"	evening	33.39	1	2	184	94.58	193	140.11
+"Milton St & Franklin St"	night	2.16	1	2	184	94.58	193	140.11
+"Allen St & Stanton St"	morning	48.35	4	2	118	173.67	193	140.11
+"Allen St & Stanton St"	afternoon	64.97	4	2	118	173.67	193	140.11
+"Allen St & Stanton St"	evening	64.84	4	2	118	173.67	193	140.11
+"Allen St & Stanton St"	night	10.48	4	2	118	173.67	193	140.11
+"Myrtle Ave & Lewis Ave"	morning	15.68	0	0	430	29.5	492	38.64
+"Myrtle Ave & Lewis Ave"	afternoon	16.32	0	0	430	29.5	492	38.64
+"Myrtle Ave & Lewis Ave"	evening	14.48	0	0	430	29.5	492	38.64
+"Myrtle Ave & Lewis Ave"	night	4.1	0	0	430	29.5	492	38.64
+"12 Ave & W 40 St"	morning	128.32	2	1	33	292.03	51	267.31
+"12 Ave & W 40 St"	afternoon	108.77	2	1	33	292.03	51	267.31
+"12 Ave & W 40 St"	evening	53.03	2	1	33	292.03	51	267.31
+"12 Ave & W 40 St"	night	1.58	2	1	33	292.03	51	267.31
+"Maiden Ln & Pearl St"	morning	21.16	1	0	184	94.58	492	38.64
+"Maiden Ln & Pearl St"	afternoon	31.06	1	0	184	94.58	492	38.64
+"Maiden Ln & Pearl St"	evening	25.23	1	0	184	94.58	492	38.64
+"Maiden Ln & Pearl St"	night	1.35	1	0	184	94.58	492	38.64
+"E 51 St & Lexington Ave"	morning	18.97	1	0	184	94.58	492	38.64
+"E 51 St & Lexington Ave"	afternoon	53.81	1	0	184	94.58	492	38.64
+"E 51 St & Lexington Ave"	evening	12.81	1	0	184	94.58	492	38.64
+"E 51 St & Lexington Ave"	night	0.77	1	0	184	94.58	492	38.64
+"2 Ave & E 96 St"	morning	34.03	1	0	184	94.58	492	38.64
+"2 Ave & E 96 St"	afternoon	27.58	1	0	184	94.58	492	38.64
+"2 Ave & E 96 St"	evening	22.0	1	0	184	94.58	492	38.64
+"2 Ave & E 96 St"	night	2.77	1	0	184	94.58	492	38.64
+"E 2 St & Avenue B"	morning	67.87	4	2	118	173.67	193	140.11
+"E 2 St & Avenue B"	afternoon	40.77	4	2	118	173.67	193	140.11
+"E 2 St & Avenue B"	evening	44.26	4	2	118	173.67	193	140.11
+"E 2 St & Avenue B"	night	3.74	4	2	118	173.67	193	140.11
+"Degraw St & Smith St"	morning	10.94	0	0	430	29.5	492	38.64
+"Degraw St & Smith St"	afternoon	13.06	0	0	430	29.5	492	38.64
+"Degraw St & Smith St"	evening	13.03	0	0	430	29.5	492	38.64
+"Degraw St & Smith St"	night	1.48	0	0	430	29.5	492	38.64
+"E 110 St & Madison Ave"	morning	18.0	0	0	430	29.5	492	38.64
+"E 110 St & Madison Ave"	afternoon	14.65	0	0	430	29.5	492	38.64
+"E 110 St & Madison Ave"	evening	12.45	0	0	430	29.5	492	38.64
+"E 110 St & Madison Ave"	night	1.16	0	0	430	29.5	492	38.64
+"1 Ave & E 16 St"	morning	95.81	2	1	33	292.03	51	267.31
+"1 Ave & E 16 St"	afternoon	77.74	2	1	33	292.03	51	267.31
+"1 Ave & E 16 St"	evening	67.58	2	1	33	292.03	51	267.31
+"1 Ave & E 16 St"	night	6.45	2	1	33	292.03	51	267.31
+"1 Ave & E 110 St"	morning	19.03	0	0	430	29.5	492	38.64
+"1 Ave & E 110 St"	afternoon	13.71	0	0	430	29.5	492	38.64
+"1 Ave & E 110 St"	evening	8.55	0	0	430	29.5	492	38.64
+"1 Ave & E 110 St"	night	1.42	0	0	430	29.5	492	38.64
+"Broadway & E 14 St"	morning	83.74	2	1	33	292.03	51	267.31
+"Broadway & E 14 St"	afternoon	123.71	2	1	33	292.03	51	267.31
+"Broadway & E 14 St"	evening	90.65	2	1	33	292.03	51	267.31
+"Broadway & E 14 St"	night	5.58	2	1	33	292.03	51	267.31
+"South St & Gouverneur Ln"	morning	54.68	4	2	118	173.67	193	140.11
+"South St & Gouverneur Ln"	afternoon	67.71	4	2	118	173.67	193	140.11
+"South St & Gouverneur Ln"	evening	36.48	4	2	118	173.67	193	140.11
+"South St & Gouverneur Ln"	night	0.45	4	2	118	173.67	193	140.11
+"1 Ave & E 30 St"	morning	66.26	4	2	118	173.67	193	140.11
+"1 Ave & E 30 St"	afternoon	51.84	4	2	118	173.67	193	140.11
+"1 Ave & E 30 St"	evening	23.52	4	2	118	173.67	193	140.11
+"1 Ave & E 30 St"	night	1.94	4	2	118	173.67	193	140.11
+"Vesey Pl & River Terrace"	morning	75.13	4	1	118	173.67	51	267.31
+"Vesey Pl & River Terrace"	afternoon	101.55	4	1	118	173.67	51	267.31
+"Vesey Pl & River Terrace"	evening	54.81	4	1	118	173.67	51	267.31
+"Vesey Pl & River Terrace"	night	1.26	4	1	118	173.67	51	267.31
+"Douglass St & 4 Ave"	morning	12.74	0	0	430	29.5	492	38.64
+"Douglass St & 4 Ave"	afternoon	9.16	0	0	430	29.5	492	38.64
+"Douglass St & 4 Ave"	evening	13.0	0	0	430	29.5	492	38.64
+"Douglass St & 4 Ave"	night	1.13	0	0	430	29.5	492	38.64
+"Suffolk St & Stanton St"	morning	47.29	4	2	118	173.67	193	140.11
+"Suffolk St & Stanton St"	afternoon	54.94	4	2	118	173.67	193	140.11
+"Suffolk St & Stanton St"	evening	44.97	4	2	118	173.67	193	140.11
+"Suffolk St & Stanton St"	night	5.68	4	2	118	173.67	193	140.11
+"Franklin Ave & Myrtle Ave"	morning	8.61	0	0	430	29.5	492	38.64
+"Franklin Ave & Myrtle Ave"	afternoon	8.55	0	0	430	29.5	492	38.64
+"Franklin Ave & Myrtle Ave"	evening	5.0	0	0	430	29.5	492	38.64
+"Franklin Ave & Myrtle Ave"	night	0.58	0	0	430	29.5	492	38.64
+"Centre St & Worth St"	morning	18.68	1	0	184	94.58	492	38.64
+"Centre St & Worth St"	afternoon	48.55	1	0	184	94.58	492	38.64
+"Centre St & Worth St"	evening	14.13	1	0	184	94.58	492	38.64
+"Centre St & Worth St"	night	1.19	1	0	184	94.58	492	38.64
+"West St & Chambers St"	morning	81.35	2	1	33	292.03	51	267.31
+"West St & Chambers St"	afternoon	137.42	2	1	33	292.03	51	267.31
+"West St & Chambers St"	evening	95.42	2	1	33	292.03	51	267.31
+"West St & Chambers St"	night	3.32	2	1	33	292.03	51	267.31
+"Water - Whitehall Plaza"	morning	13.71	1	0	184	94.58	492	38.64
+"Water - Whitehall Plaza"	afternoon	39.58	1	0	184	94.58	492	38.64
+"Water - Whitehall Plaza"	evening	14.71	1	0	184	94.58	492	38.64
+"Water - Whitehall Plaza"	night	0.52	1	0	184	94.58	492	38.64
+"11 Ave & W 41 St"	morning	51.42	4	2	118	173.67	193	140.11
+"11 Ave & W 41 St"	afternoon	50.55	4	2	118	173.67	193	140.11
+"11 Ave & W 41 St"	evening	43.61	4	2	118	173.67	193	140.11
+"11 Ave & W 41 St"	night	7.03	4	2	118	173.67	193	140.11
+"Forsyth St & Canal St"	morning	37.97	4	2	118	173.67	193	140.11
+"Forsyth St & Canal St"	afternoon	56.42	4	2	118	173.67	193	140.11
+"Forsyth St & Canal St"	evening	42.87	4	2	118	173.67	193	140.11
+"Forsyth St & Canal St"	night	3.45	4	2	118	173.67	193	140.11
+"St. Nicholas Ave & W 126 St"	morning	9.29	0	0	430	29.5	492	38.64
+"St. Nicholas Ave & W 126 St"	afternoon	14.1	0	0	430	29.5	492	38.64
+"St. Nicholas Ave & W 126 St"	evening	10.29	0	0	430	29.5	492	38.64
+"St. Nicholas Ave & W 126 St"	night	1.1	0	0	430	29.5	492	38.64
+"W 89 St & Columbus Ave"	morning	58.03	1	2	184	94.58	193	140.11
+"W 89 St & Columbus Ave"	afternoon	46.87	1	2	184	94.58	193	140.11
+"W 89 St & Columbus Ave"	evening	25.03	1	2	184	94.58	193	140.11
+"W 89 St & Columbus Ave"	night	0.77	1	2	184	94.58	193	140.11
+"E 12 St & 3 Ave"	morning	45.42	4	1	118	173.67	51	267.31
+"E 12 St & 3 Ave"	afternoon	82.23	4	1	118	173.67	51	267.31
+"E 12 St & 3 Ave"	evening	84.65	4	1	118	173.67	51	267.31
+"E 12 St & 3 Ave"	night	6.77	4	1	118	173.67	51	267.31
+"Duffield St & Willoughby St"	morning	13.35	1	0	184	94.58	492	38.64
+"Duffield St & Willoughby St"	afternoon	28.35	1	0	184	94.58	492	38.64
+"Duffield St & Willoughby St"	evening	21.23	1	0	184	94.58	492	38.64
+"Duffield St & Willoughby St"	night	1.68	1	0	184	94.58	492	38.64
+"St Johns Pl & Washington Ave"	morning	10.39	0	0	430	29.5	492	38.64
+"St Johns Pl & Washington Ave"	afternoon	8.94	0	0	430	29.5	492	38.64
+"St Johns Pl & Washington Ave"	evening	9.0	0	0	430	29.5	492	38.64
+"St Johns Pl & Washington Ave"	night	1.06	0	0	430	29.5	492	38.64
+"2 Ave & 9 St"	morning	3.32	0	0	430	29.5	492	38.64
+"2 Ave & 9 St"	afternoon	6.26	0	0	430	29.5	492	38.64
+"2 Ave & 9 St"	evening	4.45	0	0	430	29.5	492	38.64
+"2 Ave & 9 St"	night	0.68	0	0	430	29.5	492	38.64
+"State St & Smith St"	morning	17.32	0	0	430	29.5	492	38.64
+"State St & Smith St"	afternoon	22.1	0	0	430	29.5	492	38.64
+"State St & Smith St"	evening	18.29	0	0	430	29.5	492	38.64
+"State St & Smith St"	night	0.97	0	0	430	29.5	492	38.64
+"S 3 St & Bedford Ave"	morning	21.26	1	0	184	94.58	492	38.64
+"S 3 St & Bedford Ave"	afternoon	20.03	1	0	184	94.58	492	38.64
+"S 3 St & Bedford Ave"	evening	24.16	1	0	184	94.58	492	38.64
+"S 3 St & Bedford Ave"	night	1.71	1	0	184	94.58	492	38.64
+"Monroe St & Bedford Ave"	morning	15.65	0	0	430	29.5	492	38.64
+"Monroe St & Bedford Ave"	afternoon	11.71	0	0	430	29.5	492	38.64
+"Monroe St & Bedford Ave"	evening	10.42	0	0	430	29.5	492	38.64
+"Monroe St & Bedford Ave"	night	0.94	0	0	430	29.5	492	38.64
+"Central Park W & W 96 St"	morning	52.19	1	2	184	94.58	193	140.11
+"Central Park W & W 96 St"	afternoon	62.65	1	2	184	94.58	193	140.11
+"Central Park W & W 96 St"	evening	28.23	1	2	184	94.58	193	140.11
+"Central Park W & W 96 St"	night	1.58	1	2	184	94.58	193	140.11
+"W 41 St & 8 Ave"	morning	65.77	2	1	33	292.03	51	267.31
+"W 41 St & 8 Ave"	afternoon	100.71	2	1	33	292.03	51	267.31
+"W 41 St & 8 Ave"	evening	113.19	2	1	33	292.03	51	267.31
+"W 41 St & 8 Ave"	night	8.94	2	1	33	292.03	51	267.31
+"Fulton St & Broadway"	morning	46.52	4	2	118	173.67	193	140.11
+"Fulton St & Broadway"	afternoon	69.42	4	2	118	173.67	193	140.11
+"Fulton St & Broadway"	evening	37.0	4	2	118	173.67	193	140.11
+"Fulton St & Broadway"	night	2.68	4	2	118	173.67	193	140.11
+"Fulton St & Clermont Ave"	morning	10.23	0	0	430	29.5	492	38.64
+"Fulton St & Clermont Ave"	afternoon	7.42	0	0	430	29.5	492	38.64
+"Fulton St & Clermont Ave"	evening	5.68	0	0	430	29.5	492	38.64
+"Fulton St & Clermont Ave"	night	0.42	0	0	430	29.5	492	38.64
+"Leonard St & Nassau Ave"	morning	15.87	0	0	430	29.5	492	38.64
+"Leonard St & Nassau Ave"	afternoon	13.97	0	0	430	29.5	492	38.64
+"Leonard St & Nassau Ave"	evening	15.39	0	0	430	29.5	492	38.64
+"Leonard St & Nassau Ave"	night	1.39	0	0	430	29.5	492	38.64
+"E 82 St & East End Ave"	morning	23.61	0	0	430	29.5	492	38.64
+"E 82 St & East End Ave"	afternoon	11.06	0	0	430	29.5	492	38.64
+"E 82 St & East End Ave"	evening	6.68	0	0	430	29.5	492	38.64
+"E 82 St & East End Ave"	night	0.23	0	0	430	29.5	492	38.64
+"E 2 St & 2 Ave"	morning	42.06	4	2	118	173.67	193	140.11
+"E 2 St & 2 Ave"	afternoon	55.45	4	2	118	173.67	193	140.11
+"E 2 St & 2 Ave"	evening	57.77	4	2	118	173.67	193	140.11
+"E 2 St & 2 Ave"	night	7.68	4	2	118	173.67	193	140.11
+"28 Ave & 44 St"	morning	7.29	0	0	430	29.5	492	38.64
+"28 Ave & 44 St"	afternoon	3.32	0	0	430	29.5	492	38.64
+"28 Ave & 44 St"	evening	3.94	0	0	430	29.5	492	38.64
+"28 Ave & 44 St"	night	0.61	0	0	430	29.5	492	38.64
+"Carroll St & Columbia St"	morning	17.39	0	0	430	29.5	492	38.64
+"Carroll St & Columbia St"	afternoon	12.13	0	0	430	29.5	492	38.64
+"Carroll St & Columbia St"	evening	8.42	0	0	430	29.5	492	38.64
+"Carroll St & Columbia St"	night	0.42	0	0	430	29.5	492	38.64
+"S 4 St & Rodney St"	morning	12.97	0	0	430	29.5	492	38.64
+"S 4 St & Rodney St"	afternoon	14.97	0	0	430	29.5	492	38.64
+"S 4 St & Rodney St"	evening	14.52	0	0	430	29.5	492	38.64
+"S 4 St & Rodney St"	night	1.94	0	0	430	29.5	492	38.64
+"Grand Army Plaza & Central Park S"	morning	59.39	4	1	118	173.67	51	267.31
+"Grand Army Plaza & Central Park S"	afternoon	165.65	4	1	118	173.67	51	267.31
+"Grand Army Plaza & Central Park S"	evening	48.94	4	1	118	173.67	51	267.31
+"Grand Army Plaza & Central Park S"	night	2.23	4	1	118	173.67	51	267.31
+"Berkeley Pl & 6 Ave"	morning	14.45	0	0	430	29.5	492	38.64
+"Berkeley Pl & 6 Ave"	afternoon	9.26	0	0	430	29.5	492	38.64
+"Berkeley Pl & 6 Ave"	evening	8.23	0	0	430	29.5	492	38.64
+"Berkeley Pl & 6 Ave"	night	0.39	0	0	430	29.5	492	38.64
+"W 46 St & 11 Ave"	morning	58.03	1	2	184	94.58	193	140.11
+"W 46 St & 11 Ave"	afternoon	43.52	1	2	184	94.58	193	140.11
+"W 46 St & 11 Ave"	evening	29.9	1	2	184	94.58	193	140.11
+"W 46 St & 11 Ave"	night	3.13	1	2	184	94.58	193	140.11
+"Nassau Ave & Russell St"	morning	26.16	0	0	430	29.5	492	38.64
+"Nassau Ave & Russell St"	afternoon	15.39	0	0	430	29.5	492	38.64
+"Nassau Ave & Russell St"	evening	14.97	0	0	430	29.5	492	38.64
+"Nassau Ave & Russell St"	night	1.26	0	0	430	29.5	492	38.64
+"E 39 St & 2 Ave"	morning	64.84	4	2	118	173.67	193	140.11
+"E 39 St & 2 Ave"	afternoon	67.45	4	2	118	173.67	193	140.11
+"E 39 St & 2 Ave"	evening	52.71	4	2	118	173.67	193	140.11
+"E 39 St & 2 Ave"	night	3.77	4	2	118	173.67	193	140.11
+"W 11 St & 6 Ave"	morning	30.74	1	2	184	94.58	193	140.11
+"W 11 St & 6 Ave"	afternoon	44.77	1	2	184	94.58	193	140.11
+"W 11 St & 6 Ave"	evening	42.52	1	2	184	94.58	193	140.11
+"W 11 St & 6 Ave"	night	1.77	1	2	184	94.58	193	140.11
+"E 30 St & Park Ave S"	morning	58.71	4	2	118	173.67	193	140.11
+"E 30 St & Park Ave S"	afternoon	72.03	4	2	118	173.67	193	140.11
+"E 30 St & Park Ave S"	evening	32.65	4	2	118	173.67	193	140.11
+"E 30 St & Park Ave S"	night	2.97	4	2	118	173.67	193	140.11
+"Clinton Ave & Myrtle Ave"	morning	32.32	1	0	184	94.58	492	38.64
+"Clinton Ave & Myrtle Ave"	afternoon	22.58	1	0	184	94.58	492	38.64
+"Clinton Ave & Myrtle Ave"	evening	16.13	1	0	184	94.58	492	38.64
+"Clinton Ave & Myrtle Ave"	night	0.9	1	0	184	94.58	492	38.64
+"E 25 St & 2 Ave"	morning	56.45	4	2	118	173.67	193	140.11
+"E 25 St & 2 Ave"	afternoon	67.45	4	2	118	173.67	193	140.11
+"E 25 St & 2 Ave"	evening	69.13	4	2	118	173.67	193	140.11
+"E 25 St & 2 Ave"	night	5.13	4	2	118	173.67	193	140.11
+"Thompson St & Bleecker St"	morning	10.1	0	0	430	29.5	492	38.64
+"Thompson St & Bleecker St"	afternoon	18.74	0	0	430	29.5	492	38.64
+"Thompson St & Bleecker St"	evening	22.13	0	0	430	29.5	492	38.64
+"Thompson St & Bleecker St"	night	2.1	0	0	430	29.5	492	38.64
+"Park Ave & Marcus Garvey Blvd"	morning	3.39	0	3	430	29.5	29	18.21
+"Park Ave & Marcus Garvey Blvd"	afternoon	4.58	0	3	430	29.5	29	18.21
+"Park Ave & Marcus Garvey Blvd"	evening	3.29	0	3	430	29.5	29	18.21
+"Park Ave & Marcus Garvey Blvd"	night	0.94	0	3	430	29.5	29	18.21
+"Grand St & Elizabeth St"	morning	52.94	4	1	118	173.67	51	267.31
+"Grand St & Elizabeth St"	afternoon	101.45	4	1	118	173.67	51	267.31
+"Grand St & Elizabeth St"	evening	64.32	4	1	118	173.67	51	267.31
+"Grand St & Elizabeth St"	night	4.52	4	1	118	173.67	51	267.31
+"Adelphi St & Myrtle Ave"	morning	23.42	0	0	430	29.5	492	38.64
+"Adelphi St & Myrtle Ave"	afternoon	20.77	0	0	430	29.5	492	38.64
+"Adelphi St & Myrtle Ave"	evening	13.9	0	0	430	29.5	492	38.64
+"Adelphi St & Myrtle Ave"	night	0.77	0	0	430	29.5	492	38.64
+"Central Park West & W 85 St"	morning	36.97	1	2	184	94.58	193	140.11
+"Central Park West & W 85 St"	afternoon	63.0	1	2	184	94.58	193	140.11
+"Central Park West & W 85 St"	evening	22.94	1	2	184	94.58	193	140.11
+"Central Park West & W 85 St"	night	1.52	1	2	184	94.58	193	140.11
+"W 13 St & 7 Ave"	morning	42.61	4	2	118	173.67	193	140.11
+"W 13 St & 7 Ave"	afternoon	65.03	4	2	118	173.67	193	140.11
+"W 13 St & 7 Ave"	evening	60.52	4	2	118	173.67	193	140.11
+"W 13 St & 7 Ave"	night	4.19	4	2	118	173.67	193	140.11
+"E 7 St & Avenue A"	morning	69.52	4	2	118	173.67	193	140.11
+"E 7 St & Avenue A"	afternoon	61.61	4	2	118	173.67	193	140.11
+"E 7 St & Avenue A"	evening	51.39	4	2	118	173.67	193	140.11
+"E 7 St & Avenue A"	night	7.0	4	2	118	173.67	193	140.11
+"24 Ave & 29 St"	morning	2.94	0	0	430	29.5	492	38.64
+"24 Ave & 29 St"	afternoon	4.23	0	0	430	29.5	492	38.64
+"24 Ave & 29 St"	evening	5.87	0	0	430	29.5	492	38.64
+"24 Ave & 29 St"	night	0.81	0	0	430	29.5	492	38.64
+"28 St & 40 Ave"	morning	0.61	0	0	430	29.5	492	38.64
+"28 St & 40 Ave"	afternoon	0.29	0	0	430	29.5	492	38.64
+"28 St & 40 Ave"	evening	0.19	0	0	430	29.5	492	38.64
+"28 St & 40 Ave"	night	0.06	0	0	430	29.5	492	38.64
+"31 St & Northern Blvd"	morning	3.55	0	0	430	29.5	492	38.64
+"31 St & Northern Blvd"	afternoon	3.65	0	0	430	29.5	492	38.64
+"31 St & Northern Blvd"	evening	3.9	0	0	430	29.5	492	38.64
+"31 St & Northern Blvd"	night	0.19	0	0	430	29.5	492	38.64
+"Lexington Ave & E 24 St"	morning	12.77	0	0	430	29.5	492	38.64
+"Lexington Ave & E 24 St"	afternoon	12.32	0	0	430	29.5	492	38.64
+"Lexington Ave & E 24 St"	evening	7.94	0	0	430	29.5	492	38.64
+"Lexington Ave & E 24 St"	night	0.32	0	0	430	29.5	492	38.64
+"E 72 St & York Ave"	morning	52.9	1	2	184	94.58	193	140.11
+"E 72 St & York Ave"	afternoon	35.16	1	2	184	94.58	193	140.11
+"E 72 St & York Ave"	evening	22.94	1	2	184	94.58	193	140.11
+"E 72 St & York Ave"	night	1.48	1	2	184	94.58	193	140.11
+"E 51 St & 1 Ave"	morning	20.9	1	0	184	94.58	492	38.64
+"E 51 St & 1 Ave"	afternoon	25.65	1	0	184	94.58	492	38.64
+"E 51 St & 1 Ave"	evening	23.48	1	0	184	94.58	492	38.64
+"E 51 St & 1 Ave"	night	1.29	1	0	184	94.58	492	38.64
+"E 15 St & 3 Ave"	morning	52.58	4	2	118	173.67	193	140.11
+"E 15 St & 3 Ave"	afternoon	67.81	4	2	118	173.67	193	140.11
+"E 15 St & 3 Ave"	evening	64.1	4	2	118	173.67	193	140.11
+"E 15 St & 3 Ave"	night	4.13	4	2	118	173.67	193	140.11
+"Clinton St & Joralemon St"	morning	30.94	1	0	184	94.58	492	38.64
+"Clinton St & Joralemon St"	afternoon	32.42	1	0	184	94.58	492	38.64
+"Clinton St & Joralemon St"	evening	17.58	1	0	184	94.58	492	38.64
+"Clinton St & Joralemon St"	night	1.13	1	0	184	94.58	492	38.64
+"Cooper Square & Astor Pl"	morning	81.0	2	1	33	292.03	51	267.31
+"Cooper Square & Astor Pl"	afternoon	93.71	2	1	33	292.03	51	267.31
+"Cooper Square & Astor Pl"	evening	83.97	2	1	33	292.03	51	267.31
+"Cooper Square & Astor Pl"	night	7.16	2	1	33	292.03	51	267.31
+"E 24 St & Park Ave S"	morning	83.19	2	1	33	292.03	51	267.31
+"E 24 St & Park Ave S"	afternoon	144.26	2	1	33	292.03	51	267.31
+"E 24 St & Park Ave S"	evening	58.9	2	1	33	292.03	51	267.31
+"E 24 St & Park Ave S"	night	2.61	2	1	33	292.03	51	267.31
+"4 Ave & 9 St"	morning	11.39	0	0	430	29.5	492	38.64
+"4 Ave & 9 St"	afternoon	12.65	0	0	430	29.5	492	38.64
+"4 Ave & 9 St"	evening	10.81	0	0	430	29.5	492	38.64
+"4 Ave & 9 St"	night	1.16	0	0	430	29.5	492	38.64
+"Vernon Blvd & 50 Ave"	morning	18.1	1	0	184	94.58	492	38.64
+"Vernon Blvd & 50 Ave"	afternoon	33.26	1	0	184	94.58	492	38.64
+"Vernon Blvd & 50 Ave"	evening	26.03	1	0	184	94.58	492	38.64
+"Vernon Blvd & 50 Ave"	night	0.39	1	0	184	94.58	492	38.64
+"Hanson Pl & Ashland Pl"	morning	48.13	4	2	118	173.67	193	140.11
+"Hanson Pl & Ashland Pl"	afternoon	54.9	4	2	118	173.67	193	140.11
+"Hanson Pl & Ashland Pl"	evening	56.87	4	2	118	173.67	193	140.11
+"Hanson Pl & Ashland Pl"	night	3.03	4	2	118	173.67	193	140.11
+"7 St & 3 Ave"	morning	5.84	0	0	430	29.5	492	38.64
+"7 St & 3 Ave"	afternoon	9.39	0	0	430	29.5	492	38.64
+"7 St & 3 Ave"	evening	8.94	0	0	430	29.5	492	38.64
+"7 St & 3 Ave"	night	0.45	0	0	430	29.5	492	38.64
+"Lexington Ave & E 111 St"	morning	10.23	0	0	430	29.5	492	38.64
+"Lexington Ave & E 111 St"	afternoon	9.65	0	0	430	29.5	492	38.64
+"Lexington Ave & E 111 St"	evening	8.32	0	0	430	29.5	492	38.64
+"Lexington Ave & E 111 St"	night	1.94	0	0	430	29.5	492	38.64
+"E 20 St & 2 Ave"	morning	59.32	4	2	118	173.67	193	140.11
+"E 20 St & 2 Ave"	afternoon	55.26	4	2	118	173.67	193	140.11
+"E 20 St & 2 Ave"	evening	60.29	4	2	118	173.67	193	140.11
+"E 20 St & 2 Ave"	night	3.42	4	2	118	173.67	193	140.11
+"Pike St & E Broadway"	morning	28.39	1	0	184	94.58	492	38.64
+"Pike St & E Broadway"	afternoon	32.16	1	0	184	94.58	492	38.64
+"Pike St & E Broadway"	evening	23.45	1	0	184	94.58	492	38.64
+"Pike St & E Broadway"	night	1.39	1	0	184	94.58	492	38.64
+"Broadway & W 32 St"	morning	48.68	4	2	118	173.67	193	140.11
+"Broadway & W 32 St"	afternoon	76.68	4	2	118	173.67	193	140.11
+"Broadway & W 32 St"	evening	51.45	4	2	118	173.67	193	140.11
+"Broadway & W 32 St"	night	3.13	4	2	118	173.67	193	140.11
+"W 20 St & 8 Ave"	morning	32.19	4	2	118	173.67	193	140.11
+"W 20 St & 8 Ave"	afternoon	49.48	4	2	118	173.67	193	140.11
+"W 20 St & 8 Ave"	evening	56.84	4	2	118	173.67	193	140.11
+"W 20 St & 8 Ave"	night	3.61	4	2	118	173.67	193	140.11
+"W 42 St & 8 Ave"	morning	41.65	4	2	118	173.67	193	140.11
+"W 42 St & 8 Ave"	afternoon	43.68	4	2	118	173.67	193	140.11
+"W 42 St & 8 Ave"	evening	61.13	4	2	118	173.67	193	140.11
+"W 42 St & 8 Ave"	night	7.55	4	2	118	173.67	193	140.11
+"W 87 St & Amsterdam Ave"	morning	24.65	1	0	184	94.58	492	38.64
+"W 87 St & Amsterdam Ave"	afternoon	20.32	1	0	184	94.58	492	38.64
+"W 87 St & Amsterdam Ave"	evening	18.39	1	0	184	94.58	492	38.64
+"W 87 St & Amsterdam Ave"	night	1.06	1	0	184	94.58	492	38.64
+"E 19 St & 3 Ave"	morning	32.26	1	2	184	94.58	193	140.11
+"E 19 St & 3 Ave"	afternoon	42.42	1	2	184	94.58	193	140.11
+"E 19 St & 3 Ave"	evening	42.32	1	2	184	94.58	193	140.11
+"E 19 St & 3 Ave"	night	3.1	1	2	184	94.58	193	140.11
+"Central Park West & W 72 St"	morning	47.87	4	2	118	173.67	193	140.11
+"Central Park West & W 72 St"	afternoon	91.84	4	2	118	173.67	193	140.11
+"Central Park West & W 72 St"	evening	38.65	4	2	118	173.67	193	140.11
+"Central Park West & W 72 St"	night	2.03	4	2	118	173.67	193	140.11
+"Rivington St & Chrystie St"	morning	27.48	1	2	184	94.58	193	140.11
+"Rivington St & Chrystie St"	afternoon	34.32	1	2	184	94.58	193	140.11
+"Rivington St & Chrystie St"	evening	29.39	1	2	184	94.58	193	140.11
+"Rivington St & Chrystie St"	night	3.52	1	2	184	94.58	193	140.11
+"Hope St & Union Ave"	morning	15.03	0	0	430	29.5	492	38.64
+"Hope St & Union Ave"	afternoon	14.32	0	0	430	29.5	492	38.64
+"Hope St & Union Ave"	evening	15.39	0	0	430	29.5	492	38.64
+"Hope St & Union Ave"	night	2.71	0	0	430	29.5	492	38.64
+"S 4 St & Wythe Ave"	morning	43.65	1	2	184	94.58	193	140.11
+"S 4 St & Wythe Ave"	afternoon	44.71	1	2	184	94.58	193	140.11
+"S 4 St & Wythe Ave"	evening	37.97	1	2	184	94.58	193	140.11
+"S 4 St & Wythe Ave"	night	3.61	1	2	184	94.58	193	140.11
+"E 85 St & 3 Ave"	morning	34.65	1	2	184	94.58	193	140.11
+"E 85 St & 3 Ave"	afternoon	45.26	1	2	184	94.58	193	140.11
+"E 85 St & 3 Ave"	evening	41.71	1	2	184	94.58	193	140.11
+"E 85 St & 3 Ave"	night	2.45	1	2	184	94.58	193	140.11
+"W 17 St & 9 Ave"	morning	30.97	1	2	184	94.58	193	140.11
+"W 17 St & 9 Ave"	afternoon	53.58	1	2	184	94.58	193	140.11
+"W 17 St & 9 Ave"	evening	27.35	1	2	184	94.58	193	140.11
+"W 17 St & 9 Ave"	night	3.68	1	2	184	94.58	193	140.11
+"Fulton St & Utica Ave"	morning	6.61	0	3	430	29.5	29	18.21
+"Fulton St & Utica Ave"	afternoon	8.68	0	3	430	29.5	29	18.21
+"Fulton St & Utica Ave"	evening	7.84	0	3	430	29.5	29	18.21
+"Fulton St & Utica Ave"	night	0.48	0	3	430	29.5	29	18.21
+"W 95 St & Broadway"	morning	29.52	1	2	184	94.58	193	140.11
+"W 95 St & Broadway"	afternoon	32.1	1	2	184	94.58	193	140.11
+"W 95 St & Broadway"	evening	29.13	1	2	184	94.58	193	140.11
+"W 95 St & Broadway"	night	2.71	1	2	184	94.58	193	140.11
+"5 Ave & E 103 St"	morning	18.32	0	0	430	29.5	492	38.64
+"5 Ave & E 103 St"	afternoon	41.94	0	0	430	29.5	492	38.64
+"5 Ave & E 103 St"	evening	9.97	0	0	430	29.5	492	38.64
+"5 Ave & E 103 St"	night	0.29	0	0	430	29.5	492	38.64
+"Montrose Ave & Bushwick Ave"	morning	12.39	0	0	430	29.5	492	38.64
+"Montrose Ave & Bushwick Ave"	afternoon	18.16	0	0	430	29.5	492	38.64
+"Montrose Ave & Bushwick Ave"	evening	12.87	0	0	430	29.5	492	38.64
+"Montrose Ave & Bushwick Ave"	night	2.61	0	0	430	29.5	492	38.64
+"W 76 St & Columbus Ave"	morning	37.29	1	0	184	94.58	492	38.64
+"W 76 St & Columbus Ave"	afternoon	29.94	1	0	184	94.58	492	38.64
+"W 76 St & Columbus Ave"	evening	17.1	1	0	184	94.58	492	38.64
+"W 76 St & Columbus Ave"	night	1.68	1	0	184	94.58	492	38.64
+"Canal St & Rutgers St"	morning	51.87	4	2	118	173.67	193	140.11
+"Canal St & Rutgers St"	afternoon	65.0	4	2	118	173.67	193	140.11
+"Canal St & Rutgers St"	evening	50.68	4	2	118	173.67	193	140.11
+"Canal St & Rutgers St"	night	4.9	4	2	118	173.67	193	140.11
+"Central Park West & W 100 St"	morning	20.16	0	0	430	29.5	492	38.64
+"Central Park West & W 100 St"	afternoon	29.29	0	0	430	29.5	492	38.64
+"Central Park West & W 100 St"	evening	8.16	0	0	430	29.5	492	38.64
+"Central Park West & W 100 St"	night	0.42	0	0	430	29.5	492	38.64
+"W Broadway & Spring Street"	morning	27.48	4	2	118	173.67	193	140.11
+"W Broadway & Spring Street"	afternoon	66.9	4	2	118	173.67	193	140.11
+"W Broadway & Spring Street"	evening	53.06	4	2	118	173.67	193	140.11
+"W Broadway & Spring Street"	night	2.68	4	2	118	173.67	193	140.11
+"W 43 St & 10 Ave"	morning	44.84	4	2	118	173.67	193	140.11
+"W 43 St & 10 Ave"	afternoon	50.65	4	2	118	173.67	193	140.11
+"W 43 St & 10 Ave"	evening	43.84	4	2	118	173.67	193	140.11
+"W 43 St & 10 Ave"	night	3.81	4	2	118	173.67	193	140.11
+"Bushwick Ave & Powers St"	morning	14.48	0	0	430	29.5	492	38.64
+"Bushwick Ave & Powers St"	afternoon	13.77	0	0	430	29.5	492	38.64
+"Bushwick Ave & Powers St"	evening	11.87	0	0	430	29.5	492	38.64
+"Bushwick Ave & Powers St"	night	1.26	0	0	430	29.5	492	38.64
+"Bayard St & Baxter St"	morning	26.42	1	2	184	94.58	193	140.11
+"Bayard St & Baxter St"	afternoon	53.68	1	2	184	94.58	193	140.11
+"Bayard St & Baxter St"	evening	42.42	1	2	184	94.58	193	140.11
+"Bayard St & Baxter St"	night	2.45	1	2	184	94.58	193	140.11
+"W 64 St & Thelonious Monk Circle"	morning	48.26	1	2	184	94.58	193	140.11
+"W 64 St & Thelonious Monk Circle"	afternoon	30.26	1	2	184	94.58	193	140.11
+"W 64 St & Thelonious Monk Circle"	evening	21.58	1	2	184	94.58	193	140.11
+"W 64 St & Thelonious Monk Circle"	night	0.94	1	2	184	94.58	193	140.11
+"Broadway & W 38 St"	morning	55.68	4	2	118	173.67	193	140.11
+"Broadway & W 38 St"	afternoon	58.16	4	2	118	173.67	193	140.11
+"Broadway & W 38 St"	evening	19.94	4	2	118	173.67	193	140.11
+"Broadway & W 38 St"	night	1.94	4	2	118	173.67	193	140.11
+"W 18 St & 6 Ave"	morning	68.45	2	1	33	292.03	51	267.31
+"W 18 St & 6 Ave"	afternoon	129.13	2	1	33	292.03	51	267.31
+"W 18 St & 6 Ave"	evening	47.9	2	1	33	292.03	51	267.31
+"W 18 St & 6 Ave"	night	1.39	2	1	33	292.03	51	267.31
+"Central Park S & 6 Ave"	morning	69.03	4	1	118	173.67	51	267.31
+"Central Park S & 6 Ave"	afternoon	153.77	4	1	118	173.67	51	267.31
+"Central Park S & 6 Ave"	evening	36.23	4	1	118	173.67	51	267.31
+"Central Park S & 6 Ave"	night	1.84	4	1	118	173.67	51	267.31
+"John St & William St"	morning	17.97	1	0	184	94.58	492	38.64
+"John St & William St"	afternoon	29.35	1	0	184	94.58	492	38.64
+"John St & William St"	evening	16.39	1	0	184	94.58	492	38.64
+"John St & William St"	night	2.03	1	0	184	94.58	492	38.64
+"E 20 St & FDR Drive"	morning	97.0	4	2	118	173.67	193	140.11
+"E 20 St & FDR Drive"	afternoon	60.29	4	2	118	173.67	193	140.11
+"E 20 St & FDR Drive"	evening	41.9	4	2	118	173.67	193	140.11
+"E 20 St & FDR Drive"	night	3.13	4	2	118	173.67	193	140.11
+"W 22 St & 8 Ave"	morning	42.9	4	2	118	173.67	193	140.11
+"W 22 St & 8 Ave"	afternoon	70.74	4	2	118	173.67	193	140.11
+"W 22 St & 8 Ave"	evening	73.19	4	2	118	173.67	193	140.11
+"W 22 St & 8 Ave"	night	4.23	4	2	118	173.67	193	140.11
+"Division St & Bowery"	morning	29.97	1	2	184	94.58	193	140.11
+"Division St & Bowery"	afternoon	42.23	1	2	184	94.58	193	140.11
+"Division St & Bowery"	evening	33.94	1	2	184	94.58	193	140.11
+"Division St & Bowery"	night	3.0	1	2	184	94.58	193	140.11
+"W 27 St & 10 Ave"	morning	57.97	4	2	118	173.67	193	140.11
+"W 27 St & 10 Ave"	afternoon	65.97	4	2	118	173.67	193	140.11
+"W 27 St & 10 Ave"	evening	52.35	4	2	118	173.67	193	140.11
+"W 27 St & 10 Ave"	night	3.9	4	2	118	173.67	193	140.11
+"8 Ave & W 31 St"	morning	161.13	2	1	33	292.03	51	267.31
+"8 Ave & W 31 St"	afternoon	82.45	2	1	33	292.03	51	267.31
+"8 Ave & W 31 St"	evening	76.45	2	1	33	292.03	51	267.31
+"8 Ave & W 31 St"	night	6.06	2	1	33	292.03	51	267.31
+"Pulaski St & Marcus Garvey Blvd"	morning	6.58	0	0	430	29.5	492	38.64
+"Pulaski St & Marcus Garvey Blvd"	afternoon	4.16	0	0	430	29.5	492	38.64
+"Pulaski St & Marcus Garvey Blvd"	evening	2.29	0	0	430	29.5	492	38.64
+"Pulaski St & Marcus Garvey Blvd"	night	0.48	0	0	430	29.5	492	38.64
+"E 2 St & Avenue A"	morning	44.42	4	2	118	173.67	193	140.11
+"E 2 St & Avenue A"	afternoon	51.52	4	2	118	173.67	193	140.11
+"E 2 St & Avenue A"	evening	40.58	4	2	118	173.67	193	140.11
+"E 2 St & Avenue A"	night	7.06	4	2	118	173.67	193	140.11
+"21 St & 43 Ave"	morning	1.23	0	0	430	29.5	492	38.64
+"21 St & 43 Ave"	afternoon	4.03	0	0	430	29.5	492	38.64
+"21 St & 43 Ave"	evening	3.55	0	0	430	29.5	492	38.64
+"21 St & 43 Ave"	night	0.32	0	0	430	29.5	492	38.64
+"E 25 St & 1 Ave"	morning	55.74	1	2	184	94.58	193	140.11
+"E 25 St & 1 Ave"	afternoon	37.74	1	2	184	94.58	193	140.11
+"E 25 St & 1 Ave"	evening	33.94	1	2	184	94.58	193	140.11
+"E 25 St & 1 Ave"	night	2.55	1	2	184	94.58	193	140.11
+"W 27 St & 7 Ave"	morning	72.94	4	1	118	173.67	51	267.31
+"W 27 St & 7 Ave"	afternoon	92.9	4	1	118	173.67	51	267.31
+"W 27 St & 7 Ave"	evening	43.97	4	1	118	173.67	51	267.31
+"W 27 St & 7 Ave"	night	1.87	4	1	118	173.67	51	267.31
+"Lenox Ave & W 111 St"	morning	26.52	1	0	184	94.58	492	38.64
+"Lenox Ave & W 111 St"	afternoon	31.65	1	0	184	94.58	492	38.64
+"Lenox Ave & W 111 St"	evening	18.48	1	0	184	94.58	492	38.64
+"Lenox Ave & W 111 St"	night	1.81	1	0	184	94.58	492	38.64
+"West End Ave & W 107 St"	morning	24.23	0	0	430	29.5	492	38.64
+"West End Ave & W 107 St"	afternoon	13.35	0	0	430	29.5	492	38.64
+"West End Ave & W 107 St"	evening	9.84	0	0	430	29.5	492	38.64
+"West End Ave & W 107 St"	night	1.03	0	0	430	29.5	492	38.64
+"W 38 St & 8 Ave"	morning	86.1	2	1	33	292.03	51	267.31
+"W 38 St & 8 Ave"	afternoon	110.48	2	1	33	292.03	51	267.31
+"W 38 St & 8 Ave"	evening	80.55	2	1	33	292.03	51	267.31
+"W 38 St & 8 Ave"	night	3.71	2	1	33	292.03	51	267.31
+"Vernon Blvd & 10 St"	morning	4.29	0	0	430	29.5	492	38.64
+"Vernon Blvd & 10 St"	afternoon	9.77	0	0	430	29.5	492	38.64
+"Vernon Blvd & 10 St"	evening	3.55	0	0	430	29.5	492	38.64
+"Vernon Blvd & 10 St"	night	0.52	0	0	430	29.5	492	38.64
+"Bergen St & Flatbush Ave"	morning	15.35	0	0	430	29.5	492	38.64
+"Bergen St & Flatbush Ave"	afternoon	21.0	0	0	430	29.5	492	38.64
+"Bergen St & Flatbush Ave"	evening	18.71	0	0	430	29.5	492	38.64
+"Bergen St & Flatbush Ave"	night	1.42	0	0	430	29.5	492	38.64
+"Graham Ave & Withers St"	morning	9.68	0	0	430	29.5	492	38.64
+"Graham Ave & Withers St"	afternoon	9.97	0	0	430	29.5	492	38.64
+"Graham Ave & Withers St"	evening	10.35	0	0	430	29.5	492	38.64
+"Graham Ave & Withers St"	night	1.39	0	0	430	29.5	492	38.64
+"W 20 St & 11 Ave"	morning	74.35	2	1	33	292.03	51	267.31
+"W 20 St & 11 Ave"	afternoon	123.58	2	1	33	292.03	51	267.31
+"W 20 St & 11 Ave"	evening	97.39	2	1	33	292.03	51	267.31
+"W 20 St & 11 Ave"	night	1.03	2	1	33	292.03	51	267.31
+"N 11 St & Kent Ave"	morning	6.1	0	0	430	29.5	492	38.64
+"N 11 St & Kent Ave"	afternoon	15.32	0	0	430	29.5	492	38.64
+"N 11 St & Kent Ave"	evening	11.68	0	0	430	29.5	492	38.64
+"N 11 St & Kent Ave"	night	1.84	0	0	430	29.5	492	38.64
+"Broadway & W 56 St"	morning	70.9	4	2	118	173.67	193	140.11
+"Broadway & W 56 St"	afternoon	66.29	4	2	118	173.67	193	140.11
+"Broadway & W 56 St"	evening	34.06	4	2	118	173.67	193	140.11
+"Broadway & W 56 St"	night	2.39	4	2	118	173.67	193	140.11
+"Broadway & 12 St"	morning	5.32	0	0	430	29.5	492	38.64
+"Broadway & 12 St"	afternoon	3.97	0	0	430	29.5	492	38.64
+"Broadway & 12 St"	evening	2.74	0	0	430	29.5	492	38.64
+"Broadway & 12 St"	night	0.39	0	0	430	29.5	492	38.64
+"Metropolitan Ave & Meeker Ave"	morning	14.06	0	0	430	29.5	492	38.64
+"Metropolitan Ave & Meeker Ave"	afternoon	14.97	0	0	430	29.5	492	38.64
+"Metropolitan Ave & Meeker Ave"	evening	17.87	0	0	430	29.5	492	38.64
+"Metropolitan Ave & Meeker Ave"	night	3.32	0	0	430	29.5	492	38.64
+"Willoughby Ave & Tompkins Ave"	morning	7.77	0	0	430	29.5	492	38.64
+"Willoughby Ave & Tompkins Ave"	afternoon	6.26	0	0	430	29.5	492	38.64
+"Willoughby Ave & Tompkins Ave"	evening	3.71	0	0	430	29.5	492	38.64
+"Willoughby Ave & Tompkins Ave"	night	0.48	0	0	430	29.5	492	38.64
+"Park Pl & Franklin Ave"	morning	7.1	0	0	430	29.5	492	38.64
+"Park Pl & Franklin Ave"	afternoon	5.42	0	0	430	29.5	492	38.64
+"Park Pl & Franklin Ave"	evening	6.48	0	0	430	29.5	492	38.64
+"Park Pl & Franklin Ave"	night	0.84	0	0	430	29.5	492	38.64
+"West End Ave & W 94 St"	morning	23.81	0	0	430	29.5	492	38.64
+"West End Ave & W 94 St"	afternoon	17.48	0	0	430	29.5	492	38.64
+"West End Ave & W 94 St"	evening	9.23	0	0	430	29.5	492	38.64
+"West End Ave & W 94 St"	night	0.39	0	0	430	29.5	492	38.64
+"E 45 St & 3 Ave"	morning	34.74	1	2	184	94.58	193	140.11
+"E 45 St & 3 Ave"	afternoon	59.97	1	2	184	94.58	193	140.11
+"E 45 St & 3 Ave"	evening	17.55	1	2	184	94.58	193	140.11
+"E 45 St & 3 Ave"	night	1.71	1	2	184	94.58	193	140.11
+"9 Ave & W 22 St"	morning	50.03	4	2	118	173.67	193	140.11
+"9 Ave & W 22 St"	afternoon	77.1	4	2	118	173.67	193	140.11
+"9 Ave & W 22 St"	evening	65.77	4	2	118	173.67	193	140.11
+"9 Ave & W 22 St"	night	3.06	4	2	118	173.67	193	140.11
+"Christopher St & Greenwich St"	morning	86.03	2	1	33	292.03	51	267.31
+"Christopher St & Greenwich St"	afternoon	93.77	2	1	33	292.03	51	267.31
+"Christopher St & Greenwich St"	evening	74.84	2	1	33	292.03	51	267.31
+"Christopher St & Greenwich St"	night	4.42	2	1	33	292.03	51	267.31
+"Greene Ave & Nostrand Ave"	morning	6.03	0	0	430	29.5	492	38.64
+"Greene Ave & Nostrand Ave"	afternoon	6.35	0	0	430	29.5	492	38.64
+"Greene Ave & Nostrand Ave"	evening	6.32	0	0	430	29.5	492	38.64
+"Greene Ave & Nostrand Ave"	night	0.97	0	0	430	29.5	492	38.64
+"Mercer St & Spring St"	morning	19.19	1	2	184	94.58	193	140.11
+"Mercer St & Spring St"	afternoon	70.81	1	2	184	94.58	193	140.11
+"Mercer St & Spring St"	evening	39.23	1	2	184	94.58	193	140.11
+"Mercer St & Spring St"	night	1.52	1	2	184	94.58	193	140.11
+"E 75 St & 3 Ave"	morning	17.32	0	0	430	29.5	492	38.64
+"E 75 St & 3 Ave"	afternoon	18.65	0	0	430	29.5	492	38.64
+"E 75 St & 3 Ave"	evening	15.42	0	0	430	29.5	492	38.64
+"E 75 St & 3 Ave"	night	1.03	0	0	430	29.5	492	38.64
+"Fulton St & Waverly Ave"	morning	16.87	0	0	430	29.5	492	38.64
+"Fulton St & Waverly Ave"	afternoon	15.61	0	0	430	29.5	492	38.64
+"Fulton St & Waverly Ave"	evening	15.35	0	0	430	29.5	492	38.64
+"Fulton St & Waverly Ave"	night	2.29	0	0	430	29.5	492	38.64
+"Vernon Blvd & 31 Ave"	morning	6.1	0	0	430	29.5	492	38.64
+"Vernon Blvd & 31 Ave"	afternoon	6.35	0	0	430	29.5	492	38.64
+"Vernon Blvd & 31 Ave"	evening	2.87	0	0	430	29.5	492	38.64
+"Vernon Blvd & 31 Ave"	night	0.19	0	0	430	29.5	492	38.64
+"Pioneer St & Van Brunt St"	morning	7.42	0	0	430	29.5	492	38.64
+"Pioneer St & Van Brunt St"	afternoon	9.74	0	0	430	29.5	492	38.64
+"Pioneer St & Van Brunt St"	evening	6.23	0	0	430	29.5	492	38.64
+"Pioneer St & Van Brunt St"	night	0.45	0	0	430	29.5	492	38.64
+"Lenox Ave & W 130 St"	morning	19.0	0	0	430	29.5	492	38.64
+"Lenox Ave & W 130 St"	afternoon	14.29	0	0	430	29.5	492	38.64
+"Lenox Ave & W 130 St"	evening	9.29	0	0	430	29.5	492	38.64
+"Lenox Ave & W 130 St"	night	1.45	0	0	430	29.5	492	38.64
+"W 13 St & 6 Ave"	morning	18.77	1	0	184	94.58	492	38.64
+"W 13 St & 6 Ave"	afternoon	29.29	1	0	184	94.58	492	38.64
+"W 13 St & 6 Ave"	evening	20.61	1	0	184	94.58	492	38.64
+"W 13 St & 6 Ave"	night	1.61	1	0	184	94.58	492	38.64
+"34 Ave & 13 St"	morning	3.84	0	0	430	29.5	492	38.64
+"34 Ave & 13 St"	afternoon	1.74	0	0	430	29.5	492	38.64
+"34 Ave & 13 St"	evening	1.23	0	0	430	29.5	492	38.64
+"34 Ave & 13 St"	night	0.19	0	0	430	29.5	492	38.64
+"27 St & Hunter St"	morning	5.26	0	0	430	29.5	492	38.64
+"27 St & Hunter St"	afternoon	7.16	0	0	430	29.5	492	38.64
+"27 St & Hunter St"	evening	6.26	0	0	430	29.5	492	38.64
+"27 St & Hunter St"	night	0.9	0	0	430	29.5	492	38.64
+"E 115 St & Lexington Ave"	morning	5.13	0	0	430	29.5	492	38.64
+"E 115 St & Lexington Ave"	afternoon	7.9	0	0	430	29.5	492	38.64
+"E 115 St & Lexington Ave"	evening	7.03	0	0	430	29.5	492	38.64
+"E 115 St & Lexington Ave"	night	1.1	0	0	430	29.5	492	38.64
+"9 Ave & W 28 St"	morning	24.39	1	2	184	94.58	193	140.11
+"9 Ave & W 28 St"	afternoon	44.9	1	2	184	94.58	193	140.11
+"9 Ave & W 28 St"	evening	42.19	1	2	184	94.58	193	140.11
+"9 Ave & W 28 St"	night	4.42	1	2	184	94.58	193	140.11
+"N 6 St & Bedford Ave"	morning	31.97	1	2	184	94.58	193	140.11
+"N 6 St & Bedford Ave"	afternoon	54.61	1	2	184	94.58	193	140.11
+"N 6 St & Bedford Ave"	evening	35.16	1	2	184	94.58	193	140.11
+"N 6 St & Bedford Ave"	night	2.45	1	2	184	94.58	193	140.11
+"31 St & Astoria Blvd"	morning	9.23	0	0	430	29.5	492	38.64
+"31 St & Astoria Blvd"	afternoon	9.1	0	0	430	29.5	492	38.64
+"31 St & Astoria Blvd"	evening	5.71	0	0	430	29.5	492	38.64
+"31 St & Astoria Blvd"	night	0.65	0	0	430	29.5	492	38.64
+"Queens Plaza North & Crescent St"	morning	21.74	1	0	184	94.58	492	38.64
+"Queens Plaza North & Crescent St"	afternoon	38.9	1	0	184	94.58	492	38.64
+"Queens Plaza North & Crescent St"	evening	24.81	1	0	184	94.58	492	38.64
+"Queens Plaza North & Crescent St"	night	2.06	1	0	184	94.58	492	38.64
+"North Moore St & Greenwich St"	morning	31.13	4	2	118	173.67	193	140.11
+"North Moore St & Greenwich St"	afternoon	78.32	4	2	118	173.67	193	140.11
+"North Moore St & Greenwich St"	evening	29.55	4	2	118	173.67	193	140.11
+"North Moore St & Greenwich St"	night	1.29	4	2	118	173.67	193	140.11
+"Verona Pl & Fulton St"	morning	5.87	0	0	430	29.5	492	38.64
+"Verona Pl & Fulton St"	afternoon	8.19	0	0	430	29.5	492	38.64
+"Verona Pl & Fulton St"	evening	8.71	0	0	430	29.5	492	38.64
+"Verona Pl & Fulton St"	night	0.52	0	0	430	29.5	492	38.64
+"Lefferts Pl & Franklin Ave"	morning	9.87	0	0	430	29.5	492	38.64
+"Lefferts Pl & Franklin Ave"	afternoon	7.45	0	0	430	29.5	492	38.64
+"Lefferts Pl & Franklin Ave"	evening	10.74	0	0	430	29.5	492	38.64
+"Lefferts Pl & Franklin Ave"	night	1.68	0	0	430	29.5	492	38.64
+"Bedford Ave & Nassau Ave"	morning	25.23	1	0	184	94.58	492	38.64
+"Bedford Ave & Nassau Ave"	afternoon	29.55	1	0	184	94.58	492	38.64
+"Bedford Ave & Nassau Ave"	evening	28.9	1	0	184	94.58	492	38.64
+"Bedford Ave & Nassau Ave"	night	3.0	1	0	184	94.58	492	38.64
+"McGuinness Blvd & Eagle St"	morning	19.16	0	0	430	29.5	492	38.64
+"McGuinness Blvd & Eagle St"	afternoon	15.13	0	0	430	29.5	492	38.64
+"McGuinness Blvd & Eagle St"	evening	11.9	0	0	430	29.5	492	38.64
+"McGuinness Blvd & Eagle St"	night	0.9	0	0	430	29.5	492	38.64
+"E 128 St & Madison Ave"	morning	7.48	0	0	430	29.5	492	38.64
+"E 128 St & Madison Ave"	afternoon	4.71	0	0	430	29.5	492	38.64
+"E 128 St & Madison Ave"	evening	3.39	0	0	430	29.5	492	38.64
+"E 128 St & Madison Ave"	night	0.45	0	0	430	29.5	492	38.64
+"E 81 St & York Ave"	morning	28.32	0	0	430	29.5	492	38.64
+"E 81 St & York Ave"	afternoon	14.74	0	0	430	29.5	492	38.64
+"E 81 St & York Ave"	evening	12.42	0	0	430	29.5	492	38.64
+"E 81 St & York Ave"	night	1.61	0	0	430	29.5	492	38.64
+"E 48 St & 3 Ave"	morning	19.13	1	2	184	94.58	193	140.11
+"E 48 St & 3 Ave"	afternoon	57.77	1	2	184	94.58	193	140.11
+"E 48 St & 3 Ave"	evening	15.1	1	2	184	94.58	193	140.11
+"E 48 St & 3 Ave"	night	1.23	1	2	184	94.58	193	140.11
+"DeKalb Ave & Skillman St"	morning	12.13	0	3	430	29.5	29	18.21
+"DeKalb Ave & Skillman St"	afternoon	11.06	0	3	430	29.5	29	18.21
+"DeKalb Ave & Skillman St"	evening	8.68	0	3	430	29.5	29	18.21
+"DeKalb Ave & Skillman St"	night	1.03	0	3	430	29.5	29	18.21
+"University Pl & E 14 St"	morning	70.9	2	1	33	292.03	51	267.31
+"University Pl & E 14 St"	afternoon	117.32	2	1	33	292.03	51	267.31
+"University Pl & E 14 St"	evening	82.29	2	1	33	292.03	51	267.31
+"University Pl & E 14 St"	night	4.32	2	1	33	292.03	51	267.31
+"W 52 St & 11 Ave"	morning	45.13	1	2	184	94.58	193	140.11
+"W 52 St & 11 Ave"	afternoon	51.94	1	2	184	94.58	193	140.11
+"W 52 St & 11 Ave"	evening	32.68	1	2	184	94.58	193	140.11
+"W 52 St & 11 Ave"	night	2.87	1	2	184	94.58	193	140.11
+"E 10 St & 5 Ave"	morning	30.1	1	2	184	94.58	193	140.11
+"E 10 St & 5 Ave"	afternoon	47.32	1	2	184	94.58	193	140.11
+"E 10 St & 5 Ave"	evening	35.03	1	2	184	94.58	193	140.11
+"E 10 St & 5 Ave"	night	1.74	1	2	184	94.58	193	140.11
+"1 Ave & E 78 St"	morning	57.23	4	2	118	173.67	193	140.11
+"1 Ave & E 78 St"	afternoon	47.81	4	2	118	173.67	193	140.11
+"1 Ave & E 78 St"	evening	29.9	4	2	118	173.67	193	140.11
+"1 Ave & E 78 St"	night	1.52	4	2	118	173.67	193	140.11
+"Cleveland Pl & Spring St"	morning	65.61	2	1	33	292.03	51	267.31
+"Cleveland Pl & Spring St"	afternoon	113.97	2	1	33	292.03	51	267.31
+"Cleveland Pl & Spring St"	evening	68.16	2	1	33	292.03	51	267.31
+"Cleveland Pl & Spring St"	night	3.65	2	1	33	292.03	51	267.31
+"Broadway & Roebling St"	morning	20.39	1	0	184	94.58	492	38.64
+"Broadway & Roebling St"	afternoon	24.06	1	0	184	94.58	492	38.64
+"Broadway & Roebling St"	evening	18.52	1	0	184	94.58	492	38.64
+"Broadway & Roebling St"	night	2.55	1	0	184	94.58	492	38.64
+"11 Ave & W 27 St"	morning	64.94	4	2	118	173.67	193	140.11
+"11 Ave & W 27 St"	afternoon	82.32	4	2	118	173.67	193	140.11
+"11 Ave & W 27 St"	evening	44.45	4	2	118	173.67	193	140.11
+"11 Ave & W 27 St"	night	2.42	4	2	118	173.67	193	140.11
+"Washington Pl & Broadway"	morning	34.26	4	2	118	173.67	193	140.11
+"Washington Pl & Broadway"	afternoon	85.0	4	2	118	173.67	193	140.11
+"Washington Pl & Broadway"	evening	35.42	4	2	118	173.67	193	140.11
+"Washington Pl & Broadway"	night	2.06	4	2	118	173.67	193	140.11
+"W 45 St & 6 Ave"	morning	29.65	1	2	184	94.58	193	140.11
+"W 45 St & 6 Ave"	afternoon	72.77	1	2	184	94.58	193	140.11
+"W 45 St & 6 Ave"	evening	18.39	1	2	184	94.58	193	140.11
+"W 45 St & 6 Ave"	night	1.74	1	2	184	94.58	193	140.11
+"E 31 St & 3 Ave"	morning	29.19	4	2	118	173.67	193	140.11
+"E 31 St & 3 Ave"	afternoon	60.97	4	2	118	173.67	193	140.11
+"E 31 St & 3 Ave"	evening	53.45	4	2	118	173.67	193	140.11
+"E 31 St & 3 Ave"	night	3.16	4	2	118	173.67	193	140.11
+"31 St & Thomson Ave"	morning	2.97	0	0	430	29.5	492	38.64
+"31 St & Thomson Ave"	afternoon	9.65	0	0	430	29.5	492	38.64
+"31 St & Thomson Ave"	evening	3.71	0	0	430	29.5	492	38.64
+"31 St & Thomson Ave"	night	0.42	0	0	430	29.5	492	38.64
+"Norfolk St & Broome St"	morning	41.32	1	2	184	94.58	193	140.11
+"Norfolk St & Broome St"	afternoon	37.32	1	2	184	94.58	193	140.11
+"Norfolk St & Broome St"	evening	31.52	1	2	184	94.58	193	140.11
+"Norfolk St & Broome St"	night	4.0	1	2	184	94.58	193	140.11
+"E 32 St & Park Ave"	morning	89.29	4	2	118	173.67	193	140.11
+"E 32 St & Park Ave"	afternoon	76.65	4	2	118	173.67	193	140.11
+"E 32 St & Park Ave"	evening	32.39	4	2	118	173.67	193	140.11
+"E 32 St & Park Ave"	night	2.1	4	2	118	173.67	193	140.11
+"Avenue D & E 3 St"	morning	34.03	1	0	184	94.58	492	38.64
+"Avenue D & E 3 St"	afternoon	25.0	1	0	184	94.58	492	38.64
+"Avenue D & E 3 St"	evening	17.61	1	0	184	94.58	492	38.64
+"Avenue D & E 3 St"	night	2.29	1	0	184	94.58	492	38.64
+"E 88 St & Park Ave"	morning	13.19	0	0	430	29.5	492	38.64
+"E 88 St & Park Ave"	afternoon	15.35	0	0	430	29.5	492	38.64
+"E 88 St & Park Ave"	evening	11.87	0	0	430	29.5	492	38.64
+"E 88 St & Park Ave"	night	0.68	0	0	430	29.5	492	38.64
+"32 St & 30 Ave"	morning	11.87	0	0	430	29.5	492	38.64
+"32 St & 30 Ave"	afternoon	14.68	0	0	430	29.5	492	38.64
+"32 St & 30 Ave"	evening	16.16	0	0	430	29.5	492	38.64
+"32 St & 30 Ave"	night	1.52	0	0	430	29.5	492	38.64
+"W 70 St & Amsterdam Ave"	morning	24.94	1	2	184	94.58	193	140.11
+"W 70 St & Amsterdam Ave"	afternoon	35.42	1	2	184	94.58	193	140.11
+"W 70 St & Amsterdam Ave"	evening	29.81	1	2	184	94.58	193	140.11
+"W 70 St & Amsterdam Ave"	night	2.1	1	2	184	94.58	193	140.11
+"Myrtle Ave & Marcy Ave"	morning	6.55	0	3	430	29.5	29	18.21
+"Myrtle Ave & Marcy Ave"	afternoon	8.94	0	3	430	29.5	29	18.21
+"Myrtle Ave & Marcy Ave"	evening	7.03	0	3	430	29.5	29	18.21
+"Myrtle Ave & Marcy Ave"	night	0.84	0	3	430	29.5	29	18.21
+"W 26 St & 10 Ave"	morning	55.29	4	2	118	173.67	193	140.11
+"W 26 St & 10 Ave"	afternoon	66.42	4	2	118	173.67	193	140.11
+"W 26 St & 10 Ave"	evening	26.42	4	2	118	173.67	193	140.11
+"W 26 St & 10 Ave"	night	1.55	4	2	118	173.67	193	140.11
+"Union St & Bedford Ave"	morning	3.42	0	0	430	29.5	492	38.64
+"Union St & Bedford Ave"	afternoon	2.97	0	0	430	29.5	492	38.64
+"Union St & Bedford Ave"	evening	2.03	0	0	430	29.5	492	38.64
+"Union St & Bedford Ave"	night	0.39	0	0	430	29.5	492	38.64
+"Murray St & West St"	morning	16.9	1	2	184	94.58	193	140.11
+"Murray St & West St"	afternoon	64.39	1	2	184	94.58	193	140.11
+"Murray St & West St"	evening	28.45	1	2	184	94.58	193	140.11
+"Murray St & West St"	night	0.61	1	2	184	94.58	193	140.11
+"31 St & 35 Ave"	morning	8.0	0	0	430	29.5	492	38.64
+"31 St & 35 Ave"	afternoon	6.77	0	0	430	29.5	492	38.64
+"31 St & 35 Ave"	evening	5.65	0	0	430	29.5	492	38.64
+"31 St & 35 Ave"	night	0.65	0	0	430	29.5	492	38.64
+"Lenox Ave & W 115 St"	morning	7.77	0	0	430	29.5	492	38.64
+"Lenox Ave & W 115 St"	afternoon	8.16	0	0	430	29.5	492	38.64
+"Lenox Ave & W 115 St"	evening	6.23	0	0	430	29.5	492	38.64
+"Lenox Ave & W 115 St"	night	0.9	0	0	430	29.5	492	38.64
+"Tompkins Ave & Hopkins St"	morning	3.13	0	0	430	29.5	492	38.64
+"Tompkins Ave & Hopkins St"	afternoon	10.13	0	0	430	29.5	492	38.64
+"Tompkins Ave & Hopkins St"	evening	4.9	0	0	430	29.5	492	38.64
+"Tompkins Ave & Hopkins St"	night	0.55	0	0	430	29.5	492	38.64
+"Bond St & Fulton St"	morning	15.52	1	0	184	94.58	492	38.64
+"Bond St & Fulton St"	afternoon	35.26	1	0	184	94.58	492	38.64
+"Bond St & Fulton St"	evening	29.32	1	0	184	94.58	492	38.64
+"Bond St & Fulton St"	night	2.48	1	0	184	94.58	492	38.64
+"E 58 St & Madison Ave"	morning	14.23	1	0	184	94.58	492	38.64
+"E 58 St & Madison Ave"	afternoon	58.81	1	0	184	94.58	492	38.64
+"E 58 St & Madison Ave"	evening	11.32	1	0	184	94.58	492	38.64
+"E 58 St & Madison Ave"	night	0.61	1	0	184	94.58	492	38.64
+"DeKalb Ave & Hudson Ave"	morning	26.1	1	0	184	94.58	492	38.64
+"DeKalb Ave & Hudson Ave"	afternoon	28.19	1	0	184	94.58	492	38.64
+"DeKalb Ave & Hudson Ave"	evening	31.48	1	0	184	94.58	492	38.64
+"DeKalb Ave & Hudson Ave"	night	2.23	1	0	184	94.58	492	38.64
+"E 6 St & Avenue D"	morning	29.26	1	0	184	94.58	492	38.64
+"E 6 St & Avenue D"	afternoon	25.74	1	0	184	94.58	492	38.64
+"E 6 St & Avenue D"	evening	17.71	1	0	184	94.58	492	38.64
+"E 6 St & Avenue D"	night	2.39	1	0	184	94.58	492	38.64
+"Allen St & Hester St"	morning	51.77	4	2	118	173.67	193	140.11
+"Allen St & Hester St"	afternoon	47.61	4	2	118	173.67	193	140.11
+"Allen St & Hester St"	evening	46.42	4	2	118	173.67	193	140.11
+"Allen St & Hester St"	night	2.81	4	2	118	173.67	193	140.11
+"Dean St & 4 Ave"	morning	20.1	1	0	184	94.58	492	38.64
+"Dean St & 4 Ave"	afternoon	32.52	1	0	184	94.58	492	38.64
+"Dean St & 4 Ave"	evening	34.55	1	0	184	94.58	492	38.64
+"Dean St & 4 Ave"	night	2.52	1	0	184	94.58	492	38.64
+"Lawrence St & Willoughby St"	morning	21.1	1	2	184	94.58	193	140.11
+"Lawrence St & Willoughby St"	afternoon	39.48	1	2	184	94.58	193	140.11
+"Lawrence St & Willoughby St"	evening	31.61	1	2	184	94.58	193	140.11
+"Lawrence St & Willoughby St"	night	2.06	1	2	184	94.58	193	140.11
+"Broadway & Battery Pl"	morning	33.55	4	2	118	173.67	193	140.11
+"Broadway & Battery Pl"	afternoon	74.48	4	2	118	173.67	193	140.11
+"Broadway & Battery Pl"	evening	41.9	4	2	118	173.67	193	140.11
+"Broadway & Battery Pl"	night	1.55	4	2	118	173.67	193	140.11
+"Bank St & Washington St"	morning	39.06	1	2	184	94.58	193	140.11
+"Bank St & Washington St"	afternoon	41.16	1	2	184	94.58	193	140.11
+"Bank St & Washington St"	evening	25.81	1	2	184	94.58	193	140.11
+"Bank St & Washington St"	night	2.06	1	2	184	94.58	193	140.11
+"Bergen St & Vanderbilt Ave"	morning	13.71	0	0	430	29.5	492	38.64
+"Bergen St & Vanderbilt Ave"	afternoon	11.94	0	0	430	29.5	492	38.64
+"Bergen St & Vanderbilt Ave"	evening	17.19	0	0	430	29.5	492	38.64
+"Bergen St & Vanderbilt Ave"	night	1.61	0	0	430	29.5	492	38.64
+"S Portland Ave & Hanson Pl"	morning	10.84	0	0	430	29.5	492	38.64
+"S Portland Ave & Hanson Pl"	afternoon	16.42	0	0	430	29.5	492	38.64
+"S Portland Ave & Hanson Pl"	evening	13.55	0	0	430	29.5	492	38.64
+"S Portland Ave & Hanson Pl"	night	1.61	0	0	430	29.5	492	38.64
+"Bus Slip & State St"	morning	14.55	1	0	184	94.58	492	38.64
+"Bus Slip & State St"	afternoon	46.68	1	0	184	94.58	492	38.64
+"Bus Slip & State St"	evening	19.94	1	0	184	94.58	492	38.64
+"Bus Slip & State St"	night	0.68	1	0	184	94.58	492	38.64
+"Columbus Ave & W 72 St"	morning	109.84	2	1	33	292.03	51	267.31
+"Columbus Ave & W 72 St"	afternoon	79.74	2	1	33	292.03	51	267.31
+"Columbus Ave & W 72 St"	evening	48.1	2	1	33	292.03	51	267.31
+"Columbus Ave & W 72 St"	night	2.42	2	1	33	292.03	51	267.31
+"Lafayette Ave & St James Pl"	morning	29.35	1	0	184	94.58	492	38.64
+"Lafayette Ave & St James Pl"	afternoon	22.81	1	0	184	94.58	492	38.64
+"Lafayette Ave & St James Pl"	evening	15.23	1	0	184	94.58	492	38.64
+"Lafayette Ave & St James Pl"	night	1.39	1	0	184	94.58	492	38.64
+"Willoughby St & Fleet St"	morning	21.48	1	0	184	94.58	492	38.64
+"Willoughby St & Fleet St"	afternoon	32.06	1	0	184	94.58	492	38.64
+"Willoughby St & Fleet St"	evening	32.39	1	0	184	94.58	492	38.64
+"Willoughby St & Fleet St"	night	2.29	1	0	184	94.58	492	38.64
+"W 22 St & 10 Ave"	morning	49.35	4	2	118	173.67	193	140.11
+"W 22 St & 10 Ave"	afternoon	70.65	4	2	118	173.67	193	140.11
+"W 22 St & 10 Ave"	evening	61.94	4	2	118	173.67	193	140.11
+"W 22 St & 10 Ave"	night	3.58	4	2	118	173.67	193	140.11
+"2 Ave & E 55 St"	morning	31.48	1	2	184	94.58	193	140.11
+"2 Ave & E 55 St"	afternoon	39.35	1	2	184	94.58	193	140.11
+"2 Ave & E 55 St"	evening	27.65	1	2	184	94.58	193	140.11
+"2 Ave & E 55 St"	night	1.29	1	2	184	94.58	193	140.11
+"Park Pl & Church St"	morning	19.13	1	0	184	94.58	492	38.64
+"Park Pl & Church St"	afternoon	29.55	1	0	184	94.58	492	38.64
+"Park Pl & Church St"	evening	21.74	1	0	184	94.58	492	38.64
+"Park Pl & Church St"	night	0.74	1	0	184	94.58	492	38.64
+"St James Pl & Oliver St"	morning	25.81	1	0	184	94.58	492	38.64
+"St James Pl & Oliver St"	afternoon	32.45	1	0	184	94.58	492	38.64
+"St James Pl & Oliver St"	evening	22.61	1	0	184	94.58	492	38.64
+"St James Pl & Oliver St"	night	1.16	1	0	184	94.58	492	38.64
+"Hancock St & Bedford Ave"	morning	8.1	0	3	430	29.5	29	18.21
+"Hancock St & Bedford Ave"	afternoon	8.52	0	3	430	29.5	29	18.21
+"Hancock St & Bedford Ave"	evening	8.52	0	3	430	29.5	29	18.21
+"Hancock St & Bedford Ave"	night	0.58	0	3	430	29.5	29	18.21
+"Broadway & W 51 St"	morning	61.45	1	2	184	94.58	193	140.11
+"Broadway & W 51 St"	afternoon	48.71	1	2	184	94.58	193	140.11
+"Broadway & W 51 St"	evening	14.58	1	2	184	94.58	193	140.11
+"Broadway & W 51 St"	night	1.16	1	2	184	94.58	193	140.11
+"Allen St & Rivington St"	morning	48.55	4	2	118	173.67	193	140.11
+"Allen St & Rivington St"	afternoon	57.42	4	2	118	173.67	193	140.11
+"Allen St & Rivington St"	evening	47.35	4	2	118	173.67	193	140.11
+"Allen St & Rivington St"	night	9.06	4	2	118	173.67	193	140.11
+"Washington Ave & Greene Ave"	morning	15.32	0	0	430	29.5	492	38.64
+"Washington Ave & Greene Ave"	afternoon	10.16	0	0	430	29.5	492	38.64
+"Washington Ave & Greene Ave"	evening	8.03	0	0	430	29.5	492	38.64
+"Washington Ave & Greene Ave"	night	0.68	0	0	430	29.5	492	38.64
+"E 89 St & York Ave"	morning	22.23	0	0	430	29.5	492	38.64
+"E 89 St & York Ave"	afternoon	9.61	0	0	430	29.5	492	38.64
+"E 89 St & York Ave"	evening	11.32	0	0	430	29.5	492	38.64
+"E 89 St & York Ave"	night	0.35	0	0	430	29.5	492	38.64
+"Howard St & Centre St"	morning	37.03	4	2	118	173.67	193	140.11
+"Howard St & Centre St"	afternoon	71.87	4	2	118	173.67	193	140.11
+"Howard St & Centre St"	evening	32.58	4	2	118	173.67	193	140.11
+"Howard St & Centre St"	night	2.39	4	2	118	173.67	193	140.11
+"Columbus Ave & W 103 St"	morning	5.77	0	0	430	29.5	492	38.64
+"Columbus Ave & W 103 St"	afternoon	4.71	0	0	430	29.5	492	38.64
+"Columbus Ave & W 103 St"	evening	3.81	0	0	430	29.5	492	38.64
+"Columbus Ave & W 103 St"	night	0.58	0	0	430	29.5	492	38.64
+"E 11 St & 1 Ave"	morning	46.03	4	2	118	173.67	193	140.11
+"E 11 St & 1 Ave"	afternoon	61.13	4	2	118	173.67	193	140.11
+"E 11 St & 1 Ave"	evening	49.65	4	2	118	173.67	193	140.11
+"E 11 St & 1 Ave"	night	4.06	4	2	118	173.67	193	140.11
+"DeKalb Ave & Vanderbilt Ave"	morning	22.65	0	0	430	29.5	492	38.64
+"DeKalb Ave & Vanderbilt Ave"	afternoon	15.55	0	0	430	29.5	492	38.64
+"DeKalb Ave & Vanderbilt Ave"	evening	15.84	0	0	430	29.5	492	38.64
+"DeKalb Ave & Vanderbilt Ave"	night	1.06	0	0	430	29.5	492	38.64
+"E 55 St & Lexington Ave"	morning	20.42	1	0	184	94.58	492	38.64
+"E 55 St & Lexington Ave"	afternoon	46.61	1	0	184	94.58	492	38.64
+"E 55 St & Lexington Ave"	evening	9.26	1	0	184	94.58	492	38.64
+"E 55 St & Lexington Ave"	night	0.58	1	0	184	94.58	492	38.64
+"Union St & Nevins St"	morning	8.35	0	0	430	29.5	492	38.64
+"Union St & Nevins St"	afternoon	17.77	0	0	430	29.5	492	38.64
+"Union St & Nevins St"	evening	14.13	0	0	430	29.5	492	38.64
+"Union St & Nevins St"	night	0.81	0	0	430	29.5	492	38.64
+"Kosciuszko St & Tompkins Ave"	morning	12.77	0	0	430	29.5	492	38.64
+"Kosciuszko St & Tompkins Ave"	afternoon	7.13	0	0	430	29.5	492	38.64
+"Kosciuszko St & Tompkins Ave"	evening	5.13	0	0	430	29.5	492	38.64
+"Kosciuszko St & Tompkins Ave"	night	1.03	0	0	430	29.5	492	38.64
+"E 77 St & 3 Ave"	morning	15.71	0	0	430	29.5	492	38.64
+"E 77 St & 3 Ave"	afternoon	16.26	0	0	430	29.5	492	38.64
+"E 77 St & 3 Ave"	evening	13.13	0	0	430	29.5	492	38.64
+"E 77 St & 3 Ave"	night	0.71	0	0	430	29.5	492	38.64
+"W 129 St & Convent Ave"	morning	4.29	0	0	430	29.5	492	38.64
+"W 129 St & Convent Ave"	afternoon	7.45	0	0	430	29.5	492	38.64
+"W 129 St & Convent Ave"	evening	3.48	0	0	430	29.5	492	38.64
+"W 129 St & Convent Ave"	night	0.45	0	0	430	29.5	492	38.64
+"Jay St & Tech Pl"	morning	13.29	1	0	184	94.58	492	38.64
+"Jay St & Tech Pl"	afternoon	42.87	1	0	184	94.58	492	38.64
+"Jay St & Tech Pl"	evening	21.0	1	0	184	94.58	492	38.64
+"Jay St & Tech Pl"	night	1.42	1	0	184	94.58	492	38.64
+"Crescent St & 35 Ave"	morning	4.39	0	0	430	29.5	492	38.64
+"Crescent St & 35 Ave"	afternoon	1.84	0	0	430	29.5	492	38.64
+"Crescent St & 35 Ave"	evening	2.03	0	0	430	29.5	492	38.64
+"Crescent St & 35 Ave"	night	0.35	0	0	430	29.5	492	38.64
+"E 85 St & York Ave"	morning	21.32	0	0	430	29.5	492	38.64
+"E 85 St & York Ave"	afternoon	11.61	0	0	430	29.5	492	38.64
+"E 85 St & York Ave"	evening	10.55	0	0	430	29.5	492	38.64
+"E 85 St & York Ave"	night	0.87	0	0	430	29.5	492	38.64
+"W 20 St & 7 Ave"	morning	51.13	4	2	118	173.67	193	140.11
+"W 20 St & 7 Ave"	afternoon	68.77	4	2	118	173.67	193	140.11
+"W 20 St & 7 Ave"	evening	57.42	4	2	118	173.67	193	140.11
+"W 20 St & 7 Ave"	night	3.03	4	2	118	173.67	193	140.11
+"India St & West St"	morning	9.74	0	0	430	29.5	492	38.64
+"India St & West St"	afternoon	8.94	0	0	430	29.5	492	38.64
+"India St & West St"	evening	9.23	0	0	430	29.5	492	38.64
+"India St & West St"	night	0.13	0	0	430	29.5	492	38.64
+"Grand Ave & Bergen St"	morning	16.0	0	0	430	29.5	492	38.64
+"Grand Ave & Bergen St"	afternoon	10.19	0	0	430	29.5	492	38.64
+"Grand Ave & Bergen St"	evening	7.77	0	0	430	29.5	492	38.64
+"Grand Ave & Bergen St"	night	0.71	0	0	430	29.5	492	38.64
+"Wythe Ave & Metropolitan Ave"	morning	34.65	1	2	184	94.58	193	140.11
+"Wythe Ave & Metropolitan Ave"	afternoon	44.71	1	2	184	94.58	193	140.11
+"Wythe Ave & Metropolitan Ave"	evening	33.68	1	2	184	94.58	193	140.11
+"Wythe Ave & Metropolitan Ave"	night	2.03	1	2	184	94.58	193	140.11
+"E 20 St & Park Ave"	morning	56.61	4	2	118	173.67	193	140.11
+"E 20 St & Park Ave"	afternoon	73.84	4	2	118	173.67	193	140.11
+"E 20 St & Park Ave"	evening	39.1	4	2	118	173.67	193	140.11
+"E 20 St & Park Ave"	night	1.68	4	2	118	173.67	193	140.11
+"Washington Pl & 6 Ave"	morning	19.61	1	2	184	94.58	193	140.11
+"Washington Pl & 6 Ave"	afternoon	34.71	1	2	184	94.58	193	140.11
+"Washington Pl & 6 Ave"	evening	38.1	1	2	184	94.58	193	140.11
+"Washington Pl & 6 Ave"	night	4.97	1	2	184	94.58	193	140.11
+"E 33 St & 1 Ave"	morning	74.87	4	2	118	173.67	193	140.11
+"E 33 St & 1 Ave"	afternoon	52.94	4	2	118	173.67	193	140.11
+"E 33 St & 1 Ave"	evening	45.13	4	2	118	173.67	193	140.11
+"E 33 St & 1 Ave"	night	3.87	4	2	118	173.67	193	140.11
+"E 47 St & Park Ave"	morning	90.97	2	1	33	292.03	51	267.31
+"E 47 St & Park Ave"	afternoon	147.35	2	1	33	292.03	51	267.31
+"E 47 St & Park Ave"	evening	26.97	2	1	33	292.03	51	267.31
+"E 47 St & Park Ave"	night	0.71	2	1	33	292.03	51	267.31
+"Franklin Ave & Empire Blvd"	morning	12.29	0	3	430	29.5	29	18.21
+"Franklin Ave & Empire Blvd"	afternoon	20.52	0	3	430	29.5	29	18.21
+"Franklin Ave & Empire Blvd"	evening	8.77	0	3	430	29.5	29	18.21
+"Franklin Ave & Empire Blvd"	night	0.77	0	3	430	29.5	29	18.21
+"Crescent St & Broadway"	morning	14.42	0	0	430	29.5	492	38.64
+"Crescent St & Broadway"	afternoon	8.55	0	0	430	29.5	492	38.64
+"Crescent St & Broadway"	evening	8.0	0	0	430	29.5	492	38.64
+"Crescent St & Broadway"	night	0.65	0	0	430	29.5	492	38.64
+"E 123 St & Lexington Ave"	morning	5.74	0	0	430	29.5	492	38.64
+"E 123 St & Lexington Ave"	afternoon	8.26	0	0	430	29.5	492	38.64
+"E 123 St & Lexington Ave"	evening	6.1	0	0	430	29.5	492	38.64
+"E 123 St & Lexington Ave"	night	0.65	0	0	430	29.5	492	38.64
+"Adam Clayton Powell Blvd & W 126 St"	morning	6.61	0	3	430	29.5	29	18.21
+"Adam Clayton Powell Blvd & W 126 St"	afternoon	12.19	0	3	430	29.5	29	18.21
+"Adam Clayton Powell Blvd & W 126 St"	evening	5.97	0	3	430	29.5	29	18.21
+"Adam Clayton Powell Blvd & W 126 St"	night	0.84	0	3	430	29.5	29	18.21
+"Broadway & W 25 St"	morning	66.29	2	1	33	292.03	51	267.31
+"Broadway & W 25 St"	afternoon	150.77	2	1	33	292.03	51	267.31
+"Broadway & W 25 St"	evening	54.39	2	1	33	292.03	51	267.31
+"Broadway & W 25 St"	night	3.39	2	1	33	292.03	51	267.31
+"E 47 St & 2 Ave"	morning	42.81	1	2	184	94.58	193	140.11
+"E 47 St & 2 Ave"	afternoon	49.0	1	2	184	94.58	193	140.11
+"E 47 St & 2 Ave"	evening	23.26	1	2	184	94.58	193	140.11
+"E 47 St & 2 Ave"	night	1.35	1	2	184	94.58	193	140.11
+"E 88 St & 1 Ave"	morning	29.35	1	0	184	94.58	492	38.64
+"E 88 St & 1 Ave"	afternoon	19.84	1	0	184	94.58	492	38.64
+"E 88 St & 1 Ave"	evening	14.74	1	0	184	94.58	492	38.64
+"E 88 St & 1 Ave"	night	1.58	1	0	184	94.58	492	38.64
+"Amsterdam Ave & W 79 St"	morning	26.26	1	0	184	94.58	492	38.64
+"Amsterdam Ave & W 79 St"	afternoon	33.68	1	0	184	94.58	492	38.64
+"Amsterdam Ave & W 79 St"	evening	26.35	1	0	184	94.58	492	38.64
+"Amsterdam Ave & W 79 St"	night	1.77	1	0	184	94.58	492	38.64
+"Lewis Ave & Kosciuszko St"	morning	10.81	0	0	430	29.5	492	38.64
+"Lewis Ave & Kosciuszko St"	afternoon	5.87	0	0	430	29.5	492	38.64
+"Lewis Ave & Kosciuszko St"	evening	3.32	0	0	430	29.5	492	38.64
+"Lewis Ave & Kosciuszko St"	night	0.9	0	0	430	29.5	492	38.64
+"Rivington St & Ridge St"	morning	24.03	1	0	184	94.58	492	38.64
+"Rivington St & Ridge St"	afternoon	21.58	1	0	184	94.58	492	38.64
+"Rivington St & Ridge St"	evening	18.32	1	0	184	94.58	492	38.64
+"Rivington St & Ridge St"	night	0.94	1	0	184	94.58	492	38.64
+"Cadman Plaza E & Red Cross Pl"	morning	19.94	1	0	184	94.58	492	38.64
+"Cadman Plaza E & Red Cross Pl"	afternoon	39.68	1	0	184	94.58	492	38.64
+"Cadman Plaza E & Red Cross Pl"	evening	23.0	1	0	184	94.58	492	38.64
+"Cadman Plaza E & Red Cross Pl"	night	0.65	1	0	184	94.58	492	38.64
+"E 116 St & 2 Ave"	morning	5.03	0	0	430	29.5	492	38.64
+"E 116 St & 2 Ave"	afternoon	5.16	0	0	430	29.5	492	38.64
+"E 116 St & 2 Ave"	evening	4.39	0	0	430	29.5	492	38.64
+"E 116 St & 2 Ave"	night	0.97	0	0	430	29.5	492	38.64
+"34 Ave & 38 St"	morning	8.71	0	0	430	29.5	492	38.64
+"34 Ave & 38 St"	afternoon	13.81	0	0	430	29.5	492	38.64
+"34 Ave & 38 St"	evening	10.39	0	0	430	29.5	492	38.64
+"34 Ave & 38 St"	night	0.48	0	0	430	29.5	492	38.64
+"Clinton St & Grand St"	morning	37.71	1	2	184	94.58	193	140.11
+"Clinton St & Grand St"	afternoon	50.29	1	2	184	94.58	193	140.11
+"Clinton St & Grand St"	evening	33.71	1	2	184	94.58	193	140.11
+"Clinton St & Grand St"	night	2.13	1	2	184	94.58	193	140.11
+"Gansevoort St & Hudson St"	morning	58.32	4	1	118	173.67	51	267.31
+"Gansevoort St & Hudson St"	afternoon	90.0	4	1	118	173.67	51	267.31
+"Gansevoort St & Hudson St"	evening	59.71	4	1	118	173.67	51	267.31
+"Gansevoort St & Hudson St"	night	4.39	4	1	118	173.67	51	267.31
+"1 Ave & E 18 St"	morning	57.74	4	2	118	173.67	193	140.11
+"1 Ave & E 18 St"	afternoon	57.45	4	2	118	173.67	193	140.11
+"1 Ave & E 18 St"	evening	46.13	4	2	118	173.67	193	140.11
+"1 Ave & E 18 St"	night	4.87	4	2	118	173.67	193	140.11
+"Adam Clayton Powell Blvd & W 123 St"	morning	10.1	0	0	430	29.5	492	38.64
+"Adam Clayton Powell Blvd & W 123 St"	afternoon	9.13	0	0	430	29.5	492	38.64
+"Adam Clayton Powell Blvd & W 123 St"	evening	4.84	0	0	430	29.5	492	38.64
+"Adam Clayton Powell Blvd & W 123 St"	night	0.71	0	0	430	29.5	492	38.64
+"Union Ave & N 12 St"	morning	15.68	0	0	430	29.5	492	38.64
+"Union Ave & N 12 St"	afternoon	17.35	0	0	430	29.5	492	38.64
+"Union Ave & N 12 St"	evening	16.48	0	0	430	29.5	492	38.64
+"Union Ave & N 12 St"	night	1.35	0	0	430	29.5	492	38.64
+"E 16 St & Irving Pl"	morning	49.35	1	2	184	94.58	193	140.11
+"E 16 St & Irving Pl"	afternoon	44.35	1	2	184	94.58	193	140.11
+"E 16 St & Irving Pl"	evening	31.87	1	2	184	94.58	193	140.11
+"E 16 St & Irving Pl"	night	1.48	1	2	184	94.58	193	140.11
+"MacDougal St & Washington Sq"	morning	28.87	1	2	184	94.58	193	140.11
+"MacDougal St & Washington Sq"	afternoon	50.84	1	2	184	94.58	193	140.11
+"MacDougal St & Washington Sq"	evening	41.55	1	2	184	94.58	193	140.11
+"MacDougal St & Washington Sq"	night	4.26	1	2	184	94.58	193	140.11
+"3 Ave & E 62 St"	morning	21.13	1	0	184	94.58	492	38.64
+"3 Ave & E 62 St"	afternoon	26.42	1	0	184	94.58	492	38.64
+"3 Ave & E 62 St"	evening	14.48	1	0	184	94.58	492	38.64
+"3 Ave & E 62 St"	night	0.81	1	0	184	94.58	492	38.64
+"Albany Ave & Fulton St"	morning	2.71	3	4	1	8.0	1	8.0
+"Albany Ave & Fulton St"	afternoon	3.16	3	4	1	8.0	1	8.0
+"Albany Ave & Fulton St"	evening	1.87	3	4	1	8.0	1	8.0
+"Albany Ave & Fulton St"	night	0.48	3	4	1	8.0	1	8.0
+"Fulton St & Rockwell Pl"	morning	13.42	0	0	430	29.5	492	38.64
+"Fulton St & Rockwell Pl"	afternoon	15.32	0	0	430	29.5	492	38.64
+"Fulton St & Rockwell Pl"	evening	15.97	0	0	430	29.5	492	38.64
+"Fulton St & Rockwell Pl"	night	1.48	0	0	430	29.5	492	38.64
+"Lafayette St & Jersey St"	morning	59.65	4	2	118	173.67	193	140.11
+"Lafayette St & Jersey St"	afternoon	94.71	4	2	118	173.67	193	140.11
+"Lafayette St & Jersey St"	evening	45.48	4	2	118	173.67	193	140.11
+"Lafayette St & Jersey St"	night	1.81	4	2	118	173.67	193	140.11
+"Broadway & W 49 St"	morning	100.32	4	1	118	173.67	51	267.31
+"Broadway & W 49 St"	afternoon	77.16	4	1	118	173.67	51	267.31
+"Broadway & W 49 St"	evening	31.61	4	1	118	173.67	51	267.31
+"Broadway & W 49 St"	night	2.42	4	1	118	173.67	51	267.31
+"5 Ave & 3 St"	morning	22.39	0	0	430	29.5	492	38.64
+"5 Ave & 3 St"	afternoon	19.1	0	0	430	29.5	492	38.64
+"5 Ave & 3 St"	evening	12.19	0	0	430	29.5	492	38.64
+"5 Ave & 3 St"	night	0.61	0	0	430	29.5	492	38.64
+"Pearl St & Anchorage Pl"	morning	10.87	0	0	430	29.5	492	38.64
+"Pearl St & Anchorage Pl"	afternoon	28.39	0	0	430	29.5	492	38.64
+"Pearl St & Anchorage Pl"	evening	21.61	0	0	430	29.5	492	38.64
+"Pearl St & Anchorage Pl"	night	0.74	0	0	430	29.5	492	38.64
+"Lewis Ave & Decatur St"	morning	4.52	0	3	430	29.5	29	18.21
+"Lewis Ave & Decatur St"	afternoon	3.58	0	3	430	29.5	29	18.21
+"Lewis Ave & Decatur St"	evening	3.74	0	3	430	29.5	29	18.21
+"Lewis Ave & Decatur St"	night	0.26	0	3	430	29.5	29	18.21
+"Driggs Ave & N Henry St"	morning	19.77	0	0	430	29.5	492	38.64
+"Driggs Ave & N Henry St"	afternoon	11.06	0	0	430	29.5	492	38.64
+"Driggs Ave & N Henry St"	evening	11.94	0	0	430	29.5	492	38.64
+"Driggs Ave & N Henry St"	night	1.06	0	0	430	29.5	492	38.64
+"14 St & 7 Ave"	morning	11.03	0	0	430	29.5	492	38.64
+"14 St & 7 Ave"	afternoon	9.26	0	0	430	29.5	492	38.64
+"14 St & 7 Ave"	evening	9.13	0	0	430	29.5	492	38.64
+"14 St & 7 Ave"	night	0.55	0	0	430	29.5	492	38.64
+"6 Ave & Spring St"	morning	31.48	4	2	118	173.67	193	140.11
+"6 Ave & Spring St"	afternoon	71.74	4	2	118	173.67	193	140.11
+"6 Ave & Spring St"	evening	40.06	4	2	118	173.67	193	140.11
+"6 Ave & Spring St"	night	1.52	4	2	118	173.67	193	140.11
+"3 St & 3 Ave"	morning	9.58	0	0	430	29.5	492	38.64
+"3 St & 3 Ave"	afternoon	25.71	0	0	430	29.5	492	38.64
+"3 St & 3 Ave"	evening	14.48	0	0	430	29.5	492	38.64
+"3 St & 3 Ave"	night	0.39	0	0	430	29.5	492	38.64
+"Madison St & Montgomery St"	morning	24.55	0	0	430	29.5	492	38.64
+"Madison St & Montgomery St"	afternoon	16.61	0	0	430	29.5	492	38.64
+"Madison St & Montgomery St"	evening	9.42	0	0	430	29.5	492	38.64
+"Madison St & Montgomery St"	night	0.84	0	0	430	29.5	492	38.64
+"Kent Ave & N 7 St"	morning	38.35	4	2	118	173.67	193	140.11
+"Kent Ave & N 7 St"	afternoon	59.48	4	2	118	173.67	193	140.11
+"Kent Ave & N 7 St"	evening	45.61	4	2	118	173.67	193	140.11
+"Kent Ave & N 7 St"	night	2.65	4	2	118	173.67	193	140.11
+"E 2 St & Avenue C"	morning	37.19	1	0	184	94.58	492	38.64
+"E 2 St & Avenue C"	afternoon	23.29	1	0	184	94.58	492	38.64
+"E 2 St & Avenue C"	evening	19.1	1	0	184	94.58	492	38.64
+"E 2 St & Avenue C"	night	1.42	1	0	184	94.58	492	38.64
+"E 91 St & Park Ave"	morning	13.45	0	0	430	29.5	492	38.64
+"E 91 St & Park Ave"	afternoon	17.81	0	0	430	29.5	492	38.64
+"E 91 St & Park Ave"	evening	15.52	0	0	430	29.5	492	38.64
+"E 91 St & Park Ave"	night	0.35	0	0	430	29.5	492	38.64
+"Barrow St & Hudson St"	morning	86.32	4	1	118	173.67	51	267.31
+"Barrow St & Hudson St"	afternoon	77.58	4	1	118	173.67	51	267.31
+"Barrow St & Hudson St"	evening	64.81	4	1	118	173.67	51	267.31
+"Barrow St & Hudson St"	night	3.26	4	1	118	173.67	51	267.31
+"Fulton St & William St"	morning	22.19	1	2	184	94.58	193	140.11
+"Fulton St & William St"	afternoon	38.71	1	2	184	94.58	193	140.11
+"Fulton St & William St"	evening	27.68	1	2	184	94.58	193	140.11
+"Fulton St & William St"	night	2.03	1	2	184	94.58	193	140.11
+"E 11 St & 2 Ave"	morning	47.74	4	2	118	173.67	193	140.11
+"E 11 St & 2 Ave"	afternoon	66.48	4	2	118	173.67	193	140.11
+"E 11 St & 2 Ave"	evening	69.32	4	2	118	173.67	193	140.11
+"E 11 St & 2 Ave"	night	8.1	4	2	118	173.67	193	140.11
+"2 Ave & E 104 St"	morning	15.77	0	0	430	29.5	492	38.64
+"2 Ave & E 104 St"	afternoon	15.45	0	0	430	29.5	492	38.64
+"2 Ave & E 104 St"	evening	7.32	0	0	430	29.5	492	38.64
+"2 Ave & E 104 St"	night	0.45	0	0	430	29.5	492	38.64
+"Clinton St & Tillary St"	morning	12.55	0	0	430	29.5	492	38.64
+"Clinton St & Tillary St"	afternoon	18.39	0	0	430	29.5	492	38.64
+"Clinton St & Tillary St"	evening	13.97	0	0	430	29.5	492	38.64
+"Clinton St & Tillary St"	night	0.58	0	0	430	29.5	492	38.64
+"Broadway & Berry St"	morning	24.19	1	0	184	94.58	492	38.64
+"Broadway & Berry St"	afternoon	20.55	1	0	184	94.58	492	38.64
+"Broadway & Berry St"	evening	20.42	1	0	184	94.58	492	38.64
+"Broadway & Berry St"	night	2.84	1	0	184	94.58	492	38.64
+"E 12 St & Avenue B"	morning	42.55	1	2	184	94.58	193	140.11
+"E 12 St & Avenue B"	afternoon	37.71	1	2	184	94.58	193	140.11
+"E 12 St & Avenue B"	evening	24.58	1	2	184	94.58	193	140.11
+"E 12 St & Avenue B"	night	2.65	1	2	184	94.58	193	140.11
+"Cadman Plaza West & Montague St"	morning	20.06	1	0	184	94.58	492	38.64
+"Cadman Plaza West & Montague St"	afternoon	37.55	1	0	184	94.58	492	38.64
+"Cadman Plaza West & Montague St"	evening	17.39	1	0	184	94.58	492	38.64
+"Cadman Plaza West & Montague St"	night	1.19	1	0	184	94.58	492	38.64
+"W 42 St & Dyer Ave"	morning	78.71	4	2	118	173.67	193	140.11
+"W 42 St & Dyer Ave"	afternoon	35.9	4	2	118	173.67	193	140.11
+"W 42 St & Dyer Ave"	evening	29.97	4	2	118	173.67	193	140.11
+"W 42 St & Dyer Ave"	night	4.48	4	2	118	173.67	193	140.11
+"W 34 St & 11 Ave"	morning	39.39	1	2	184	94.58	193	140.11
+"W 34 St & 11 Ave"	afternoon	65.39	1	2	184	94.58	193	140.11
+"W 34 St & 11 Ave"	evening	28.65	1	2	184	94.58	193	140.11
+"W 34 St & 11 Ave"	night	1.06	1	2	184	94.58	193	140.11
+"Schermerhorn St & Court St"	morning	16.0	0	0	430	29.5	492	38.64
+"Schermerhorn St & Court St"	afternoon	24.19	0	0	430	29.5	492	38.64
+"Schermerhorn St & Court St"	evening	17.35	0	0	430	29.5	492	38.64
+"Schermerhorn St & Court St"	night	1.06	0	0	430	29.5	492	38.64
+"NYCBS Depot - GOW"	morning	2.48	0	0	430	29.5	492	38.64
+"NYCBS Depot - GOW"	afternoon	0.87	0	0	430	29.5	492	38.64
+"NYCBS Depot - GOW"	evening	1.77	0	0	430	29.5	492	38.64
+"NYCBS Depot - GOW"	night	0.23	0	0	430	29.5	492	38.64
+"W 45 St & 8 Ave"	morning	24.26	4	2	118	173.67	193	140.11
+"W 45 St & 8 Ave"	afternoon	58.71	4	2	118	173.67	193	140.11
+"W 45 St & 8 Ave"	evening	58.26	4	2	118	173.67	193	140.11
+"W 45 St & 8 Ave"	night	4.13	4	2	118	173.67	193	140.11
+"Steinway St & 23 Ave"	morning	5.03	0	0	430	29.5	492	38.64
+"Steinway St & 23 Ave"	afternoon	5.1	0	0	430	29.5	492	38.64
+"Steinway St & 23 Ave"	evening	3.97	0	0	430	29.5	492	38.64
+"Steinway St & 23 Ave"	night	0.61	0	0	430	29.5	492	38.64
+"E 118 St & 3 Ave"	morning	5.61	0	0	430	29.5	492	38.64
+"E 118 St & 3 Ave"	afternoon	6.68	0	0	430	29.5	492	38.64
+"E 118 St & 3 Ave"	evening	6.42	0	0	430	29.5	492	38.64
+"E 118 St & 3 Ave"	night	0.9	0	0	430	29.5	492	38.64
+"Leonard St & Boerum St"	morning	8.29	0	3	430	29.5	29	18.21
+"Leonard St & Boerum St"	afternoon	4.9	0	3	430	29.5	29	18.21
+"Leonard St & Boerum St"	evening	4.61	0	3	430	29.5	29	18.21
+"Leonard St & Boerum St"	night	0.58	0	3	430	29.5	29	18.21
+"Vernon Blvd & 41 Rd"	morning	2.45	0	0	430	29.5	492	38.64
+"Vernon Blvd & 41 Rd"	afternoon	4.65	0	0	430	29.5	492	38.64
+"Vernon Blvd & 41 Rd"	evening	1.87	0	0	430	29.5	492	38.64
+"Vernon Blvd & 41 Rd"	night	0.16	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 82 St"	morning	29.87	1	2	184	94.58	193	140.11
+"Amsterdam Ave & W 82 St"	afternoon	33.23	1	2	184	94.58	193	140.11
+"Amsterdam Ave & W 82 St"	evening	29.65	1	2	184	94.58	193	140.11
+"Amsterdam Ave & W 82 St"	night	2.06	1	2	184	94.58	193	140.11
+"Pearl St & Hanover Square"	morning	17.55	1	0	184	94.58	492	38.64
+"Pearl St & Hanover Square"	afternoon	38.16	1	0	184	94.58	492	38.64
+"Pearl St & Hanover Square"	evening	26.42	1	0	184	94.58	492	38.64
+"Pearl St & Hanover Square"	night	1.35	1	0	184	94.58	492	38.64
+"Carroll St & Bond St"	morning	17.13	0	0	430	29.5	492	38.64
+"Carroll St & Bond St"	afternoon	12.32	0	0	430	29.5	492	38.64
+"Carroll St & Bond St"	evening	9.06	0	0	430	29.5	492	38.64
+"Carroll St & Bond St"	night	0.94	0	0	430	29.5	492	38.64
+"Broadway & E 22 St"	morning	81.77	2	1	33	292.03	51	267.31
+"Broadway & E 22 St"	afternoon	202.94	2	1	33	292.03	51	267.31
+"Broadway & E 22 St"	evening	98.71	2	1	33	292.03	51	267.31
+"Broadway & E 22 St"	night	1.58	2	1	33	292.03	51	267.31
+"W 104 St & Amsterdam Ave"	morning	12.9	0	0	430	29.5	492	38.64
+"W 104 St & Amsterdam Ave"	afternoon	13.23	0	0	430	29.5	492	38.64
+"W 104 St & Amsterdam Ave"	evening	10.42	0	0	430	29.5	492	38.64
+"W 104 St & Amsterdam Ave"	night	1.35	0	0	430	29.5	492	38.64
+"W 74 St & Columbus Ave"	morning	18.45	0	0	430	29.5	492	38.64
+"W 74 St & Columbus Ave"	afternoon	18.84	0	0	430	29.5	492	38.64
+"W 74 St & Columbus Ave"	evening	18.9	0	0	430	29.5	492	38.64
+"W 74 St & Columbus Ave"	night	1.45	0	0	430	29.5	492	38.64
+"Wyckoff St & 3 Ave"	morning	12.13	0	0	430	29.5	492	38.64
+"Wyckoff St & 3 Ave"	afternoon	11.71	0	0	430	29.5	492	38.64
+"Wyckoff St & 3 Ave"	evening	9.16	0	0	430	29.5	492	38.64
+"Wyckoff St & 3 Ave"	night	1.16	0	0	430	29.5	492	38.64
+"W 31 St & 7 Ave"	morning	71.58	2	1	33	292.03	51	267.31
+"W 31 St & 7 Ave"	afternoon	94.06	2	1	33	292.03	51	267.31
+"W 31 St & 7 Ave"	evening	85.68	2	1	33	292.03	51	267.31
+"W 31 St & 7 Ave"	night	4.03	2	1	33	292.03	51	267.31
+"E 10 St & Avenue A"	morning	154.19	2	1	33	292.03	51	267.31
+"E 10 St & Avenue A"	afternoon	71.39	2	1	33	292.03	51	267.31
+"E 10 St & Avenue A"	evening	58.06	2	1	33	292.03	51	267.31
+"E 10 St & Avenue A"	night	4.16	2	1	33	292.03	51	267.31
+"31 Ave & 14 St"	morning	5.87	0	0	430	29.5	492	38.64
+"31 Ave & 14 St"	afternoon	4.06	0	0	430	29.5	492	38.64
+"31 Ave & 14 St"	evening	1.68	0	0	430	29.5	492	38.64
+"31 Ave & 14 St"	night	0.13	0	0	430	29.5	492	38.64
+"Stanton St & Chrystie St"	morning	37.65	4	2	118	173.67	193	140.11
+"Stanton St & Chrystie St"	afternoon	54.55	4	2	118	173.67	193	140.11
+"Stanton St & Chrystie St"	evening	58.06	4	2	118	173.67	193	140.11
+"Stanton St & Chrystie St"	night	5.68	4	2	118	173.67	193	140.11
+"Carlton Ave & Park Ave"	morning	13.32	0	0	430	29.5	492	38.64
+"Carlton Ave & Park Ave"	afternoon	7.9	0	0	430	29.5	492	38.64
+"Carlton Ave & Park Ave"	evening	4.23	0	0	430	29.5	492	38.64
+"Carlton Ave & Park Ave"	night	1.48	0	0	430	29.5	492	38.64
+"W 13 St & 5 Ave -moved to 5947.04"	morning	16.87	0	0	430	29.5	492	38.64
+"W 13 St & 5 Ave -moved to 5947.04"	afternoon	25.16	0	0	430	29.5	492	38.64
+"W 13 St & 5 Ave -moved to 5947.04"	evening	10.23	0	0	430	29.5	492	38.64
+"W 13 St & 5 Ave -moved to 5947.04"	night	0.48	0	0	430	29.5	492	38.64
+"Carroll St & 5 Ave"	morning	16.94	0	0	430	29.5	492	38.64
+"Carroll St & 5 Ave"	afternoon	14.97	0	0	430	29.5	492	38.64
+"Carroll St & 5 Ave"	evening	11.06	0	0	430	29.5	492	38.64
+"Carroll St & 5 Ave"	night	1.35	0	0	430	29.5	492	38.64
+"W 54 St & 9 Ave"	morning	19.13	1	2	184	94.58	193	140.11
+"W 54 St & 9 Ave"	afternoon	40.61	1	2	184	94.58	193	140.11
+"W 54 St & 9 Ave"	evening	41.52	1	2	184	94.58	193	140.11
+"W 54 St & 9 Ave"	night	2.26	1	2	184	94.58	193	140.11
+"Hicks St & Montague St"	morning	25.81	1	0	184	94.58	492	38.64
+"Hicks St & Montague St"	afternoon	26.1	1	0	184	94.58	492	38.64
+"Hicks St & Montague St"	evening	20.87	1	0	184	94.58	492	38.64
+"Hicks St & Montague St"	night	0.55	1	0	184	94.58	492	38.64
+"Stanton St & Mangin St"	morning	29.9	1	0	184	94.58	492	38.64
+"Stanton St & Mangin St"	afternoon	24.45	1	0	184	94.58	492	38.64
+"Stanton St & Mangin St"	evening	16.32	1	0	184	94.58	492	38.64
+"Stanton St & Mangin St"	night	0.77	1	0	184	94.58	492	38.64
+"Astoria Park S & Shore Blvd"	morning	6.58	0	0	430	29.5	492	38.64
+"Astoria Park S & Shore Blvd"	afternoon	4.45	0	0	430	29.5	492	38.64
+"Astoria Park S & Shore Blvd"	evening	4.32	0	0	430	29.5	492	38.64
+"Astoria Park S & Shore Blvd"	night	0.39	0	0	430	29.5	492	38.64
+"W 63 St & Broadway"	morning	45.52	4	2	118	173.67	193	140.11
+"W 63 St & Broadway"	afternoon	57.74	4	2	118	173.67	193	140.11
+"W 63 St & Broadway"	evening	45.55	4	2	118	173.67	193	140.11
+"W 63 St & Broadway"	night	0.94	4	2	118	173.67	193	140.11
+"W 18 St & 9 Ave"	morning	33.77	1	2	184	94.58	193	140.11
+"W 18 St & 9 Ave"	afternoon	38.39	1	2	184	94.58	193	140.11
+"W 18 St & 9 Ave"	evening	20.52	1	2	184	94.58	193	140.11
+"W 18 St & 9 Ave"	night	2.55	1	2	184	94.58	193	140.11
+"31 Ave & 34 St"	morning	5.68	0	0	430	29.5	492	38.64
+"31 Ave & 34 St"	afternoon	7.0	0	0	430	29.5	492	38.64
+"31 Ave & 34 St"	evening	9.35	0	0	430	29.5	492	38.64
+"31 Ave & 34 St"	night	1.0	0	0	430	29.5	492	38.64
+"E 106 St & Lexington Ave"	morning	8.16	0	0	430	29.5	492	38.64
+"E 106 St & Lexington Ave"	afternoon	10.0	0	0	430	29.5	492	38.64
+"E 106 St & Lexington Ave"	evening	5.39	0	0	430	29.5	492	38.64
+"E 106 St & Lexington Ave"	night	0.45	0	0	430	29.5	492	38.64
+"E 84 St & 1 Ave"	morning	29.23	1	0	184	94.58	492	38.64
+"E 84 St & 1 Ave"	afternoon	22.58	1	0	184	94.58	492	38.64
+"E 84 St & 1 Ave"	evening	15.03	1	0	184	94.58	492	38.64
+"E 84 St & 1 Ave"	night	1.1	1	0	184	94.58	492	38.64
+"Front St & Gold St"	morning	10.9	0	0	430	29.5	492	38.64
+"Front St & Gold St"	afternoon	16.35	0	0	430	29.5	492	38.64
+"Front St & Gold St"	evening	15.26	0	0	430	29.5	492	38.64
+"Front St & Gold St"	night	0.65	0	0	430	29.5	492	38.64
+"Emerson Pl & Myrtle Ave"	morning	22.58	0	0	430	29.5	492	38.64
+"Emerson Pl & Myrtle Ave"	afternoon	17.84	0	0	430	29.5	492	38.64
+"Emerson Pl & Myrtle Ave"	evening	10.55	0	0	430	29.5	492	38.64
+"Emerson Pl & Myrtle Ave"	night	1.13	0	0	430	29.5	492	38.64
+"Avenue D & E 8 St"	morning	35.23	1	0	184	94.58	492	38.64
+"Avenue D & E 8 St"	afternoon	16.23	1	0	184	94.58	492	38.64
+"Avenue D & E 8 St"	evening	10.58	1	0	184	94.58	492	38.64
+"Avenue D & E 8 St"	night	0.84	1	0	184	94.58	492	38.64
+"W 78 St & Broadway"	morning	23.94	1	0	184	94.58	492	38.64
+"W 78 St & Broadway"	afternoon	23.77	1	0	184	94.58	492	38.64
+"W 78 St & Broadway"	evening	18.68	1	0	184	94.58	492	38.64
+"W 78 St & Broadway"	night	0.94	1	0	184	94.58	492	38.64
+"Henry St & Grand St"	morning	42.0	1	2	184	94.58	193	140.11
+"Henry St & Grand St"	afternoon	40.32	1	2	184	94.58	193	140.11
+"Henry St & Grand St"	evening	19.9	1	2	184	94.58	193	140.11
+"Henry St & Grand St"	night	1.68	1	2	184	94.58	193	140.11
+"Center Blvd & 48 Ave"	morning	12.23	0	0	430	29.5	492	38.64
+"Center Blvd & 48 Ave"	afternoon	9.77	0	0	430	29.5	492	38.64
+"Center Blvd & 48 Ave"	evening	7.19	0	0	430	29.5	492	38.64
+"Center Blvd & 48 Ave"	night	0.29	0	0	430	29.5	492	38.64
+"W 90 St & Amsterdam Ave"	morning	19.55	0	0	430	29.5	492	38.64
+"W 90 St & Amsterdam Ave"	afternoon	16.16	0	0	430	29.5	492	38.64
+"W 90 St & Amsterdam Ave"	evening	12.19	0	0	430	29.5	492	38.64
+"W 90 St & Amsterdam Ave"	night	1.1	0	0	430	29.5	492	38.64
+"Perry St & Bleecker St"	morning	26.32	1	0	184	94.58	492	38.64
+"Perry St & Bleecker St"	afternoon	34.26	1	0	184	94.58	492	38.64
+"Perry St & Bleecker St"	evening	25.06	1	0	184	94.58	492	38.64
+"Perry St & Bleecker St"	night	1.84	1	0	184	94.58	492	38.64
+"Park Ave & St Edwards St"	morning	4.97	0	3	430	29.5	29	18.21
+"Park Ave & St Edwards St"	afternoon	4.45	0	3	430	29.5	29	18.21
+"Park Ave & St Edwards St"	evening	2.0	0	3	430	29.5	29	18.21
+"Park Ave & St Edwards St"	night	0.32	0	3	430	29.5	29	18.21
+"West Thames St"	morning	51.45	1	2	184	94.58	193	140.11
+"West Thames St"	afternoon	49.65	1	2	184	94.58	193	140.11
+"West Thames St"	evening	29.06	1	2	184	94.58	193	140.11
+"West Thames St"	night	0.61	1	2	184	94.58	193	140.11
+"28 St & 38 Ave"	morning	5.74	0	0	430	29.5	492	38.64
+"28 St & 38 Ave"	afternoon	5.9	0	0	430	29.5	492	38.64
+"28 St & 38 Ave"	evening	4.9	0	0	430	29.5	492	38.64
+"28 St & 38 Ave"	night	0.58	0	0	430	29.5	492	38.64
+"E 102 St & 1 Ave"	morning	25.1	0	0	430	29.5	492	38.64
+"E 102 St & 1 Ave"	afternoon	22.87	0	0	430	29.5	492	38.64
+"E 102 St & 1 Ave"	evening	11.65	0	0	430	29.5	492	38.64
+"E 102 St & 1 Ave"	night	0.9	0	0	430	29.5	492	38.64
+"Duane St & Greenwich St"	morning	21.19	1	0	184	94.58	492	38.64
+"Duane St & Greenwich St"	afternoon	27.26	1	0	184	94.58	492	38.64
+"Duane St & Greenwich St"	evening	25.29	1	0	184	94.58	492	38.64
+"Duane St & Greenwich St"	night	1.42	1	0	184	94.58	492	38.64
+"Lafayette Ave & Classon Ave"	morning	19.77	0	0	430	29.5	492	38.64
+"Lafayette Ave & Classon Ave"	afternoon	14.81	0	0	430	29.5	492	38.64
+"Lafayette Ave & Classon Ave"	evening	16.48	0	0	430	29.5	492	38.64
+"Lafayette Ave & Classon Ave"	night	1.03	0	0	430	29.5	492	38.64
+"Nostrand Ave & Myrtle Ave"	morning	3.97	0	3	430	29.5	29	18.21
+"Nostrand Ave & Myrtle Ave"	afternoon	6.16	0	3	430	29.5	29	18.21
+"Nostrand Ave & Myrtle Ave"	evening	4.68	0	3	430	29.5	29	18.21
+"Nostrand Ave & Myrtle Ave"	night	0.48	0	3	430	29.5	29	18.21
+"Washington St & Gansevoort St"	morning	54.42	4	1	118	173.67	51	267.31
+"Washington St & Gansevoort St"	afternoon	87.23	4	1	118	173.67	51	267.31
+"Washington St & Gansevoort St"	evening	59.16	4	1	118	173.67	51	267.31
+"Washington St & Gansevoort St"	night	5.06	4	1	118	173.67	51	267.31
+"Willoughby Ave & Hall St"	morning	28.71	0	0	430	29.5	492	38.64
+"Willoughby Ave & Hall St"	afternoon	16.13	0	0	430	29.5	492	38.64
+"Willoughby Ave & Hall St"	evening	12.87	0	0	430	29.5	492	38.64
+"Willoughby Ave & Hall St"	night	0.58	0	0	430	29.5	492	38.64
+"Mt Morris Park W & W 120 St"	morning	11.87	0	0	430	29.5	492	38.64
+"Mt Morris Park W & W 120 St"	afternoon	7.68	0	0	430	29.5	492	38.64
+"Mt Morris Park W & W 120 St"	evening	6.19	0	0	430	29.5	492	38.64
+"Mt Morris Park W & W 120 St"	night	0.45	0	0	430	29.5	492	38.64
+"Adam Clayton Powell Blvd & W 115 St"	morning	8.74	0	3	430	29.5	29	18.21
+"Adam Clayton Powell Blvd & W 115 St"	afternoon	5.29	0	3	430	29.5	29	18.21
+"Adam Clayton Powell Blvd & W 115 St"	evening	2.9	0	3	430	29.5	29	18.21
+"Adam Clayton Powell Blvd & W 115 St"	night	0.32	0	3	430	29.5	29	18.21
+"E 106 St & Madison Ave"	morning	7.48	0	0	430	29.5	492	38.64
+"E 106 St & Madison Ave"	afternoon	8.77	0	0	430	29.5	492	38.64
+"E 106 St & Madison Ave"	evening	3.94	0	0	430	29.5	492	38.64
+"E 106 St & Madison Ave"	night	0.32	0	0	430	29.5	492	38.64
+"14 St & 5 Ave"	morning	15.77	0	0	430	29.5	492	38.64
+"14 St & 5 Ave"	afternoon	13.03	0	0	430	29.5	492	38.64
+"14 St & 5 Ave"	evening	9.42	0	0	430	29.5	492	38.64
+"14 St & 5 Ave"	night	0.74	0	0	430	29.5	492	38.64
+"Broadway & Moylan Pl"	morning	12.42	0	0	430	29.5	492	38.64
+"Broadway & Moylan Pl"	afternoon	18.9	0	0	430	29.5	492	38.64
+"Broadway & Moylan Pl"	evening	11.39	0	0	430	29.5	492	38.64
+"Broadway & Moylan Pl"	night	1.0	0	0	430	29.5	492	38.64
+"Frederick Douglass Blvd & W 115 St"	morning	15.32	0	0	430	29.5	492	38.64
+"Frederick Douglass Blvd & W 115 St"	afternoon	11.77	0	0	430	29.5	492	38.64
+"Frederick Douglass Blvd & W 115 St"	evening	7.19	0	0	430	29.5	492	38.64
+"Frederick Douglass Blvd & W 115 St"	night	1.45	0	0	430	29.5	492	38.64
+"E 78 St & 2 Ave"	morning	15.03	0	0	430	29.5	492	38.64
+"E 78 St & 2 Ave"	afternoon	14.97	0	0	430	29.5	492	38.64
+"E 78 St & 2 Ave"	evening	13.26	0	0	430	29.5	492	38.64
+"E 78 St & 2 Ave"	night	1.39	0	0	430	29.5	492	38.64
+"Madison St & Clinton St"	morning	30.68	1	0	184	94.58	492	38.64
+"Madison St & Clinton St"	afternoon	20.9	1	0	184	94.58	492	38.64
+"Madison St & Clinton St"	evening	12.26	1	0	184	94.58	492	38.64
+"Madison St & Clinton St"	night	1.84	1	0	184	94.58	492	38.64
+"E 35 St & 3 Ave"	morning	21.74	1	2	184	94.58	193	140.11
+"E 35 St & 3 Ave"	afternoon	38.71	1	2	184	94.58	193	140.11
+"E 35 St & 3 Ave"	evening	37.23	1	2	184	94.58	193	140.11
+"E 35 St & 3 Ave"	night	3.13	1	2	184	94.58	193	140.11
+"W 107 St & Columbus Ave"	morning	10.19	0	0	430	29.5	492	38.64
+"W 107 St & Columbus Ave"	afternoon	8.71	0	0	430	29.5	492	38.64
+"W 107 St & Columbus Ave"	evening	7.45	0	0	430	29.5	492	38.64
+"W 107 St & Columbus Ave"	night	0.48	0	0	430	29.5	492	38.64
+"W 59 St & 10 Ave"	morning	33.35	1	0	184	94.58	492	38.64
+"W 59 St & 10 Ave"	afternoon	28.74	1	0	184	94.58	492	38.64
+"W 59 St & 10 Ave"	evening	24.77	1	0	184	94.58	492	38.64
+"W 59 St & 10 Ave"	night	2.13	1	0	184	94.58	492	38.64
+"Myrtle Ave & St Edwards St"	morning	9.35	0	3	430	29.5	29	18.21
+"Myrtle Ave & St Edwards St"	afternoon	7.55	0	3	430	29.5	29	18.21
+"Myrtle Ave & St Edwards St"	evening	6.39	0	3	430	29.5	29	18.21
+"Myrtle Ave & St Edwards St"	night	0.58	0	3	430	29.5	29	18.21
+"Bialystoker Pl & Delancey St"	morning	28.77	1	0	184	94.58	492	38.64
+"Bialystoker Pl & Delancey St"	afternoon	23.68	1	0	184	94.58	492	38.64
+"Bialystoker Pl & Delancey St"	evening	9.65	1	0	184	94.58	492	38.64
+"Bialystoker Pl & Delancey St"	night	0.42	1	0	184	94.58	492	38.64
+"Columbia St & Rivington St"	morning	34.97	1	0	184	94.58	492	38.64
+"Columbia St & Rivington St"	afternoon	20.61	1	0	184	94.58	492	38.64
+"Columbia St & Rivington St"	evening	7.48	1	0	184	94.58	492	38.64
+"Columbia St & Rivington St"	night	0.45	1	0	184	94.58	492	38.64
+"Market St & Cherry St"	morning	24.13	1	0	184	94.58	492	38.64
+"Market St & Cherry St"	afternoon	23.48	1	0	184	94.58	492	38.64
+"Market St & Cherry St"	evening	19.03	1	0	184	94.58	492	38.64
+"Market St & Cherry St"	night	1.19	1	0	184	94.58	492	38.64
+"Halsey St & Tompkins Ave"	morning	7.9	0	0	430	29.5	492	38.64
+"Halsey St & Tompkins Ave"	afternoon	5.81	0	0	430	29.5	492	38.64
+"Halsey St & Tompkins Ave"	evening	4.61	0	0	430	29.5	492	38.64
+"Halsey St & Tompkins Ave"	night	0.35	0	0	430	29.5	492	38.64
+"Pike St & Monroe St"	morning	24.35	0	0	430	29.5	492	38.64
+"Pike St & Monroe St"	afternoon	19.35	0	0	430	29.5	492	38.64
+"Pike St & Monroe St"	evening	11.84	0	0	430	29.5	492	38.64
+"Pike St & Monroe St"	night	1.16	0	0	430	29.5	492	38.64
+"Riverside Dr & W 78 St"	morning	18.48	0	0	430	29.5	492	38.64
+"Riverside Dr & W 78 St"	afternoon	16.03	0	0	430	29.5	492	38.64
+"Riverside Dr & W 78 St"	evening	7.39	0	0	430	29.5	492	38.64
+"Riverside Dr & W 78 St"	night	0.39	0	0	430	29.5	492	38.64
+"E 74 St & 1 Ave"	morning	29.81	1	2	184	94.58	193	140.11
+"E 74 St & 1 Ave"	afternoon	32.68	1	2	184	94.58	193	140.11
+"E 74 St & 1 Ave"	evening	26.94	1	2	184	94.58	193	140.11
+"E 74 St & 1 Ave"	night	1.32	1	2	184	94.58	193	140.11
+"Central Park West & W 68 St"	morning	44.84	1	2	184	94.58	193	140.11
+"Central Park West & W 68 St"	afternoon	60.35	1	2	184	94.58	193	140.11
+"Central Park West & W 68 St"	evening	31.16	1	2	184	94.58	193	140.11
+"Central Park West & W 68 St"	night	1.81	1	2	184	94.58	193	140.11
+"W 88 St & West End Ave"	morning	22.13	0	0	430	29.5	492	38.64
+"W 88 St & West End Ave"	afternoon	13.84	0	0	430	29.5	492	38.64
+"W 88 St & West End Ave"	evening	9.65	0	0	430	29.5	492	38.64
+"W 88 St & West End Ave"	night	0.55	0	0	430	29.5	492	38.64
+"48 Ave & 30 Pl"	morning	1.16	0	0	430	29.5	492	38.64
+"48 Ave & 30 Pl"	afternoon	5.23	0	0	430	29.5	492	38.64
+"48 Ave & 30 Pl"	evening	1.35	0	0	430	29.5	492	38.64
+"48 Ave & 30 Pl"	night	0.97	0	0	430	29.5	492	38.64
+"Crescent St & Ditmars Blvd"	morning	6.35	0	0	430	29.5	492	38.64
+"Crescent St & Ditmars Blvd"	afternoon	4.81	0	0	430	29.5	492	38.64
+"Crescent St & Ditmars Blvd"	evening	4.71	0	0	430	29.5	492	38.64
+"Crescent St & Ditmars Blvd"	night	0.58	0	0	430	29.5	492	38.64
+"34 St & 35 Ave"	morning	4.94	0	0	430	29.5	492	38.64
+"34 St & 35 Ave"	afternoon	5.26	0	0	430	29.5	492	38.64
+"34 St & 35 Ave"	evening	5.0	0	0	430	29.5	492	38.64
+"34 St & 35 Ave"	night	0.81	0	0	430	29.5	492	38.64
+"Nassau Ave & Newell St"	morning	23.81	0	0	430	29.5	492	38.64
+"Nassau Ave & Newell St"	afternoon	10.13	0	0	430	29.5	492	38.64
+"Nassau Ave & Newell St"	evening	10.87	0	0	430	29.5	492	38.64
+"Nassau Ave & Newell St"	night	0.87	0	0	430	29.5	492	38.64
+"Riverside Dr & W 72 St"	morning	32.35	1	0	184	94.58	492	38.64
+"Riverside Dr & W 72 St"	afternoon	29.55	1	0	184	94.58	492	38.64
+"Riverside Dr & W 72 St"	evening	15.29	1	0	184	94.58	492	38.64
+"Riverside Dr & W 72 St"	night	0.65	1	0	184	94.58	492	38.64
+"W 84 St & Columbus Ave"	morning	31.06	1	0	184	94.58	492	38.64
+"W 84 St & Columbus Ave"	afternoon	25.45	1	0	184	94.58	492	38.64
+"W 84 St & Columbus Ave"	evening	21.87	1	0	184	94.58	492	38.64
+"W 84 St & Columbus Ave"	night	0.9	1	0	184	94.58	492	38.64
+"Central Park North & Adam Clayton Powell Blvd"	morning	31.39	1	2	184	94.58	193	140.11
+"Central Park North & Adam Clayton Powell Blvd"	afternoon	55.42	1	2	184	94.58	193	140.11
+"Central Park North & Adam Clayton Powell Blvd"	evening	15.06	1	2	184	94.58	193	140.11
+"Central Park North & Adam Clayton Powell Blvd"	night	0.84	1	2	184	94.58	193	140.11
+"Henry St & Degraw St"	morning	26.29	0	0	430	29.5	492	38.64
+"Henry St & Degraw St"	afternoon	16.29	0	0	430	29.5	492	38.64
+"Henry St & Degraw St"	evening	12.61	0	0	430	29.5	492	38.64
+"Henry St & Degraw St"	night	0.23	0	0	430	29.5	492	38.64
+"31 St & 23 Ave"	morning	8.71	0	0	430	29.5	492	38.64
+"31 St & 23 Ave"	afternoon	20.13	0	0	430	29.5	492	38.64
+"31 St & 23 Ave"	evening	18.16	0	0	430	29.5	492	38.64
+"31 St & 23 Ave"	night	2.19	0	0	430	29.5	492	38.64
+"11 Ave & W 59 St"	morning	60.52	4	2	118	173.67	193	140.11
+"11 Ave & W 59 St"	afternoon	60.32	4	2	118	173.67	193	140.11
+"11 Ave & W 59 St"	evening	45.9	4	2	118	173.67	193	140.11
+"11 Ave & W 59 St"	night	1.74	4	2	118	173.67	193	140.11
+"Clermont Ave & Park Ave"	morning	15.23	0	0	430	29.5	492	38.64
+"Clermont Ave & Park Ave"	afternoon	7.35	0	0	430	29.5	492	38.64
+"Clermont Ave & Park Ave"	evening	4.9	0	0	430	29.5	492	38.64
+"Clermont Ave & Park Ave"	night	0.16	0	0	430	29.5	492	38.64
+"W 110 St & Amsterdam Ave"	morning	10.61	0	0	430	29.5	492	38.64
+"W 110 St & Amsterdam Ave"	afternoon	16.23	0	0	430	29.5	492	38.64
+"W 110 St & Amsterdam Ave"	evening	10.26	0	0	430	29.5	492	38.64
+"W 110 St & Amsterdam Ave"	night	0.55	0	0	430	29.5	492	38.64
+"Harrison St & Hudson St"	morning	15.48	1	0	184	94.58	492	38.64
+"Harrison St & Hudson St"	afternoon	27.87	1	0	184	94.58	492	38.64
+"Harrison St & Hudson St"	evening	19.42	1	0	184	94.58	492	38.64
+"Harrison St & Hudson St"	night	0.71	1	0	184	94.58	492	38.64
+"Columbia St & Degraw St"	morning	17.32	0	0	430	29.5	492	38.64
+"Columbia St & Degraw St"	afternoon	13.58	0	0	430	29.5	492	38.64
+"Columbia St & Degraw St"	evening	7.81	0	0	430	29.5	492	38.64
+"Columbia St & Degraw St"	night	0.65	0	0	430	29.5	492	38.64
+"W 37 St & 10 Ave"	morning	56.87	4	2	118	173.67	193	140.11
+"W 37 St & 10 Ave"	afternoon	50.68	4	2	118	173.67	193	140.11
+"W 37 St & 10 Ave"	evening	50.35	4	2	118	173.67	193	140.11
+"W 37 St & 10 Ave"	night	3.35	4	2	118	173.67	193	140.11
+"Stagg St & Union Ave"	morning	19.74	0	0	430	29.5	492	38.64
+"Stagg St & Union Ave"	afternoon	12.0	0	0	430	29.5	492	38.64
+"Stagg St & Union Ave"	evening	12.26	0	0	430	29.5	492	38.64
+"Stagg St & Union Ave"	night	1.65	0	0	430	29.5	492	38.64
+"Grand Army Plaza & Plaza St West"	morning	22.94	1	0	184	94.58	492	38.64
+"Grand Army Plaza & Plaza St West"	afternoon	34.97	1	0	184	94.58	492	38.64
+"Grand Army Plaza & Plaza St West"	evening	14.29	1	0	184	94.58	492	38.64
+"Grand Army Plaza & Plaza St West"	night	0.39	1	0	184	94.58	492	38.64
+"Little West St & 1 Pl"	morning	50.06	4	2	118	173.67	193	140.11
+"Little West St & 1 Pl"	afternoon	71.55	4	2	118	173.67	193	140.11
+"Little West St & 1 Pl"	evening	38.1	4	2	118	173.67	193	140.11
+"Little West St & 1 Pl"	night	1.03	4	2	118	173.67	193	140.11
+"Frederick Douglass Blvd & W 112 St"	morning	21.48	0	0	430	29.5	492	38.64
+"Frederick Douglass Blvd & W 112 St"	afternoon	20.0	0	0	430	29.5	492	38.64
+"Frederick Douglass Blvd & W 112 St"	evening	10.48	0	0	430	29.5	492	38.64
+"Frederick Douglass Blvd & W 112 St"	night	0.87	0	0	430	29.5	492	38.64
+"E 9 St & Avenue C"	morning	58.87	1	2	184	94.58	193	140.11
+"E 9 St & Avenue C"	afternoon	34.52	1	2	184	94.58	193	140.11
+"E 9 St & Avenue C"	evening	26.48	1	2	184	94.58	193	140.11
+"E 9 St & Avenue C"	night	2.87	1	2	184	94.58	193	140.11
+"Newtown Ave & 23 St"	morning	5.03	0	0	430	29.5	492	38.64
+"Newtown Ave & 23 St"	afternoon	3.71	0	0	430	29.5	492	38.64
+"Newtown Ave & 23 St"	evening	5.55	0	0	430	29.5	492	38.64
+"Newtown Ave & 23 St"	night	0.81	0	0	430	29.5	492	38.64
+"27 Ave & 9 St"	morning	2.35	0	0	430	29.5	492	38.64
+"27 Ave & 9 St"	afternoon	1.35	0	0	430	29.5	492	38.64
+"27 Ave & 9 St"	evening	1.19	0	0	430	29.5	492	38.64
+"27 Ave & 9 St"	night	0.45	0	0	430	29.5	492	38.64
+"E 89 St & 3 Ave"	morning	14.65	0	0	430	29.5	492	38.64
+"E 89 St & 3 Ave"	afternoon	18.13	0	0	430	29.5	492	38.64
+"E 89 St & 3 Ave"	evening	17.52	0	0	430	29.5	492	38.64
+"E 89 St & 3 Ave"	night	0.55	0	0	430	29.5	492	38.64
+"W 37 St & 5 Ave"	morning	37.0	1	2	184	94.58	193	140.11
+"W 37 St & 5 Ave"	afternoon	63.74	1	2	184	94.58	193	140.11
+"W 37 St & 5 Ave"	evening	20.97	1	2	184	94.58	193	140.11
+"W 37 St & 5 Ave"	night	1.13	1	2	184	94.58	193	140.11
+"Huron St & Franklin St"	morning	22.61	0	0	430	29.5	492	38.64
+"Huron St & Franklin St"	afternoon	15.77	0	0	430	29.5	492	38.64
+"Huron St & Franklin St"	evening	12.29	0	0	430	29.5	492	38.64
+"Huron St & Franklin St"	night	0.65	0	0	430	29.5	492	38.64
+"3 Ave & E 112 St"	morning	5.74	0	0	430	29.5	492	38.64
+"3 Ave & E 112 St"	afternoon	3.68	0	0	430	29.5	492	38.64
+"3 Ave & E 112 St"	evening	3.19	0	0	430	29.5	492	38.64
+"3 Ave & E 112 St"	night	1.06	0	0	430	29.5	492	38.64
+"Banker St & Meserole Ave"	morning	18.26	0	0	430	29.5	492	38.64
+"Banker St & Meserole Ave"	afternoon	16.68	0	0	430	29.5	492	38.64
+"Banker St & Meserole Ave"	evening	15.58	0	0	430	29.5	492	38.64
+"Banker St & Meserole Ave"	night	0.97	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 73 St"	morning	45.71	4	2	118	173.67	193	140.11
+"Amsterdam Ave & W 73 St"	afternoon	59.32	4	2	118	173.67	193	140.11
+"Amsterdam Ave & W 73 St"	evening	54.13	4	2	118	173.67	193	140.11
+"Amsterdam Ave & W 73 St"	night	2.06	4	2	118	173.67	193	140.11
+"Cadman Plaza E & Tillary St"	morning	9.65	0	0	430	29.5	492	38.64
+"Cadman Plaza E & Tillary St"	afternoon	22.84	0	0	430	29.5	492	38.64
+"Cadman Plaza E & Tillary St"	evening	11.81	0	0	430	29.5	492	38.64
+"Cadman Plaza E & Tillary St"	night	0.77	0	0	430	29.5	492	38.64
+"Hudson St & Reade St"	morning	29.9	1	2	184	94.58	193	140.11
+"Hudson St & Reade St"	afternoon	42.26	1	2	184	94.58	193	140.11
+"Hudson St & Reade St"	evening	37.32	1	2	184	94.58	193	140.11
+"Hudson St & Reade St"	night	1.9	1	2	184	94.58	193	140.11
+"FDR Drive & E 35 St"	morning	40.03	1	2	184	94.58	193	140.11
+"FDR Drive & E 35 St"	afternoon	50.03	1	2	184	94.58	193	140.11
+"FDR Drive & E 35 St"	evening	40.9	1	2	184	94.58	193	140.11
+"FDR Drive & E 35 St"	night	0.55	1	2	184	94.58	193	140.11
+"W 106 St & Central Park West"	morning	20.32	0	0	430	29.5	492	38.64
+"W 106 St & Central Park West"	afternoon	19.77	0	0	430	29.5	492	38.64
+"W 106 St & Central Park West"	evening	11.06	0	0	430	29.5	492	38.64
+"W 106 St & Central Park West"	night	0.77	0	0	430	29.5	492	38.64
+"Pitt St & Stanton St"	morning	12.61	0	0	430	29.5	492	38.64
+"Pitt St & Stanton St"	afternoon	8.39	0	0	430	29.5	492	38.64
+"Pitt St & Stanton St"	evening	5.06	0	0	430	29.5	492	38.64
+"Pitt St & Stanton St"	night	0.45	0	0	430	29.5	492	38.64
+"Broadway & W 60 St"	morning	70.84	2	1	33	292.03	51	267.31
+"Broadway & W 60 St"	afternoon	132.94	2	1	33	292.03	51	267.31
+"Broadway & W 60 St"	evening	60.1	2	1	33	292.03	51	267.31
+"Broadway & W 60 St"	night	2.19	2	1	33	292.03	51	267.31
+"Riverside Dr & W 91 St"	morning	13.58	0	0	430	29.5	492	38.64
+"Riverside Dr & W 91 St"	afternoon	12.13	0	0	430	29.5	492	38.64
+"Riverside Dr & W 91 St"	evening	4.97	0	0	430	29.5	492	38.64
+"Riverside Dr & W 91 St"	night	0.19	0	0	430	29.5	492	38.64
+"N 8 St & Driggs Ave"	morning	29.48	1	2	184	94.58	193	140.11
+"N 8 St & Driggs Ave"	afternoon	37.9	1	2	184	94.58	193	140.11
+"N 8 St & Driggs Ave"	evening	31.45	1	2	184	94.58	193	140.11
+"N 8 St & Driggs Ave"	night	1.94	1	2	184	94.58	193	140.11
+"E 55 St & 3 Ave"	morning	30.61	1	2	184	94.58	193	140.11
+"E 55 St & 3 Ave"	afternoon	68.03	1	2	184	94.58	193	140.11
+"E 55 St & 3 Ave"	evening	24.32	1	2	184	94.58	193	140.11
+"E 55 St & 3 Ave"	night	0.45	1	2	184	94.58	193	140.11
+"E 76 St & Park Ave"	morning	18.48	0	0	430	29.5	492	38.64
+"E 76 St & Park Ave"	afternoon	24.97	0	0	430	29.5	492	38.64
+"E 76 St & Park Ave"	evening	9.48	0	0	430	29.5	492	38.64
+"E 76 St & Park Ave"	night	0.32	0	0	430	29.5	492	38.64
+"W 24 St & 7 Ave"	morning	61.29	4	1	118	173.67	51	267.31
+"W 24 St & 7 Ave"	afternoon	93.55	4	1	118	173.67	51	267.31
+"W 24 St & 7 Ave"	evening	61.81	4	1	118	173.67	51	267.31
+"W 24 St & 7 Ave"	night	2.84	4	1	118	173.67	51	267.31
+"Kane St & Clinton St"	morning	21.16	0	0	430	29.5	492	38.64
+"Kane St & Clinton St"	afternoon	12.52	0	0	430	29.5	492	38.64
+"Kane St & Clinton St"	evening	7.19	0	0	430	29.5	492	38.64
+"Kane St & Clinton St"	night	0.35	0	0	430	29.5	492	38.64
+"Clark St & Henry St"	morning	28.81	1	2	184	94.58	193	140.11
+"Clark St & Henry St"	afternoon	32.52	1	2	184	94.58	193	140.11
+"Clark St & Henry St"	evening	30.06	1	2	184	94.58	193	140.11
+"Clark St & Henry St"	night	1.65	1	2	184	94.58	193	140.11
+"Greene Ave & Throop Ave"	morning	10.52	0	0	430	29.5	492	38.64
+"Greene Ave & Throop Ave"	afternoon	4.32	0	0	430	29.5	492	38.64
+"Greene Ave & Throop Ave"	evening	3.06	0	0	430	29.5	492	38.64
+"Greene Ave & Throop Ave"	night	0.68	0	0	430	29.5	492	38.64
+"Frederick Douglass Blvd & W 117 St"	morning	27.84	1	0	184	94.58	492	38.64
+"Frederick Douglass Blvd & W 117 St"	afternoon	23.81	1	0	184	94.58	492	38.64
+"Frederick Douglass Blvd & W 117 St"	evening	16.35	1	0	184	94.58	492	38.64
+"Frederick Douglass Blvd & W 117 St"	night	1.29	1	0	184	94.58	492	38.64
+"Carroll St & 6 Ave"	morning	16.39	0	0	430	29.5	492	38.64
+"Carroll St & 6 Ave"	afternoon	13.35	0	0	430	29.5	492	38.64
+"Carroll St & 6 Ave"	evening	8.81	0	0	430	29.5	492	38.64
+"Carroll St & 6 Ave"	night	0.32	0	0	430	29.5	492	38.64
+"E 66 St & Madison Ave"	morning	5.39	0	0	430	29.5	492	38.64
+"E 66 St & Madison Ave"	afternoon	16.68	0	0	430	29.5	492	38.64
+"E 66 St & Madison Ave"	evening	5.0	0	0	430	29.5	492	38.64
+"E 66 St & Madison Ave"	night	0.39	0	0	430	29.5	492	38.64
+"21 St & 36 Ave"	morning	1.16	0	0	430	29.5	492	38.64
+"21 St & 36 Ave"	afternoon	1.68	0	0	430	29.5	492	38.64
+"21 St & 36 Ave"	evening	1.26	0	0	430	29.5	492	38.64
+"21 St & 36 Ave"	night	0.55	0	0	430	29.5	492	38.64
+"Bond St & Bergen St"	morning	18.61	0	0	430	29.5	492	38.64
+"Bond St & Bergen St"	afternoon	14.42	0	0	430	29.5	492	38.64
+"Bond St & Bergen St"	evening	10.13	0	0	430	29.5	492	38.64
+"Bond St & Bergen St"	night	1.19	0	0	430	29.5	492	38.64
+"Pershing Square North"	morning	169.39	2	1	33	292.03	51	267.31
+"Pershing Square North"	afternoon	214.42	2	1	33	292.03	51	267.31
+"Pershing Square North"	evening	136.26	2	1	33	292.03	51	267.31
+"Pershing Square North"	night	4.58	2	1	33	292.03	51	267.31
+"Pacific St & Nevins St"	morning	15.16	0	0	430	29.5	492	38.64
+"Pacific St & Nevins St"	afternoon	11.23	0	0	430	29.5	492	38.64
+"Pacific St & Nevins St"	evening	9.52	0	0	430	29.5	492	38.64
+"Pacific St & Nevins St"	night	0.39	0	0	430	29.5	492	38.64
+"President St & Henry St"	morning	21.26	0	0	430	29.5	492	38.64
+"President St & Henry St"	afternoon	9.87	0	0	430	29.5	492	38.64
+"President St & Henry St"	evening	5.55	0	0	430	29.5	492	38.64
+"President St & Henry St"	night	0.26	0	0	430	29.5	492	38.64
+"1 Ave & E 94 St"	morning	26.87	0	0	430	29.5	492	38.64
+"1 Ave & E 94 St"	afternoon	16.23	0	0	430	29.5	492	38.64
+"1 Ave & E 94 St"	evening	9.81	0	0	430	29.5	492	38.64
+"1 Ave & E 94 St"	night	0.77	0	0	430	29.5	492	38.64
+"Johnson St & Gold St"	morning	15.71	0	0	430	29.5	492	38.64
+"Johnson St & Gold St"	afternoon	17.13	0	0	430	29.5	492	38.64
+"Johnson St & Gold St"	evening	12.74	0	0	430	29.5	492	38.64
+"Johnson St & Gold St"	night	1.16	0	0	430	29.5	492	38.64
+"Crescent St & 34 Ave"	morning	7.45	0	0	430	29.5	492	38.64
+"Crescent St & 34 Ave"	afternoon	4.06	0	0	430	29.5	492	38.64
+"Crescent St & 34 Ave"	evening	5.13	0	0	430	29.5	492	38.64
+"Crescent St & 34 Ave"	night	0.29	0	0	430	29.5	492	38.64
+"E 43 St & 5 Ave"	morning	45.52	1	2	184	94.58	193	140.11
+"E 43 St & 5 Ave"	afternoon	61.87	1	2	184	94.58	193	140.11
+"E 43 St & 5 Ave"	evening	9.61	1	2	184	94.58	193	140.11
+"E 43 St & 5 Ave"	night	0.26	1	2	184	94.58	193	140.11
+"E 41 St & Madison Ave"	morning	79.48	4	2	118	173.67	193	140.11
+"E 41 St & Madison Ave"	afternoon	69.19	4	2	118	173.67	193	140.11
+"E 41 St & Madison Ave"	evening	14.81	4	2	118	173.67	193	140.11
+"E 41 St & Madison Ave"	night	0.61	4	2	118	173.67	193	140.11
+"Union Ave & Jackson St"	morning	4.77	0	0	430	29.5	492	38.64
+"Union Ave & Jackson St"	afternoon	7.1	0	0	430	29.5	492	38.64
+"Union Ave & Jackson St"	evening	9.68	0	0	430	29.5	492	38.64
+"Union Ave & Jackson St"	night	1.29	0	0	430	29.5	492	38.64
+"6 Ave & W 33 St"	morning	67.58	2	1	33	292.03	51	267.31
+"6 Ave & W 33 St"	afternoon	95.1	2	1	33	292.03	51	267.31
+"6 Ave & W 33 St"	evening	74.35	2	1	33	292.03	51	267.31
+"6 Ave & W 33 St"	night	3.97	2	1	33	292.03	51	267.31
+"Bergen St & Smith St"	morning	38.81	1	2	184	94.58	193	140.11
+"Bergen St & Smith St"	afternoon	48.0	1	2	184	94.58	193	140.11
+"Bergen St & Smith St"	evening	42.94	1	2	184	94.58	193	140.11
+"Bergen St & Smith St"	night	1.81	1	2	184	94.58	193	140.11
+"Cambridge Pl & Gates Ave"	morning	13.13	0	0	430	29.5	492	38.64
+"Cambridge Pl & Gates Ave"	afternoon	6.55	0	0	430	29.5	492	38.64
+"Cambridge Pl & Gates Ave"	evening	5.16	0	0	430	29.5	492	38.64
+"Cambridge Pl & Gates Ave"	night	0.52	0	0	430	29.5	492	38.64
+"E 48 St & 5 Ave"	morning	57.65	4	2	118	173.67	193	140.11
+"E 48 St & 5 Ave"	afternoon	99.55	4	2	118	173.67	193	140.11
+"E 48 St & 5 Ave"	evening	25.06	4	2	118	173.67	193	140.11
+"E 48 St & 5 Ave"	night	0.32	4	2	118	173.67	193	140.11
+"Great Jones St"	morning	89.52	2	1	33	292.03	51	267.31
+"Great Jones St"	afternoon	113.68	2	1	33	292.03	51	267.31
+"Great Jones St"	evening	71.35	2	1	33	292.03	51	267.31
+"Great Jones St"	night	2.61	2	1	33	292.03	51	267.31
+"W 84 St & Broadway"	morning	34.77	1	0	184	94.58	492	38.64
+"W 84 St & Broadway"	afternoon	26.68	1	0	184	94.58	492	38.64
+"W 84 St & Broadway"	evening	21.48	1	0	184	94.58	492	38.64
+"W 84 St & Broadway"	night	1.65	1	0	184	94.58	492	38.64
+"Jay St & York St"	morning	29.77	1	2	184	94.58	193	140.11
+"Jay St & York St"	afternoon	55.13	1	2	184	94.58	193	140.11
+"Jay St & York St"	evening	28.68	1	2	184	94.58	193	140.11
+"Jay St & York St"	night	1.1	1	2	184	94.58	193	140.11
+"2 Ave & E 122 St"	morning	5.61	0	0	430	29.5	492	38.64
+"2 Ave & E 122 St"	afternoon	5.77	0	0	430	29.5	492	38.64
+"2 Ave & E 122 St"	evening	4.48	0	0	430	29.5	492	38.64
+"2 Ave & E 122 St"	night	0.55	0	0	430	29.5	492	38.64
+"28 St & 36 Ave"	morning	4.74	0	0	430	29.5	492	38.64
+"28 St & 36 Ave"	afternoon	2.65	0	0	430	29.5	492	38.64
+"28 St & 36 Ave"	evening	4.26	0	0	430	29.5	492	38.64
+"28 St & 36 Ave"	night	0.26	0	0	430	29.5	492	38.64
+"E 58 St & 1 Ave"	morning	19.42	1	0	184	94.58	492	38.64
+"E 58 St & 1 Ave"	afternoon	33.03	1	0	184	94.58	492	38.64
+"E 58 St & 1 Ave"	evening	29.45	1	0	184	94.58	492	38.64
+"E 58 St & 1 Ave"	night	1.61	1	0	184	94.58	492	38.64
+"Broadway & W 58 St"	morning	62.71	4	2	118	173.67	193	140.11
+"Broadway & W 58 St"	afternoon	86.06	4	2	118	173.67	193	140.11
+"Broadway & W 58 St"	evening	40.94	4	2	118	173.67	193	140.11
+"Broadway & W 58 St"	night	2.0	4	2	118	173.67	193	140.11
+"Garfield Pl & 8 Ave"	morning	13.39	0	0	430	29.5	492	38.64
+"Garfield Pl & 8 Ave"	afternoon	9.87	0	0	430	29.5	492	38.64
+"Garfield Pl & 8 Ave"	evening	8.0	0	0	430	29.5	492	38.64
+"Garfield Pl & 8 Ave"	night	0.32	0	0	430	29.5	492	38.64
+"W 43 St & 6 Ave"	morning	56.06	4	2	118	173.67	193	140.11
+"W 43 St & 6 Ave"	afternoon	87.68	4	2	118	173.67	193	140.11
+"W 43 St & 6 Ave"	evening	20.65	4	2	118	173.67	193	140.11
+"W 43 St & 6 Ave"	night	1.16	4	2	118	173.67	193	140.11
+"E 109 St & 3 Ave"	morning	9.45	0	0	430	29.5	492	38.64
+"E 109 St & 3 Ave"	afternoon	7.29	0	0	430	29.5	492	38.64
+"E 109 St & 3 Ave"	evening	4.9	0	0	430	29.5	492	38.64
+"E 109 St & 3 Ave"	night	0.61	0	0	430	29.5	492	38.64
+"5 St & 6 Ave"	morning	11.32	0	0	430	29.5	492	38.64
+"5 St & 6 Ave"	afternoon	5.19	0	0	430	29.5	492	38.64
+"5 St & 6 Ave"	evening	4.65	0	0	430	29.5	492	38.64
+"5 St & 6 Ave"	night	0.1	0	0	430	29.5	492	38.64
+"E 68 St & 3 Ave"	morning	13.94	0	0	430	29.5	492	38.64
+"E 68 St & 3 Ave"	afternoon	19.0	0	0	430	29.5	492	38.64
+"E 68 St & 3 Ave"	evening	11.97	0	0	430	29.5	492	38.64
+"E 68 St & 3 Ave"	night	0.26	0	0	430	29.5	492	38.64
+"35 St & 34 Ave"	morning	3.65	0	0	430	29.5	492	38.64
+"35 St & 34 Ave"	afternoon	4.81	0	0	430	29.5	492	38.64
+"35 St & 34 Ave"	evening	4.42	0	0	430	29.5	492	38.64
+"35 St & 34 Ave"	night	0.26	0	0	430	29.5	492	38.64
+"South St & Whitehall St"	morning	28.48	1	2	184	94.58	193	140.11
+"South St & Whitehall St"	afternoon	53.55	1	2	184	94.58	193	140.11
+"South St & Whitehall St"	evening	20.65	1	2	184	94.58	193	140.11
+"South St & Whitehall St"	night	0.81	1	2	184	94.58	193	140.11
+"E 39 St & 3 Ave"	morning	61.84	4	2	118	173.67	193	140.11
+"E 39 St & 3 Ave"	afternoon	52.29	4	2	118	173.67	193	140.11
+"E 39 St & 3 Ave"	evening	26.55	4	2	118	173.67	193	140.11
+"E 39 St & 3 Ave"	night	1.35	4	2	118	173.67	193	140.11
+"Nassau St & Navy St"	morning	7.32	0	0	430	29.5	492	38.64
+"Nassau St & Navy St"	afternoon	17.1	0	0	430	29.5	492	38.64
+"Nassau St & Navy St"	evening	8.0	0	0	430	29.5	492	38.64
+"Nassau St & Navy St"	night	0.45	0	0	430	29.5	492	38.64
+"Berkeley Pl & 7 Ave"	morning	15.94	0	0	430	29.5	492	38.64
+"Berkeley Pl & 7 Ave"	afternoon	22.68	0	0	430	29.5	492	38.64
+"Berkeley Pl & 7 Ave"	evening	17.68	0	0	430	29.5	492	38.64
+"Berkeley Pl & 7 Ave"	night	0.23	0	0	430	29.5	492	38.64
+"Franklin St & W Broadway"	morning	23.16	1	2	184	94.58	193	140.11
+"Franklin St & W Broadway"	afternoon	43.71	1	2	184	94.58	193	140.11
+"Franklin St & W Broadway"	evening	32.9	1	2	184	94.58	193	140.11
+"Franklin St & W Broadway"	night	1.29	1	2	184	94.58	193	140.11
+"W 52 St & 5 Ave"	morning	26.65	4	2	118	173.67	193	140.11
+"W 52 St & 5 Ave"	afternoon	132.06	4	2	118	173.67	193	140.11
+"W 52 St & 5 Ave"	evening	26.55	4	2	118	173.67	193	140.11
+"W 52 St & 5 Ave"	night	0.26	4	2	118	173.67	193	140.11
+"3 St & 7 Ave"	morning	17.77	0	0	430	29.5	492	38.64
+"3 St & 7 Ave"	afternoon	15.74	0	0	430	29.5	492	38.64
+"3 St & 7 Ave"	evening	12.55	0	0	430	29.5	492	38.64
+"3 St & 7 Ave"	night	0.39	0	0	430	29.5	492	38.64
+"Meserole Ave & Manhattan Ave"	morning	21.32	1	0	184	94.58	492	38.64
+"Meserole Ave & Manhattan Ave"	afternoon	22.77	1	0	184	94.58	492	38.64
+"Meserole Ave & Manhattan Ave"	evening	21.35	1	0	184	94.58	492	38.64
+"Meserole Ave & Manhattan Ave"	night	2.19	1	0	184	94.58	492	38.64
+"44 Dr & Jackson Ave"	morning	12.16	0	0	430	29.5	492	38.64
+"44 Dr & Jackson Ave"	afternoon	22.68	0	0	430	29.5	492	38.64
+"44 Dr & Jackson Ave"	evening	13.61	0	0	430	29.5	492	38.64
+"44 Dr & Jackson Ave"	night	1.68	0	0	430	29.5	492	38.64
+"Kosciuszko St & Nostrand Ave"	morning	6.16	0	0	430	29.5	492	38.64
+"Kosciuszko St & Nostrand Ave"	afternoon	6.65	0	0	430	29.5	492	38.64
+"Kosciuszko St & Nostrand Ave"	evening	6.52	0	0	430	29.5	492	38.64
+"Kosciuszko St & Nostrand Ave"	night	0.19	0	0	430	29.5	492	38.64
+"E 67 St & Park Ave"	morning	10.71	0	0	430	29.5	492	38.64
+"E 67 St & Park Ave"	afternoon	19.61	0	0	430	29.5	492	38.64
+"E 67 St & Park Ave"	evening	6.87	0	0	430	29.5	492	38.64
+"E 67 St & Park Ave"	night	0.1	0	0	430	29.5	492	38.64
+"W 55 St & 6 Ave"	morning	41.61	4	2	118	173.67	193	140.11
+"W 55 St & 6 Ave"	afternoon	78.19	4	2	118	173.67	193	140.11
+"W 55 St & 6 Ave"	evening	29.03	4	2	118	173.67	193	140.11
+"W 55 St & 6 Ave"	night	1.35	4	2	118	173.67	193	140.11
+"Richardson St & N Henry St"	morning	14.71	0	0	430	29.5	492	38.64
+"Richardson St & N Henry St"	afternoon	8.16	0	0	430	29.5	492	38.64
+"Richardson St & N Henry St"	evening	11.45	0	0	430	29.5	492	38.64
+"Richardson St & N Henry St"	night	1.45	0	0	430	29.5	492	38.64
+"Classon Ave & St Marks Ave"	morning	15.13	0	0	430	29.5	492	38.64
+"Classon Ave & St Marks Ave"	afternoon	9.03	0	0	430	29.5	492	38.64
+"Classon Ave & St Marks Ave"	evening	10.74	0	0	430	29.5	492	38.64
+"Classon Ave & St Marks Ave"	night	0.87	0	0	430	29.5	492	38.64
+"Lexington Ave & Classon Ave"	morning	15.39	0	0	430	29.5	492	38.64
+"Lexington Ave & Classon Ave"	afternoon	9.61	0	0	430	29.5	492	38.64
+"Lexington Ave & Classon Ave"	evening	8.1	0	0	430	29.5	492	38.64
+"Lexington Ave & Classon Ave"	night	0.77	0	0	430	29.5	492	38.64
+"W 53 St & 10 Ave"	morning	38.71	1	2	184	94.58	193	140.11
+"W 53 St & 10 Ave"	afternoon	45.35	1	2	184	94.58	193	140.11
+"W 53 St & 10 Ave"	evening	42.58	1	2	184	94.58	193	140.11
+"W 53 St & 10 Ave"	night	2.23	1	2	184	94.58	193	140.11
+"3 St & Prospect Park West"	morning	20.84	0	0	430	29.5	492	38.64
+"3 St & Prospect Park West"	afternoon	22.71	0	0	430	29.5	492	38.64
+"3 St & Prospect Park West"	evening	11.55	0	0	430	29.5	492	38.64
+"3 St & Prospect Park West"	night	0.26	0	0	430	29.5	492	38.64
+"W 100 St & Broadway"	morning	28.77	1	0	184	94.58	492	38.64
+"W 100 St & Broadway"	afternoon	23.52	1	0	184	94.58	492	38.64
+"W 100 St & Broadway"	evening	18.77	1	0	184	94.58	492	38.64
+"W 100 St & Broadway"	night	1.0	1	0	184	94.58	492	38.64
+"3 Ave & E 100 St"	morning	5.74	0	0	430	29.5	492	38.64
+"3 Ave & E 100 St"	afternoon	3.97	0	0	430	29.5	492	38.64
+"3 Ave & E 100 St"	evening	4.1	0	0	430	29.5	492	38.64
+"3 Ave & E 100 St"	night	0.45	0	0	430	29.5	492	38.64
+"1 Pl & Clinton St"	morning	12.1	0	0	430	29.5	492	38.64
+"1 Pl & Clinton St"	afternoon	8.19	0	0	430	29.5	492	38.64
+"1 Pl & Clinton St"	evening	7.06	0	0	430	29.5	492	38.64
+"1 Pl & Clinton St"	night	0.13	0	0	430	29.5	492	38.64
+"21 St & Hoyt Ave S"	morning	3.19	0	0	430	29.5	492	38.64
+"21 St & Hoyt Ave S"	afternoon	2.42	0	0	430	29.5	492	38.64
+"21 St & Hoyt Ave S"	evening	2.23	0	0	430	29.5	492	38.64
+"21 St & Hoyt Ave S"	night	0.1	0	0	430	29.5	492	38.64
+"E 84 St & Park Ave"	morning	18.48	0	0	430	29.5	492	38.64
+"E 84 St & Park Ave"	afternoon	20.58	0	0	430	29.5	492	38.64
+"E 84 St & Park Ave"	evening	12.81	0	0	430	29.5	492	38.64
+"E 84 St & Park Ave"	night	0.52	0	0	430	29.5	492	38.64
+"E 27 St & 1 Ave"	morning	71.26	4	2	118	173.67	193	140.11
+"E 27 St & 1 Ave"	afternoon	43.68	4	2	118	173.67	193	140.11
+"E 27 St & 1 Ave"	evening	19.52	4	2	118	173.67	193	140.11
+"E 27 St & 1 Ave"	night	1.45	4	2	118	173.67	193	140.11
+"Prospect Park West & 8 St"	morning	11.0	0	0	430	29.5	492	38.64
+"Prospect Park West & 8 St"	afternoon	11.35	0	0	430	29.5	492	38.64
+"Prospect Park West & 8 St"	evening	9.03	0	0	430	29.5	492	38.64
+"Prospect Park West & 8 St"	night	0.16	0	0	430	29.5	492	38.64
+"Ditmars Blvd & 19 St"	morning	12.58	0	0	430	29.5	492	38.64
+"Ditmars Blvd & 19 St"	afternoon	6.1	0	0	430	29.5	492	38.64
+"Ditmars Blvd & 19 St"	evening	3.06	0	0	430	29.5	492	38.64
+"Ditmars Blvd & 19 St"	night	0.42	0	0	430	29.5	492	38.64
+"Broadway & Whipple St"	morning	8.55	0	0	430	29.5	492	38.64
+"Broadway & Whipple St"	afternoon	11.71	0	0	430	29.5	492	38.64
+"Broadway & Whipple St"	evening	7.81	0	0	430	29.5	492	38.64
+"Broadway & Whipple St"	night	0.87	0	0	430	29.5	492	38.64
+"Pleasant Ave & E 120 St"	morning	7.74	0	0	430	29.5	492	38.64
+"Pleasant Ave & E 120 St"	afternoon	7.1	0	0	430	29.5	492	38.64
+"Pleasant Ave & E 120 St"	evening	3.29	0	0	430	29.5	492	38.64
+"Pleasant Ave & E 120 St"	night	0.58	0	0	430	29.5	492	38.64
+"E 115 St & Madison Ave"	morning	5.84	0	0	430	29.5	492	38.64
+"E 115 St & Madison Ave"	afternoon	5.84	0	0	430	29.5	492	38.64
+"E 115 St & Madison Ave"	evening	4.42	0	0	430	29.5	492	38.64
+"E 115 St & Madison Ave"	night	0.35	0	0	430	29.5	492	38.64
+"Pershing Square South"	morning	88.9	4	2	118	173.67	193	140.11
+"Pershing Square South"	afternoon	71.55	4	2	118	173.67	193	140.11
+"Pershing Square South"	evening	26.61	4	2	118	173.67	193	140.11
+"Pershing Square South"	night	1.06	4	2	118	173.67	193	140.11
+"Lexington Ave & E 127 St"	morning	3.35	0	0	430	29.5	492	38.64
+"Lexington Ave & E 127 St"	afternoon	4.23	0	0	430	29.5	492	38.64
+"Lexington Ave & E 127 St"	evening	3.94	0	0	430	29.5	492	38.64
+"Lexington Ave & E 127 St"	night	0.42	0	0	430	29.5	492	38.64
+"19 St & 24 Ave"	morning	7.61	0	0	430	29.5	492	38.64
+"19 St & 24 Ave"	afternoon	3.94	0	0	430	29.5	492	38.64
+"19 St & 24 Ave"	evening	3.19	0	0	430	29.5	492	38.64
+"19 St & 24 Ave"	night	0.16	0	0	430	29.5	492	38.64
+"Cumberland St & Lafayette Ave"	morning	15.06	0	0	430	29.5	492	38.64
+"Cumberland St & Lafayette Ave"	afternoon	12.84	0	0	430	29.5	492	38.64
+"Cumberland St & Lafayette Ave"	evening	15.16	0	0	430	29.5	492	38.64
+"Cumberland St & Lafayette Ave"	night	1.1	0	0	430	29.5	492	38.64
+"Congress St & Clinton St"	morning	23.94	0	0	430	29.5	492	38.64
+"Congress St & Clinton St"	afternoon	16.58	0	0	430	29.5	492	38.64
+"Congress St & Clinton St"	evening	12.42	0	0	430	29.5	492	38.64
+"Congress St & Clinton St"	night	0.94	0	0	430	29.5	492	38.64
+"Sullivan Pl & Bedford Ave"	morning	3.42	0	3	430	29.5	29	18.21
+"Sullivan Pl & Bedford Ave"	afternoon	3.16	0	3	430	29.5	29	18.21
+"Sullivan Pl & Bedford Ave"	evening	1.52	0	3	430	29.5	29	18.21
+"Sullivan Pl & Bedford Ave"	night	0.16	0	3	430	29.5	29	18.21
+"W 25 St & 6 Ave"	morning	72.42	4	1	118	173.67	51	267.31
+"W 25 St & 6 Ave"	afternoon	90.29	4	1	118	173.67	51	267.31
+"W 25 St & 6 Ave"	evening	44.26	4	1	118	173.67	51	267.31
+"W 25 St & 6 Ave"	night	2.06	4	1	118	173.67	51	267.31
+"Devoe St & Lorimer St"	morning	13.58	0	0	430	29.5	492	38.64
+"Devoe St & Lorimer St"	afternoon	13.61	0	0	430	29.5	492	38.64
+"Devoe St & Lorimer St"	evening	14.29	0	0	430	29.5	492	38.64
+"Devoe St & Lorimer St"	night	1.77	0	0	430	29.5	492	38.64
+"Prospect Pl & 6 Ave"	morning	12.39	0	0	430	29.5	492	38.64
+"Prospect Pl & 6 Ave"	afternoon	9.65	0	0	430	29.5	492	38.64
+"Prospect Pl & 6 Ave"	evening	12.26	0	0	430	29.5	492	38.64
+"Prospect Pl & 6 Ave"	night	0.84	0	0	430	29.5	492	38.64
+"7 St & 5 Ave"	morning	10.29	0	0	430	29.5	492	38.64
+"7 St & 5 Ave"	afternoon	11.16	0	0	430	29.5	492	38.64
+"7 St & 5 Ave"	evening	6.23	0	0	430	29.5	492	38.64
+"7 St & 5 Ave"	night	0.35	0	0	430	29.5	492	38.64
+"Clinton St & Union St"	morning	15.97	0	0	430	29.5	492	38.64
+"Clinton St & Union St"	afternoon	9.65	0	0	430	29.5	492	38.64
+"Clinton St & Union St"	evening	8.03	0	0	430	29.5	492	38.64
+"Clinton St & Union St"	night	0.19	0	0	430	29.5	492	38.64
+"Van Brunt St & Van Dyke St"	morning	6.58	0	0	430	29.5	492	38.64
+"Van Brunt St & Van Dyke St"	afternoon	11.9	0	0	430	29.5	492	38.64
+"Van Brunt St & Van Dyke St"	evening	8.71	0	0	430	29.5	492	38.64
+"Van Brunt St & Van Dyke St"	night	0.32	0	0	430	29.5	492	38.64
+"31 Ave & Steinway St"	morning	3.81	0	0	430	29.5	492	38.64
+"31 Ave & Steinway St"	afternoon	7.71	0	0	430	29.5	492	38.64
+"31 Ave & Steinway St"	evening	8.19	0	0	430	29.5	492	38.64
+"31 Ave & Steinway St"	night	0.55	0	0	430	29.5	492	38.64
+"4 Ave & 2 St"	morning	9.55	0	0	430	29.5	492	38.64
+"4 Ave & 2 St"	afternoon	8.13	0	0	430	29.5	492	38.64
+"4 Ave & 2 St"	evening	4.74	0	0	430	29.5	492	38.64
+"4 Ave & 2 St"	night	0.1	0	0	430	29.5	492	38.64
+"Franklin Ave & St Marks Ave"	morning	9.68	0	0	430	29.5	492	38.64
+"Franklin Ave & St Marks Ave"	afternoon	6.35	0	0	430	29.5	492	38.64
+"Franklin Ave & St Marks Ave"	evening	7.1	0	0	430	29.5	492	38.64
+"Franklin Ave & St Marks Ave"	night	0.55	0	0	430	29.5	492	38.64
+"Underhill Ave & Lincoln Pl"	morning	12.16	0	0	430	29.5	492	38.64
+"Underhill Ave & Lincoln Pl"	afternoon	11.61	0	0	430	29.5	492	38.64
+"Underhill Ave & Lincoln Pl"	evening	11.0	0	0	430	29.5	492	38.64
+"Underhill Ave & Lincoln Pl"	night	0.77	0	0	430	29.5	492	38.64
+"E 58 St & 3 Ave"	morning	45.71	4	2	118	173.67	193	140.11
+"E 58 St & 3 Ave"	afternoon	72.03	4	2	118	173.67	193	140.11
+"E 58 St & 3 Ave"	evening	21.9	4	2	118	173.67	193	140.11
+"E 58 St & 3 Ave"	night	1.39	4	2	118	173.67	193	140.11
+"Henry St & Atlantic Ave"	morning	21.61	1	0	184	94.58	492	38.64
+"Henry St & Atlantic Ave"	afternoon	23.0	1	0	184	94.58	492	38.64
+"Henry St & Atlantic Ave"	evening	24.0	1	0	184	94.58	492	38.64
+"Henry St & Atlantic Ave"	night	1.29	1	0	184	94.58	492	38.64
+"Lexington Ave & E 63 St"	morning	30.42	1	0	184	94.58	492	38.64
+"Lexington Ave & E 63 St"	afternoon	38.77	1	0	184	94.58	492	38.64
+"Lexington Ave & E 63 St"	evening	15.35	1	0	184	94.58	492	38.64
+"Lexington Ave & E 63 St"	night	0.58	1	0	184	94.58	492	38.64
+"5 Ave & E 78 St"	morning	25.0	1	2	184	94.58	193	140.11
+"5 Ave & E 78 St"	afternoon	74.32	1	2	184	94.58	193	140.11
+"5 Ave & E 78 St"	evening	17.26	1	2	184	94.58	193	140.11
+"5 Ave & E 78 St"	night	0.19	1	2	184	94.58	193	140.11
+"Cherry St"	morning	22.9	0	0	430	29.5	492	38.64
+"Cherry St"	afternoon	26.0	0	0	430	29.5	492	38.64
+"Cherry St"	evening	13.1	0	0	430	29.5	492	38.64
+"Cherry St"	night	0.71	0	0	430	29.5	492	38.64
+"DeKalb Ave & S Portland Ave"	morning	19.61	0	0	430	29.5	492	38.64
+"DeKalb Ave & S Portland Ave"	afternoon	17.55	0	0	430	29.5	492	38.64
+"DeKalb Ave & S Portland Ave"	evening	10.42	0	0	430	29.5	492	38.64
+"DeKalb Ave & S Portland Ave"	night	0.81	0	0	430	29.5	492	38.64
+"E 81 St & Park Ave"	morning	6.26	0	0	430	29.5	492	38.64
+"E 81 St & Park Ave"	afternoon	8.45	0	0	430	29.5	492	38.64
+"E 81 St & Park Ave"	evening	5.58	0	0	430	29.5	492	38.64
+"E 81 St & Park Ave"	night	0.23	0	0	430	29.5	492	38.64
+"Broadway & W 36 St"	morning	43.97	1	2	184	94.58	193	140.11
+"Broadway & W 36 St"	afternoon	56.32	1	2	184	94.58	193	140.11
+"Broadway & W 36 St"	evening	25.77	1	2	184	94.58	193	140.11
+"Broadway & W 36 St"	night	2.0	1	2	184	94.58	193	140.11
+"Monroe St & Tompkins Ave"	morning	13.06	0	0	430	29.5	492	38.64
+"Monroe St & Tompkins Ave"	afternoon	7.26	0	0	430	29.5	492	38.64
+"Monroe St & Tompkins Ave"	evening	5.45	0	0	430	29.5	492	38.64
+"Monroe St & Tompkins Ave"	night	0.45	0	0	430	29.5	492	38.64
+"28 St & 41 Ave"	morning	10.52	0	0	430	29.5	492	38.64
+"28 St & 41 Ave"	afternoon	15.48	0	0	430	29.5	492	38.64
+"28 St & 41 Ave"	evening	7.0	0	0	430	29.5	492	38.64
+"28 St & 41 Ave"	night	0.61	0	0	430	29.5	492	38.64
+"27 Ave & 4 St"	morning	1.65	0	0	430	29.5	492	38.64
+"27 Ave & 4 St"	afternoon	1.81	0	0	430	29.5	492	38.64
+"27 Ave & 4 St"	evening	0.87	0	0	430	29.5	492	38.64
+"27 Ave & 4 St"	night	0.19	0	0	430	29.5	492	38.64
+"Jackson St & Leonard St"	morning	4.39	0	0	430	29.5	492	38.64
+"Jackson St & Leonard St"	afternoon	4.58	0	0	430	29.5	492	38.64
+"Jackson St & Leonard St"	evening	4.1	0	0	430	29.5	492	38.64
+"Jackson St & Leonard St"	night	0.29	0	0	430	29.5	492	38.64
+"Van Brunt St & Wolcott St"	morning	9.29	0	0	430	29.5	492	38.64
+"Van Brunt St & Wolcott St"	afternoon	7.45	0	0	430	29.5	492	38.64
+"Van Brunt St & Wolcott St"	evening	4.26	0	0	430	29.5	492	38.64
+"Van Brunt St & Wolcott St"	night	0.26	0	0	430	29.5	492	38.64
+"India St & Manhattan Ave"	morning	18.32	0	0	430	29.5	492	38.64
+"India St & Manhattan Ave"	afternoon	13.74	0	0	430	29.5	492	38.64
+"India St & Manhattan Ave"	evening	14.81	0	0	430	29.5	492	38.64
+"India St & Manhattan Ave"	night	1.03	0	0	430	29.5	492	38.64
+"William St & Pine St"	morning	19.94	1	0	184	94.58	492	38.64
+"William St & Pine St"	afternoon	37.45	1	0	184	94.58	492	38.64
+"William St & Pine St"	evening	17.26	1	0	184	94.58	492	38.64
+"William St & Pine St"	night	0.94	1	0	184	94.58	492	38.64
+"31 Ave & 30 St"	morning	5.13	0	0	430	29.5	492	38.64
+"31 Ave & 30 St"	afternoon	3.97	0	0	430	29.5	492	38.64
+"31 Ave & 30 St"	evening	7.68	0	0	430	29.5	492	38.64
+"31 Ave & 30 St"	night	0.68	0	0	430	29.5	492	38.64
+"35 Ave & 10 St"	morning	5.68	0	0	430	29.5	492	38.64
+"35 Ave & 10 St"	afternoon	3.0	0	0	430	29.5	492	38.64
+"35 Ave & 10 St"	evening	1.61	0	0	430	29.5	492	38.64
+"35 Ave & 10 St"	night	0.1	0	0	430	29.5	492	38.64
+"Franklin St & Dupont St"	morning	18.26	0	0	430	29.5	492	38.64
+"Franklin St & Dupont St"	afternoon	12.9	0	0	430	29.5	492	38.64
+"Franklin St & Dupont St"	evening	7.84	0	0	430	29.5	492	38.64
+"Franklin St & Dupont St"	night	0.42	0	0	430	29.5	492	38.64
+"Carroll St & Washington Ave"	morning	2.81	0	0	430	29.5	492	38.64
+"Carroll St & Washington Ave"	afternoon	3.77	0	0	430	29.5	492	38.64
+"Carroll St & Washington Ave"	evening	1.13	0	0	430	29.5	492	38.64
+"Carroll St & Washington Ave"	night	0.06	0	0	430	29.5	492	38.64
+"Atlantic Ave & Fort Greene Pl"	morning	4.68	0	0	430	29.5	492	38.64
+"Atlantic Ave & Fort Greene Pl"	afternoon	8.26	0	0	430	29.5	492	38.64
+"Atlantic Ave & Fort Greene Pl"	evening	7.77	0	0	430	29.5	492	38.64
+"Atlantic Ave & Fort Greene Pl"	night	0.52	0	0	430	29.5	492	38.64
+"6 Ave & Canal St"	morning	31.65	4	2	118	173.67	193	140.11
+"6 Ave & Canal St"	afternoon	62.87	4	2	118	173.67	193	140.11
+"6 Ave & Canal St"	evening	51.48	4	2	118	173.67	193	140.11
+"6 Ave & Canal St"	night	1.68	4	2	118	173.67	193	140.11
+"6 Ave & 12 St"	morning	10.52	0	0	430	29.5	492	38.64
+"6 Ave & 12 St"	afternoon	6.77	0	0	430	29.5	492	38.64
+"6 Ave & 12 St"	evening	4.35	0	0	430	29.5	492	38.64
+"6 Ave & 12 St"	night	0.32	0	0	430	29.5	492	38.64
+"Frost St & Meeker St"	morning	4.06	0	0	430	29.5	492	38.64
+"Frost St & Meeker St"	afternoon	5.16	0	0	430	29.5	492	38.64
+"Frost St & Meeker St"	evening	5.48	0	0	430	29.5	492	38.64
+"Frost St & Meeker St"	night	1.39	0	0	430	29.5	492	38.64
+"E 17 St & Broadway"	morning	101.32	2	1	33	292.03	51	267.31
+"E 17 St & Broadway"	afternoon	181.35	2	1	33	292.03	51	267.31
+"E 17 St & Broadway"	evening	86.1	2	1	33	292.03	51	267.31
+"E 17 St & Broadway"	night	3.39	2	1	33	292.03	51	267.31
+"E 102 St & Park Ave"	morning	5.0	0	0	430	29.5	492	38.64
+"E 102 St & Park Ave"	afternoon	14.0	0	0	430	29.5	492	38.64
+"E 102 St & Park Ave"	evening	5.55	0	0	430	29.5	492	38.64
+"E 102 St & Park Ave"	night	0.32	0	0	430	29.5	492	38.64
+"W 16 St & The High Line"	morning	44.74	4	2	118	173.67	193	140.11
+"W 16 St & The High Line"	afternoon	66.03	4	2	118	173.67	193	140.11
+"W 16 St & The High Line"	evening	29.84	4	2	118	173.67	193	140.11
+"W 16 St & The High Line"	night	1.84	4	2	118	173.67	193	140.11
+"Bedford Ave & Bergen St"	morning	13.55	0	0	430	29.5	492	38.64
+"Bedford Ave & Bergen St"	afternoon	8.9	0	0	430	29.5	492	38.64
+"Bedford Ave & Bergen St"	evening	9.0	0	0	430	29.5	492	38.64
+"Bedford Ave & Bergen St"	night	1.16	0	0	430	29.5	492	38.64
+"E 118 St & Madison Ave"	morning	8.06	0	0	430	29.5	492	38.64
+"E 118 St & Madison Ave"	afternoon	3.84	0	0	430	29.5	492	38.64
+"E 118 St & Madison Ave"	evening	3.84	0	0	430	29.5	492	38.64
+"E 118 St & Madison Ave"	night	0.23	0	0	430	29.5	492	38.64
+"Carlton Ave & Dean St"	morning	10.48	0	0	430	29.5	492	38.64
+"Carlton Ave & Dean St"	afternoon	8.97	0	0	430	29.5	492	38.64
+"Carlton Ave & Dean St"	evening	10.68	0	0	430	29.5	492	38.64
+"Carlton Ave & Dean St"	night	1.0	0	0	430	29.5	492	38.64
+"Leonard St & Church St"	morning	24.48	1	0	184	94.58	492	38.64
+"Leonard St & Church St"	afternoon	37.97	1	0	184	94.58	492	38.64
+"Leonard St & Church St"	evening	24.94	1	0	184	94.58	492	38.64
+"Leonard St & Church St"	night	1.0	1	0	184	94.58	492	38.64
+"5 Ave & E 93 St"	morning	15.94	0	0	430	29.5	492	38.64
+"5 Ave & E 93 St"	afternoon	31.06	0	0	430	29.5	492	38.64
+"5 Ave & E 93 St"	evening	7.77	0	0	430	29.5	492	38.64
+"5 Ave & E 93 St"	night	0.19	0	0	430	29.5	492	38.64
+"E 52 St & 2 Ave"	morning	29.97	1	2	184	94.58	193	140.11
+"E 52 St & 2 Ave"	afternoon	34.35	1	2	184	94.58	193	140.11
+"E 52 St & 2 Ave"	evening	29.1	1	2	184	94.58	193	140.11
+"E 52 St & 2 Ave"	night	1.71	1	2	184	94.58	193	140.11
+"Graham Ave & Grand St"	morning	11.77	0	0	430	29.5	492	38.64
+"Graham Ave & Grand St"	afternoon	10.87	0	0	430	29.5	492	38.64
+"Graham Ave & Grand St"	evening	11.68	0	0	430	29.5	492	38.64
+"Graham Ave & Grand St"	night	1.55	0	0	430	29.5	492	38.64
+"Riverside Dr & W 104 St"	morning	17.35	0	0	430	29.5	492	38.64
+"Riverside Dr & W 104 St"	afternoon	14.94	0	0	430	29.5	492	38.64
+"Riverside Dr & W 104 St"	evening	6.1	0	0	430	29.5	492	38.64
+"Riverside Dr & W 104 St"	night	0.39	0	0	430	29.5	492	38.64
+"E 103 St & Lexington Ave"	morning	9.68	0	0	430	29.5	492	38.64
+"E 103 St & Lexington Ave"	afternoon	12.77	0	0	430	29.5	492	38.64
+"E 103 St & Lexington Ave"	evening	9.97	0	0	430	29.5	492	38.64
+"E 103 St & Lexington Ave"	night	0.71	0	0	430	29.5	492	38.64
+"Newton Rd & 44 St"	morning	4.58	0	0	430	29.5	492	38.64
+"Newton Rd & 44 St"	afternoon	2.42	0	0	430	29.5	492	38.64
+"Newton Rd & 44 St"	evening	3.68	0	0	430	29.5	492	38.64
+"Newton Rd & 44 St"	night	0.74	0	0	430	29.5	492	38.64
+"43 St & Broadway"	morning	6.13	0	0	430	29.5	492	38.64
+"43 St & Broadway"	afternoon	6.35	0	0	430	29.5	492	38.64
+"43 St & Broadway"	evening	7.16	0	0	430	29.5	492	38.64
+"43 St & Broadway"	night	1.0	0	0	430	29.5	492	38.64
+"W 44 St & 5 Ave"	morning	24.84	1	2	184	94.58	193	140.11
+"W 44 St & 5 Ave"	afternoon	68.9	1	2	184	94.58	193	140.11
+"W 44 St & 5 Ave"	evening	15.26	1	2	184	94.58	193	140.11
+"W 44 St & 5 Ave"	night	0.42	1	2	184	94.58	193	140.11
+"Sterling Pl & Bedford Ave"	morning	11.23	0	0	430	29.5	492	38.64
+"Sterling Pl & Bedford Ave"	afternoon	6.71	0	0	430	29.5	492	38.64
+"Sterling Pl & Bedford Ave"	evening	7.1	0	0	430	29.5	492	38.64
+"Sterling Pl & Bedford Ave"	night	0.58	0	0	430	29.5	492	38.64
+"Liberty St & Broadway"	morning	43.87	4	2	118	173.67	193	140.11
+"Liberty St & Broadway"	afternoon	75.87	4	2	118	173.67	193	140.11
+"Liberty St & Broadway"	evening	26.06	4	2	118	173.67	193	140.11
+"Liberty St & Broadway"	night	1.58	4	2	118	173.67	193	140.11
+"Union St & 4 Ave"	morning	17.9	0	0	430	29.5	492	38.64
+"Union St & 4 Ave"	afternoon	17.23	0	0	430	29.5	492	38.64
+"Union St & 4 Ave"	evening	13.55	0	0	430	29.5	492	38.64
+"Union St & 4 Ave"	night	0.9	0	0	430	29.5	492	38.64
+"Boerum St & Broadway"	morning	7.39	0	0	430	29.5	492	38.64
+"Boerum St & Broadway"	afternoon	7.77	0	0	430	29.5	492	38.64
+"Boerum St & Broadway"	evening	7.35	0	0	430	29.5	492	38.64
+"Boerum St & Broadway"	night	1.06	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 125 St"	morning	6.48	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 125 St"	afternoon	11.1	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 125 St"	evening	5.48	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 125 St"	night	0.55	0	0	430	29.5	492	38.64
+"6 St & 7 Ave"	morning	8.03	0	0	430	29.5	492	38.64
+"6 St & 7 Ave"	afternoon	6.9	0	0	430	29.5	492	38.64
+"6 St & 7 Ave"	evening	6.06	0	0	430	29.5	492	38.64
+"6 St & 7 Ave"	night	0.42	0	0	430	29.5	492	38.64
+"Court St & State St"	morning	20.71	1	0	184	94.58	492	38.64
+"Court St & State St"	afternoon	32.58	1	0	184	94.58	492	38.64
+"Court St & State St"	evening	29.68	1	0	184	94.58	492	38.64
+"Court St & State St"	night	1.03	1	0	184	94.58	492	38.64
+"5 Ave & E 88 St"	morning	34.87	1	2	184	94.58	193	140.11
+"5 Ave & E 88 St"	afternoon	97.32	1	2	184	94.58	193	140.11
+"5 Ave & E 88 St"	evening	23.71	1	2	184	94.58	193	140.11
+"5 Ave & E 88 St"	night	0.39	1	2	184	94.58	193	140.11
+"Front St & Maiden Ln"	morning	17.87	1	2	184	94.58	193	140.11
+"Front St & Maiden Ln"	afternoon	52.87	1	2	184	94.58	193	140.11
+"Front St & Maiden Ln"	evening	19.0	1	2	184	94.58	193	140.11
+"Front St & Maiden Ln"	night	0.65	1	2	184	94.58	193	140.11
+"Greenwich Ave & Charles St"	morning	42.45	4	2	118	173.67	193	140.11
+"Greenwich Ave & Charles St"	afternoon	59.87	4	2	118	173.67	193	140.11
+"Greenwich Ave & Charles St"	evening	53.81	4	2	118	173.67	193	140.11
+"Greenwich Ave & Charles St"	night	4.9	4	2	118	173.67	193	140.11
+"Bayard St & Leonard St"	morning	10.77	0	0	430	29.5	492	38.64
+"Bayard St & Leonard St"	afternoon	8.16	0	0	430	29.5	492	38.64
+"Bayard St & Leonard St"	evening	8.1	0	0	430	29.5	492	38.64
+"Bayard St & Leonard St"	night	0.58	0	0	430	29.5	492	38.64
+"Lenox Ave & W 126 St"	morning	11.97	0	0	430	29.5	492	38.64
+"Lenox Ave & W 126 St"	afternoon	17.9	0	0	430	29.5	492	38.64
+"Lenox Ave & W 126 St"	evening	14.48	0	0	430	29.5	492	38.64
+"Lenox Ave & W 126 St"	night	1.42	0	0	430	29.5	492	38.64
+"W 92 St & Broadway"	morning	22.39	0	0	430	29.5	492	38.64
+"W 92 St & Broadway"	afternoon	18.26	0	0	430	29.5	492	38.64
+"W 92 St & Broadway"	evening	15.42	0	0	430	29.5	492	38.64
+"W 92 St & Broadway"	night	1.06	0	0	430	29.5	492	38.64
+"Concord St & Bridge St"	morning	9.77	0	0	430	29.5	492	38.64
+"Concord St & Bridge St"	afternoon	9.97	0	0	430	29.5	492	38.64
+"Concord St & Bridge St"	evening	5.94	0	0	430	29.5	492	38.64
+"Concord St & Bridge St"	night	0.65	0	0	430	29.5	492	38.64
+"2 Ave & E 99 St"	morning	8.81	0	0	430	29.5	492	38.64
+"2 Ave & E 99 St"	afternoon	8.61	0	0	430	29.5	492	38.64
+"2 Ave & E 99 St"	evening	6.29	0	0	430	29.5	492	38.64
+"2 Ave & E 99 St"	night	0.81	0	0	430	29.5	492	38.64
+"E 65 St & 2 Ave"	morning	17.48	0	0	430	29.5	492	38.64
+"E 65 St & 2 Ave"	afternoon	22.13	0	0	430	29.5	492	38.64
+"E 65 St & 2 Ave"	evening	14.26	0	0	430	29.5	492	38.64
+"E 65 St & 2 Ave"	night	0.58	0	0	430	29.5	492	38.64
+"Macon St & Nostrand Ave"	morning	14.13	0	0	430	29.5	492	38.64
+"Macon St & Nostrand Ave"	afternoon	19.1	0	0	430	29.5	492	38.64
+"Macon St & Nostrand Ave"	evening	18.1	0	0	430	29.5	492	38.64
+"Macon St & Nostrand Ave"	night	1.32	0	0	430	29.5	492	38.64
+"Baltic St & 5 Ave"	morning	17.03	0	0	430	29.5	492	38.64
+"Baltic St & 5 Ave"	afternoon	20.23	0	0	430	29.5	492	38.64
+"Baltic St & 5 Ave"	evening	14.81	0	0	430	29.5	492	38.64
+"Baltic St & 5 Ave"	night	1.16	0	0	430	29.5	492	38.64
+"Degraw St & Hoyt St"	morning	12.65	0	0	430	29.5	492	38.64
+"Degraw St & Hoyt St"	afternoon	10.16	0	0	430	29.5	492	38.64
+"Degraw St & Hoyt St"	evening	4.74	0	0	430	29.5	492	38.64
+"Degraw St & Hoyt St"	night	0.23	0	0	430	29.5	492	38.64
+"St Nicholas Ave & Manhattan Ave"	morning	12.03	0	0	430	29.5	492	38.64
+"St Nicholas Ave & Manhattan Ave"	afternoon	17.19	0	0	430	29.5	492	38.64
+"St Nicholas Ave & Manhattan Ave"	evening	15.87	0	0	430	29.5	492	38.64
+"St Nicholas Ave & Manhattan Ave"	night	1.58	0	0	430	29.5	492	38.64
+"Washington Park"	morning	17.77	0	0	430	29.5	492	38.64
+"Washington Park"	afternoon	14.84	0	0	430	29.5	492	38.64
+"Washington Park"	evening	7.71	0	0	430	29.5	492	38.64
+"Washington Park"	night	0.45	0	0	430	29.5	492	38.64
+"3 Ave & E 95 St"	morning	7.52	0	0	430	29.5	492	38.64
+"3 Ave & E 95 St"	afternoon	9.58	0	0	430	29.5	492	38.64
+"3 Ave & E 95 St"	evening	10.9	0	0	430	29.5	492	38.64
+"3 Ave & E 95 St"	night	0.87	0	0	430	29.5	492	38.64
+"W 52 St & 6 Ave"	morning	43.65	4	2	118	173.67	193	140.11
+"W 52 St & 6 Ave"	afternoon	133.74	4	2	118	173.67	193	140.11
+"W 52 St & 6 Ave"	evening	21.94	4	2	118	173.67	193	140.11
+"W 52 St & 6 Ave"	night	0.77	4	2	118	173.67	193	140.11
+"Richards St & Delavan St"	morning	3.84	0	0	430	29.5	492	38.64
+"Richards St & Delavan St"	afternoon	3.19	0	0	430	29.5	492	38.64
+"Richards St & Delavan St"	evening	1.42	0	0	430	29.5	492	38.64
+"Richards St & Delavan St"	night	0.1	0	0	430	29.5	492	38.64
+"Warren St & Court St"	morning	13.29	0	0	430	29.5	492	38.64
+"Warren St & Court St"	afternoon	13.9	0	0	430	29.5	492	38.64
+"Warren St & Court St"	evening	14.81	0	0	430	29.5	492	38.64
+"Warren St & Court St"	night	0.65	0	0	430	29.5	492	38.64
+"Avenue D & E 12 St"	morning	35.45	0	0	430	29.5	492	38.64
+"Avenue D & E 12 St"	afternoon	12.61	0	0	430	29.5	492	38.64
+"Avenue D & E 12 St"	evening	6.84	0	0	430	29.5	492	38.64
+"Avenue D & E 12 St"	night	0.97	0	0	430	29.5	492	38.64
+"W 100 St & Manhattan Ave"	morning	19.13	0	0	430	29.5	492	38.64
+"W 100 St & Manhattan Ave"	afternoon	21.39	0	0	430	29.5	492	38.64
+"W 100 St & Manhattan Ave"	evening	13.68	0	0	430	29.5	492	38.64
+"W 100 St & Manhattan Ave"	night	0.55	0	0	430	29.5	492	38.64
+"31 Ave & Crescent St"	morning	10.1	0	0	430	29.5	492	38.64
+"31 Ave & Crescent St"	afternoon	4.45	0	0	430	29.5	492	38.64
+"31 Ave & Crescent St"	evening	4.9	0	0	430	29.5	492	38.64
+"31 Ave & Crescent St"	night	0.26	0	0	430	29.5	492	38.64
+"Lexington Ave & E 120 St"	morning	4.52	0	0	430	29.5	492	38.64
+"Lexington Ave & E 120 St"	afternoon	4.84	0	0	430	29.5	492	38.64
+"Lexington Ave & E 120 St"	evening	3.45	0	0	430	29.5	492	38.64
+"Lexington Ave & E 120 St"	night	0.23	0	0	430	29.5	492	38.64
+"Prospect Pl & Underhill Ave"	morning	10.13	0	0	430	29.5	492	38.64
+"Prospect Pl & Underhill Ave"	afternoon	5.74	0	0	430	29.5	492	38.64
+"Prospect Pl & Underhill Ave"	evening	8.74	0	0	430	29.5	492	38.64
+"Prospect Pl & Underhill Ave"	night	0.68	0	0	430	29.5	492	38.64
+"Lafayette Ave & Fort Greene Pl"	morning	18.61	1	0	184	94.58	492	38.64
+"Lafayette Ave & Fort Greene Pl"	afternoon	23.68	1	0	184	94.58	492	38.64
+"Lafayette Ave & Fort Greene Pl"	evening	22.19	1	0	184	94.58	492	38.64
+"Lafayette Ave & Fort Greene Pl"	night	1.74	1	0	184	94.58	492	38.64
+"Front St & Washington St"	morning	22.68	1	2	184	94.58	193	140.11
+"Front St & Washington St"	afternoon	46.77	1	2	184	94.58	193	140.11
+"Front St & Washington St"	evening	32.06	1	2	184	94.58	193	140.11
+"Front St & Washington St"	night	1.06	1	2	184	94.58	193	140.11
+"Smith St & 3 St"	morning	10.55	0	0	430	29.5	492	38.64
+"Smith St & 3 St"	afternoon	14.94	0	0	430	29.5	492	38.64
+"Smith St & 3 St"	evening	10.77	0	0	430	29.5	492	38.64
+"Smith St & 3 St"	night	0.52	0	0	430	29.5	492	38.64
+"Marcus Garvey Blvd & Macon St"	morning	6.06	0	3	430	29.5	29	18.21
+"Marcus Garvey Blvd & Macon St"	afternoon	4.29	0	3	430	29.5	29	18.21
+"Marcus Garvey Blvd & Macon St"	evening	3.19	0	3	430	29.5	29	18.21
+"Marcus Garvey Blvd & Macon St"	night	0.39	0	3	430	29.5	29	18.21
+"Laight St & Hudson St"	morning	8.45	0	0	430	29.5	492	38.64
+"Laight St & Hudson St"	afternoon	23.52	0	0	430	29.5	492	38.64
+"Laight St & Hudson St"	evening	11.29	0	0	430	29.5	492	38.64
+"Laight St & Hudson St"	night	0.32	0	0	430	29.5	492	38.64
+"E 11 St & Broadway"	morning	23.87	1	0	184	94.58	492	38.64
+"E 11 St & Broadway"	afternoon	34.9	1	0	184	94.58	492	38.64
+"E 11 St & Broadway"	evening	23.58	1	0	184	94.58	492	38.64
+"E 11 St & Broadway"	night	1.16	1	0	184	94.58	492	38.64
+"Columbia St & Kane St"	morning	15.23	0	0	430	29.5	492	38.64
+"Columbia St & Kane St"	afternoon	8.45	0	0	430	29.5	492	38.64
+"Columbia St & Kane St"	evening	5.39	0	0	430	29.5	492	38.64
+"Columbia St & Kane St"	night	0.23	0	0	430	29.5	492	38.64
+"10 St & 5 Ave"	morning	8.42	0	0	430	29.5	492	38.64
+"10 St & 5 Ave"	afternoon	7.16	0	0	430	29.5	492	38.64
+"10 St & 5 Ave"	evening	5.52	0	0	430	29.5	492	38.64
+"10 St & 5 Ave"	night	0.29	0	0	430	29.5	492	38.64
+"30 Ave & 21 St"	morning	3.06	0	0	430	29.5	492	38.64
+"30 Ave & 21 St"	afternoon	2.48	0	0	430	29.5	492	38.64
+"30 Ave & 21 St"	evening	2.77	0	0	430	29.5	492	38.64
+"30 Ave & 21 St"	night	0.26	0	0	430	29.5	492	38.64
+"24 Ave & 26 St"	morning	5.58	0	0	430	29.5	492	38.64
+"24 Ave & 26 St"	afternoon	4.39	0	0	430	29.5	492	38.64
+"24 Ave & 26 St"	evening	3.13	0	0	430	29.5	492	38.64
+"24 Ave & 26 St"	night	0.32	0	0	430	29.5	492	38.64
+"Morningside Ave & W 123 St"	morning	7.87	0	0	430	29.5	492	38.64
+"Morningside Ave & W 123 St"	afternoon	11.23	0	0	430	29.5	492	38.64
+"Morningside Ave & W 123 St"	evening	7.32	0	0	430	29.5	492	38.64
+"Morningside Ave & W 123 St"	night	0.35	0	0	430	29.5	492	38.64
+"Eckford St & Engert Ave"	morning	7.52	0	0	430	29.5	492	38.64
+"Eckford St & Engert Ave"	afternoon	5.32	0	0	430	29.5	492	38.64
+"Eckford St & Engert Ave"	evening	5.58	0	0	430	29.5	492	38.64
+"Eckford St & Engert Ave"	night	0.26	0	0	430	29.5	492	38.64
+"Underhill Ave & Pacific St"	morning	13.29	0	0	430	29.5	492	38.64
+"Underhill Ave & Pacific St"	afternoon	7.35	0	0	430	29.5	492	38.64
+"Underhill Ave & Pacific St"	evening	6.35	0	0	430	29.5	492	38.64
+"Underhill Ave & Pacific St"	night	0.55	0	0	430	29.5	492	38.64
+"Pier 40 - Hudson River Park"	morning	31.74	4	2	118	173.67	193	140.11
+"Pier 40 - Hudson River Park"	afternoon	74.0	4	2	118	173.67	193	140.11
+"Pier 40 - Hudson River Park"	evening	54.97	4	2	118	173.67	193	140.11
+"Pier 40 - Hudson River Park"	night	1.61	4	2	118	173.67	193	140.11
+"46 Ave & 5 St"	morning	25.32	0	0	430	29.5	492	38.64
+"46 Ave & 5 St"	afternoon	16.35	0	0	430	29.5	492	38.64
+"46 Ave & 5 St"	evening	15.9	0	0	430	29.5	492	38.64
+"46 Ave & 5 St"	night	0.35	0	0	430	29.5	492	38.64
+"Graham Ave & Herbert St"	morning	9.74	0	0	430	29.5	492	38.64
+"Graham Ave & Herbert St"	afternoon	4.68	0	0	430	29.5	492	38.64
+"Graham Ave & Herbert St"	evening	5.23	0	0	430	29.5	492	38.64
+"Graham Ave & Herbert St"	night	0.81	0	0	430	29.5	492	38.64
+"St James Pl & Pearl St"	morning	8.58	0	0	430	29.5	492	38.64
+"St James Pl & Pearl St"	afternoon	8.71	0	0	430	29.5	492	38.64
+"St James Pl & Pearl St"	evening	5.71	0	0	430	29.5	492	38.64
+"St James Pl & Pearl St"	night	0.45	0	0	430	29.5	492	38.64
+"E 44 St & 2 Ave"	morning	22.35	1	0	184	94.58	492	38.64
+"E 44 St & 2 Ave"	afternoon	41.81	1	0	184	94.58	492	38.64
+"E 44 St & 2 Ave"	evening	13.39	1	0	184	94.58	492	38.64
+"E 44 St & 2 Ave"	night	1.35	1	0	184	94.58	492	38.64
+"Putnam Ave & Nostrand Ave"	morning	6.39	0	0	430	29.5	492	38.64
+"Putnam Ave & Nostrand Ave"	afternoon	3.52	0	0	430	29.5	492	38.64
+"Putnam Ave & Nostrand Ave"	evening	3.42	0	0	430	29.5	492	38.64
+"Putnam Ave & Nostrand Ave"	night	0.35	0	0	430	29.5	492	38.64
+"35 St & Broadway"	morning	4.19	0	0	430	29.5	492	38.64
+"35 St & Broadway"	afternoon	6.81	0	0	430	29.5	492	38.64
+"35 St & Broadway"	evening	7.29	0	0	430	29.5	492	38.64
+"35 St & Broadway"	night	1.23	0	0	430	29.5	492	38.64
+"37 St & 24 Ave"	morning	6.0	0	0	430	29.5	492	38.64
+"37 St & 24 Ave"	afternoon	2.68	0	0	430	29.5	492	38.64
+"37 St & 24 Ave"	evening	2.84	0	0	430	29.5	492	38.64
+"37 St & 24 Ave"	night	0.52	0	0	430	29.5	492	38.64
+"Murray St & Greenwich St"	morning	29.52	1	2	184	94.58	193	140.11
+"Murray St & Greenwich St"	afternoon	55.29	1	2	184	94.58	193	140.11
+"Murray St & Greenwich St"	evening	43.39	1	2	184	94.58	193	140.11
+"Murray St & Greenwich St"	night	0.68	1	2	184	94.58	193	140.11
+"Lincoln Pl & Classon Ave"	morning	3.23	0	0	430	29.5	492	38.64
+"Lincoln Pl & Classon Ave"	afternoon	4.16	0	0	430	29.5	492	38.64
+"Lincoln Pl & Classon Ave"	evening	3.48	0	0	430	29.5	492	38.64
+"Lincoln Pl & Classon Ave"	night	0.35	0	0	430	29.5	492	38.64
+"Flushing Ave & Vanderbilt Ave"	morning	13.94	0	0	430	29.5	492	38.64
+"Flushing Ave & Vanderbilt Ave"	afternoon	22.68	0	0	430	29.5	492	38.64
+"Flushing Ave & Vanderbilt Ave"	evening	15.19	0	0	430	29.5	492	38.64
+"Flushing Ave & Vanderbilt Ave"	night	0.81	0	0	430	29.5	492	38.64
+"23 Ave & 27 St"	morning	2.52	0	0	430	29.5	492	38.64
+"23 Ave & 27 St"	afternoon	2.42	0	0	430	29.5	492	38.64
+"23 Ave & 27 St"	evening	2.52	0	0	430	29.5	492	38.64
+"23 Ave & 27 St"	night	0.55	0	0	430	29.5	492	38.64
+"E 53 St & 3 Ave"	morning	36.58	1	2	184	94.58	193	140.11
+"E 53 St & 3 Ave"	afternoon	50.42	1	2	184	94.58	193	140.11
+"E 53 St & 3 Ave"	evening	18.94	1	2	184	94.58	193	140.11
+"E 53 St & 3 Ave"	night	1.81	1	2	184	94.58	193	140.11
+"University Pl & E 8 St"	morning	42.94	4	2	118	173.67	193	140.11
+"University Pl & E 8 St"	afternoon	88.35	4	2	118	173.67	193	140.11
+"University Pl & E 8 St"	evening	52.16	4	2	118	173.67	193	140.11
+"University Pl & E 8 St"	night	2.42	4	2	118	173.67	193	140.11
+"3 Ave & E 72 St"	morning	8.87	0	0	430	29.5	492	38.64
+"3 Ave & E 72 St"	afternoon	15.71	0	0	430	29.5	492	38.64
+"3 Ave & E 72 St"	evening	11.23	0	0	430	29.5	492	38.64
+"3 Ave & E 72 St"	night	0.35	0	0	430	29.5	492	38.64
+"Scholes St & Manhattan Ave"	morning	14.23	0	0	430	29.5	492	38.64
+"Scholes St & Manhattan Ave"	afternoon	9.58	0	0	430	29.5	492	38.64
+"Scholes St & Manhattan Ave"	evening	8.26	0	0	430	29.5	492	38.64
+"Scholes St & Manhattan Ave"	night	0.84	0	0	430	29.5	492	38.64
+"Commerce St & Van Brunt St"	morning	4.0	0	0	430	29.5	492	38.64
+"Commerce St & Van Brunt St"	afternoon	6.84	0	0	430	29.5	492	38.64
+"Commerce St & Van Brunt St"	evening	1.94	0	0	430	29.5	492	38.64
+"Commerce St & Van Brunt St"	night	0.16	0	0	430	29.5	492	38.64
+"Riverside Dr & W 82 St"	morning	28.39	0	0	430	29.5	492	38.64
+"Riverside Dr & W 82 St"	afternoon	19.84	0	0	430	29.5	492	38.64
+"Riverside Dr & W 82 St"	evening	10.65	0	0	430	29.5	492	38.64
+"Riverside Dr & W 82 St"	night	0.42	0	0	430	29.5	492	38.64
+"W 120 St & Claremont Ave"	morning	6.0	0	0	430	29.5	492	38.64
+"W 120 St & Claremont Ave"	afternoon	13.0	0	0	430	29.5	492	38.64
+"W 120 St & Claremont Ave"	evening	4.16	0	0	430	29.5	492	38.64
+"W 120 St & Claremont Ave"	night	0.35	0	0	430	29.5	492	38.64
+"Henry St & W 9 St"	morning	4.61	0	0	430	29.5	492	38.64
+"Henry St & W 9 St"	afternoon	3.19	0	0	430	29.5	492	38.64
+"Henry St & W 9 St"	evening	1.03	0	0	430	29.5	492	38.64
+"Henry St & W 9 St"	night	0.0	0	0	430	29.5	492	38.64
+"2 Ave & 36 St - Citi Bike HQ at Industry City"	morning	2.45	0	3	430	29.5	29	18.21
+"2 Ave & 36 St - Citi Bike HQ at Industry City"	afternoon	15.19	0	3	430	29.5	29	18.21
+"2 Ave & 36 St - Citi Bike HQ at Industry City"	evening	9.35	0	3	430	29.5	29	18.21
+"2 Ave & 36 St - Citi Bike HQ at Industry City"	night	0.16	0	3	430	29.5	29	18.21
+"Eastern Pkwy & Washington Ave"	morning	4.74	0	0	430	29.5	492	38.64
+"Eastern Pkwy & Washington Ave"	afternoon	8.94	0	0	430	29.5	492	38.64
+"Eastern Pkwy & Washington Ave"	evening	5.29	0	0	430	29.5	492	38.64
+"Eastern Pkwy & Washington Ave"	night	0.58	0	0	430	29.5	492	38.64
+"Columbia St & Lorraine St"	morning	1.1	0	3	430	29.5	29	18.21
+"Columbia St & Lorraine St"	afternoon	1.13	0	3	430	29.5	29	18.21
+"Columbia St & Lorraine St"	evening	0.42	0	3	430	29.5	29	18.21
+"Columbia St & Lorraine St"	night	0.0	0	3	430	29.5	29	18.21
+"31 St & Broadway"	morning	9.23	0	0	430	29.5	492	38.64
+"31 St & Broadway"	afternoon	9.45	0	0	430	29.5	492	38.64
+"31 St & Broadway"	evening	9.77	0	0	430	29.5	492	38.64
+"31 St & Broadway"	night	1.0	0	0	430	29.5	492	38.64
+"3 Ave & Schermerhorn St"	morning	16.35	0	0	430	29.5	492	38.64
+"3 Ave & Schermerhorn St"	afternoon	19.26	0	0	430	29.5	492	38.64
+"3 Ave & Schermerhorn St"	evening	17.32	0	0	430	29.5	492	38.64
+"3 Ave & Schermerhorn St"	night	1.45	0	0	430	29.5	492	38.64
+"Broadway & W 53 St"	morning	57.61	1	2	184	94.58	193	140.11
+"Broadway & W 53 St"	afternoon	38.71	1	2	184	94.58	193	140.11
+"Broadway & W 53 St"	evening	21.23	1	2	184	94.58	193	140.11
+"Broadway & W 53 St"	night	2.0	1	2	184	94.58	193	140.11
+"Rogers Ave & Sterling St"	morning	5.71	0	3	430	29.5	29	18.21
+"Rogers Ave & Sterling St"	afternoon	6.61	0	3	430	29.5	29	18.21
+"Rogers Ave & Sterling St"	evening	4.87	0	3	430	29.5	29	18.21
+"Rogers Ave & Sterling St"	night	0.65	0	3	430	29.5	29	18.21
+"E 93 St & 2 Ave"	morning	15.81	0	0	430	29.5	492	38.64
+"E 93 St & 2 Ave"	afternoon	11.23	0	0	430	29.5	492	38.64
+"E 93 St & 2 Ave"	evening	7.68	0	0	430	29.5	492	38.64
+"E 93 St & 2 Ave"	night	1.26	0	0	430	29.5	492	38.64
+"Frederick Douglass Blvd & W 129 St"	morning	7.32	0	3	430	29.5	29	18.21
+"Frederick Douglass Blvd & W 129 St"	afternoon	6.74	0	3	430	29.5	29	18.21
+"Frederick Douglass Blvd & W 129 St"	evening	3.97	0	3	430	29.5	29	18.21
+"Frederick Douglass Blvd & W 129 St"	night	0.65	0	3	430	29.5	29	18.21
+"Butler St & Court St"	morning	12.84	0	0	430	29.5	492	38.64
+"Butler St & Court St"	afternoon	11.06	0	0	430	29.5	492	38.64
+"Butler St & Court St"	evening	7.48	0	0	430	29.5	492	38.64
+"Butler St & Court St"	night	0.26	0	0	430	29.5	492	38.64
+"Plaza St West & Flatbush Ave"	morning	22.19	1	0	184	94.58	492	38.64
+"Plaza St West & Flatbush Ave"	afternoon	25.77	1	0	184	94.58	492	38.64
+"Plaza St West & Flatbush Ave"	evening	17.23	1	0	184	94.58	492	38.64
+"Plaza St West & Flatbush Ave"	night	0.58	1	0	184	94.58	492	38.64
+"Clermont Ave & Lafayette Ave"	morning	13.58	0	0	430	29.5	492	38.64
+"Clermont Ave & Lafayette Ave"	afternoon	8.52	0	0	430	29.5	492	38.64
+"Clermont Ave & Lafayette Ave"	evening	8.32	0	0	430	29.5	492	38.64
+"Clermont Ave & Lafayette Ave"	night	0.48	0	0	430	29.5	492	38.64
+"Dean St & Hoyt St"	morning	11.48	0	0	430	29.5	492	38.64
+"Dean St & Hoyt St"	afternoon	12.52	0	0	430	29.5	492	38.64
+"Dean St & Hoyt St"	evening	9.55	0	0	430	29.5	492	38.64
+"Dean St & Hoyt St"	night	0.81	0	0	430	29.5	492	38.64
+"Central Park West & W 102 St"	morning	17.03	0	0	430	29.5	492	38.64
+"Central Park West & W 102 St"	afternoon	12.26	0	0	430	29.5	492	38.64
+"Central Park West & W 102 St"	evening	5.71	0	0	430	29.5	492	38.64
+"Central Park West & W 102 St"	night	0.68	0	0	430	29.5	492	38.64
+"Lewis Ave & Madison St"	morning	12.19	0	3	430	29.5	29	18.21
+"Lewis Ave & Madison St"	afternoon	6.1	0	3	430	29.5	29	18.21
+"Lewis Ave & Madison St"	evening	5.71	0	3	430	29.5	29	18.21
+"Lewis Ave & Madison St"	night	0.55	0	3	430	29.5	29	18.21
+"E 81 St & 2 Ave"	morning	17.03	0	0	430	29.5	492	38.64
+"E 81 St & 2 Ave"	afternoon	17.13	0	0	430	29.5	492	38.64
+"E 81 St & 2 Ave"	evening	15.48	0	0	430	29.5	492	38.64
+"E 81 St & 2 Ave"	night	1.06	0	0	430	29.5	492	38.64
+"5 St & 51 Ave"	morning	4.19	0	0	430	29.5	492	38.64
+"5 St & 51 Ave"	afternoon	5.0	0	0	430	29.5	492	38.64
+"5 St & 51 Ave"	evening	5.32	0	0	430	29.5	492	38.64
+"5 St & 51 Ave"	night	0.39	0	0	430	29.5	492	38.64
+"Vernon Blvd & 30 Rd"	morning	6.58	0	0	430	29.5	492	38.64
+"Vernon Blvd & 30 Rd"	afternoon	8.42	0	0	430	29.5	492	38.64
+"Vernon Blvd & 30 Rd"	evening	7.52	0	0	430	29.5	492	38.64
+"Vernon Blvd & 30 Rd"	night	0.16	0	0	430	29.5	492	38.64
+"Dean St & Franklin Ave"	morning	12.71	0	0	430	29.5	492	38.64
+"Dean St & Franklin Ave"	afternoon	9.23	0	0	430	29.5	492	38.64
+"Dean St & Franklin Ave"	evening	7.55	0	0	430	29.5	492	38.64
+"Dean St & Franklin Ave"	night	0.42	0	0	430	29.5	492	38.64
+"Madison Ave & E 120 St"	morning	5.0	0	0	430	29.5	492	38.64
+"Madison Ave & E 120 St"	afternoon	3.9	0	0	430	29.5	492	38.64
+"Madison Ave & E 120 St"	evening	3.26	0	0	430	29.5	492	38.64
+"Madison Ave & E 120 St"	night	0.23	0	0	430	29.5	492	38.64
+"Monroe St & Classon Ave"	morning	18.16	0	0	430	29.5	492	38.64
+"Monroe St & Classon Ave"	afternoon	13.48	0	0	430	29.5	492	38.64
+"Monroe St & Classon Ave"	evening	6.0	0	0	430	29.5	492	38.64
+"Monroe St & Classon Ave"	night	0.32	0	0	430	29.5	492	38.64
+"N 12 St & Bedford Ave"	morning	13.26	0	0	430	29.5	492	38.64
+"N 12 St & Bedford Ave"	afternoon	16.1	0	0	430	29.5	492	38.64
+"N 12 St & Bedford Ave"	evening	18.26	0	0	430	29.5	492	38.64
+"N 12 St & Bedford Ave"	night	2.1	0	0	430	29.5	492	38.64
+"Pleasant Ave & E 116 St"	morning	15.16	0	0	430	29.5	492	38.64
+"Pleasant Ave & E 116 St"	afternoon	23.9	0	0	430	29.5	492	38.64
+"Pleasant Ave & E 116 St"	evening	12.55	0	0	430	29.5	492	38.64
+"Pleasant Ave & E 116 St"	night	0.58	0	0	430	29.5	492	38.64
+"Washington Ave & Park Ave"	morning	20.97	0	0	430	29.5	492	38.64
+"Washington Ave & Park Ave"	afternoon	18.1	0	0	430	29.5	492	38.64
+"Washington Ave & Park Ave"	evening	12.61	0	0	430	29.5	492	38.64
+"Washington Ave & Park Ave"	night	1.06	0	0	430	29.5	492	38.64
+"Montgomery St & Franklin Ave"	morning	2.55	0	0	430	29.5	492	38.64
+"Montgomery St & Franklin Ave"	afternoon	3.52	0	0	430	29.5	492	38.64
+"Montgomery St & Franklin Ave"	evening	1.16	0	0	430	29.5	492	38.64
+"Montgomery St & Franklin Ave"	night	0.13	0	0	430	29.5	492	38.64
+"3 Ave & E 71 St"	morning	9.87	0	0	430	29.5	492	38.64
+"3 Ave & E 71 St"	afternoon	12.26	0	0	430	29.5	492	38.64
+"3 Ave & E 71 St"	evening	7.42	0	0	430	29.5	492	38.64
+"3 Ave & E 71 St"	night	0.35	0	0	430	29.5	492	38.64
+"Columbia Heights & Cranberry St"	morning	6.45	0	0	430	29.5	492	38.64
+"Columbia Heights & Cranberry St"	afternoon	10.45	0	0	430	29.5	492	38.64
+"Columbia Heights & Cranberry St"	evening	5.81	0	0	430	29.5	492	38.64
+"Columbia Heights & Cranberry St"	night	0.45	0	0	430	29.5	492	38.64
+"34 Ave & 21 St"	morning	7.1	0	0	430	29.5	492	38.64
+"34 Ave & 21 St"	afternoon	4.1	0	0	430	29.5	492	38.64
+"34 Ave & 21 St"	evening	2.65	0	0	430	29.5	492	38.64
+"34 Ave & 21 St"	night	0.13	0	0	430	29.5	492	38.64
+"E 97 St & Madison Ave"	morning	18.23	0	0	430	29.5	492	38.64
+"E 97 St & Madison Ave"	afternoon	23.55	0	0	430	29.5	492	38.64
+"E 97 St & Madison Ave"	evening	14.9	0	0	430	29.5	492	38.64
+"E 97 St & Madison Ave"	night	0.35	0	0	430	29.5	492	38.64
+"Throop Ave & Myrtle Ave"	morning	4.52	0	3	430	29.5	29	18.21
+"Throop Ave & Myrtle Ave"	afternoon	2.58	0	3	430	29.5	29	18.21
+"Throop Ave & Myrtle Ave"	evening	1.68	0	3	430	29.5	29	18.21
+"Throop Ave & Myrtle Ave"	night	0.13	0	3	430	29.5	29	18.21
+"Broadway & W 122 St"	morning	4.77	0	0	430	29.5	492	38.64
+"Broadway & W 122 St"	afternoon	9.35	0	0	430	29.5	492	38.64
+"Broadway & W 122 St"	evening	5.48	0	0	430	29.5	492	38.64
+"Broadway & W 122 St"	night	0.58	0	0	430	29.5	492	38.64
+"Lenox Ave & W 117 St"	morning	10.32	0	0	430	29.5	492	38.64
+"Lenox Ave & W 117 St"	afternoon	13.94	0	0	430	29.5	492	38.64
+"Lenox Ave & W 117 St"	evening	13.48	0	0	430	29.5	492	38.64
+"Lenox Ave & W 117 St"	night	0.74	0	0	430	29.5	492	38.64
+"E 106 St & 1 Ave"	morning	7.97	0	0	430	29.5	492	38.64
+"E 106 St & 1 Ave"	afternoon	6.94	0	0	430	29.5	492	38.64
+"E 106 St & 1 Ave"	evening	3.13	0	0	430	29.5	492	38.64
+"E 106 St & 1 Ave"	night	0.19	0	0	430	29.5	492	38.64
+"36 Ave & 10 St"	morning	4.32	0	0	430	29.5	492	38.64
+"36 Ave & 10 St"	afternoon	4.26	0	0	430	29.5	492	38.64
+"36 Ave & 10 St"	evening	1.97	0	0	430	29.5	492	38.64
+"36 Ave & 10 St"	night	0.1	0	0	430	29.5	492	38.64
+"Clinton St & Centre St"	morning	3.52	0	0	430	29.5	492	38.64
+"Clinton St & Centre St"	afternoon	4.23	0	0	430	29.5	492	38.64
+"Clinton St & Centre St"	evening	1.71	0	0	430	29.5	492	38.64
+"Clinton St & Centre St"	night	0.0	0	0	430	29.5	492	38.64
+"Clinton Ave & Flushing Ave"	morning	7.52	0	0	430	29.5	492	38.64
+"Clinton Ave & Flushing Ave"	afternoon	17.48	0	0	430	29.5	492	38.64
+"Clinton Ave & Flushing Ave"	evening	8.9	0	0	430	29.5	492	38.64
+"Clinton Ave & Flushing Ave"	night	0.26	0	0	430	29.5	492	38.64
+"E 114 St & 1 Ave"	morning	6.77	0	0	430	29.5	492	38.64
+"E 114 St & 1 Ave"	afternoon	6.1	0	0	430	29.5	492	38.64
+"E 114 St & 1 Ave"	evening	3.58	0	0	430	29.5	492	38.64
+"E 114 St & 1 Ave"	night	0.26	0	0	430	29.5	492	38.64
+"45 Rd & 11 St"	morning	8.94	0	0	430	29.5	492	38.64
+"45 Rd & 11 St"	afternoon	12.9	0	0	430	29.5	492	38.64
+"45 Rd & 11 St"	evening	14.39	0	0	430	29.5	492	38.64
+"45 Rd & 11 St"	night	0.84	0	0	430	29.5	492	38.64
+"Carroll St & Smith St"	morning	26.77	1	0	184	94.58	492	38.64
+"Carroll St & Smith St"	afternoon	24.1	1	0	184	94.58	492	38.64
+"Carroll St & Smith St"	evening	18.39	1	0	184	94.58	492	38.64
+"Carroll St & Smith St"	night	1.58	1	0	184	94.58	492	38.64
+"Hoyt St & Warren St"	morning	6.61	0	0	430	29.5	492	38.64
+"Hoyt St & Warren St"	afternoon	4.16	0	0	430	29.5	492	38.64
+"Hoyt St & Warren St"	evening	3.55	0	0	430	29.5	492	38.64
+"Hoyt St & Warren St"	night	0.1	0	0	430	29.5	492	38.64
+"Old Slip & Front St"	morning	12.13	1	0	184	94.58	492	38.64
+"Old Slip & Front St"	afternoon	42.06	1	0	184	94.58	492	38.64
+"Old Slip & Front St"	evening	6.87	1	0	184	94.58	492	38.64
+"Old Slip & Front St"	night	0.26	1	0	184	94.58	492	38.64
+"5 Ave & E 73 St"	morning	33.29	1	2	184	94.58	193	140.11
+"5 Ave & E 73 St"	afternoon	84.29	1	2	184	94.58	193	140.11
+"5 Ave & E 73 St"	evening	18.55	1	2	184	94.58	193	140.11
+"5 Ave & E 73 St"	night	0.55	1	2	184	94.58	193	140.11
+"48 Ave & 5 St"	morning	5.55	0	0	430	29.5	492	38.64
+"48 Ave & 5 St"	afternoon	4.03	0	0	430	29.5	492	38.64
+"48 Ave & 5 St"	evening	4.94	0	0	430	29.5	492	38.64
+"48 Ave & 5 St"	night	0.13	0	0	430	29.5	492	38.64
+"Pacific St & Classon Ave"	morning	4.68	0	0	430	29.5	492	38.64
+"Pacific St & Classon Ave"	afternoon	2.1	0	0	430	29.5	492	38.64
+"Pacific St & Classon Ave"	evening	2.03	0	0	430	29.5	492	38.64
+"Pacific St & Classon Ave"	night	0.45	0	0	430	29.5	492	38.64
+"28 Ave & 35 St"	morning	3.32	0	0	430	29.5	492	38.64
+"28 Ave & 35 St"	afternoon	3.81	0	0	430	29.5	492	38.64
+"28 Ave & 35 St"	evening	4.94	0	0	430	29.5	492	38.64
+"28 Ave & 35 St"	night	0.65	0	0	430	29.5	492	38.64
+"Atlantic Ave & Furman St"	morning	12.9	1	0	184	94.58	492	38.64
+"Atlantic Ave & Furman St"	afternoon	30.45	1	0	184	94.58	492	38.64
+"Atlantic Ave & Furman St"	evening	26.06	1	0	184	94.58	492	38.64
+"Atlantic Ave & Furman St"	night	0.55	1	0	184	94.58	492	38.64
+"McKibbin St & Manhattan Ave"	morning	6.87	0	0	430	29.5	492	38.64
+"McKibbin St & Manhattan Ave"	afternoon	5.42	0	0	430	29.5	492	38.64
+"McKibbin St & Manhattan Ave"	evening	3.26	0	0	430	29.5	492	38.64
+"McKibbin St & Manhattan Ave"	night	0.77	0	0	430	29.5	492	38.64
+"Eastern Pkwy & Franklin Ave"	morning	17.19	0	0	430	29.5	492	38.64
+"Eastern Pkwy & Franklin Ave"	afternoon	13.23	0	0	430	29.5	492	38.64
+"Eastern Pkwy & Franklin Ave"	evening	13.19	0	0	430	29.5	492	38.64
+"Eastern Pkwy & Franklin Ave"	night	2.0	0	0	430	29.5	492	38.64
+"Henry St & Poplar St"	morning	9.03	0	0	430	29.5	492	38.64
+"Henry St & Poplar St"	afternoon	15.94	0	0	430	29.5	492	38.64
+"Henry St & Poplar St"	evening	14.29	0	0	430	29.5	492	38.64
+"Henry St & Poplar St"	night	0.55	0	0	430	29.5	492	38.64
+"Madison Ave & E 99 St"	morning	11.65	0	0	430	29.5	492	38.64
+"Madison Ave & E 99 St"	afternoon	20.68	0	0	430	29.5	492	38.64
+"Madison Ave & E 99 St"	evening	3.42	0	0	430	29.5	492	38.64
+"Madison Ave & E 99 St"	night	0.16	0	0	430	29.5	492	38.64
+"Broadway & W 37 St"	morning	34.48	1	0	184	94.58	492	38.64
+"Broadway & W 37 St"	afternoon	36.94	1	0	184	94.58	492	38.64
+"Broadway & W 37 St"	evening	11.9	1	0	184	94.58	492	38.64
+"Broadway & W 37 St"	night	0.9	1	0	184	94.58	492	38.64
+"Smith St & 9 St"	morning	12.74	0	0	430	29.5	492	38.64
+"Smith St & 9 St"	afternoon	19.61	0	0	430	29.5	492	38.64
+"Smith St & 9 St"	evening	15.58	0	0	430	29.5	492	38.64
+"Smith St & 9 St"	night	0.77	0	0	430	29.5	492	38.64
+"W 113 St & Broadway"	morning	11.06	0	0	430	29.5	492	38.64
+"W 113 St & Broadway"	afternoon	16.23	0	0	430	29.5	492	38.64
+"W 113 St & Broadway"	evening	10.61	0	0	430	29.5	492	38.64
+"W 113 St & Broadway"	night	1.1	0	0	430	29.5	492	38.64
+"Putnam Ave & Throop Ave"	morning	12.29	0	0	430	29.5	492	38.64
+"Putnam Ave & Throop Ave"	afternoon	5.06	0	0	430	29.5	492	38.64
+"Putnam Ave & Throop Ave"	evening	3.61	0	0	430	29.5	492	38.64
+"Putnam Ave & Throop Ave"	night	0.45	0	0	430	29.5	492	38.64
+"Bedford Ave & S 9 St"	morning	5.84	0	0	430	29.5	492	38.64
+"Bedford Ave & S 9 St"	afternoon	4.35	0	0	430	29.5	492	38.64
+"Bedford Ave & S 9 St"	evening	3.19	0	0	430	29.5	492	38.64
+"Bedford Ave & S 9 St"	night	0.29	0	0	430	29.5	492	38.64
+"12 St & 4 Ave"	morning	7.48	0	0	430	29.5	492	38.64
+"12 St & 4 Ave"	afternoon	5.1	0	0	430	29.5	492	38.64
+"12 St & 4 Ave"	evening	2.94	0	0	430	29.5	492	38.64
+"12 St & 4 Ave"	night	0.1	0	0	430	29.5	492	38.64
+"E 60 St & York Ave"	morning	12.87	0	0	430	29.5	492	38.64
+"E 60 St & York Ave"	afternoon	13.03	0	0	430	29.5	492	38.64
+"E 60 St & York Ave"	evening	7.58	0	0	430	29.5	492	38.64
+"E 60 St & York Ave"	night	0.26	0	0	430	29.5	492	38.64
+"Humboldt St & Varet St"	morning	6.68	0	0	430	29.5	492	38.64
+"Humboldt St & Varet St"	afternoon	11.61	0	0	430	29.5	492	38.64
+"Humboldt St & Varet St"	evening	5.94	0	0	430	29.5	492	38.64
+"Humboldt St & Varet St"	night	1.23	0	0	430	29.5	492	38.64
+"Crown St & Bedford Ave"	morning	2.81	0	0	430	29.5	492	38.64
+"Crown St & Bedford Ave"	afternoon	2.9	0	0	430	29.5	492	38.64
+"Crown St & Bedford Ave"	evening	1.45	0	0	430	29.5	492	38.64
+"Crown St & Bedford Ave"	night	0.1	0	0	430	29.5	492	38.64
+"Steinway St & 28 Ave"	morning	5.42	0	0	430	29.5	492	38.64
+"Steinway St & 28 Ave"	afternoon	5.16	0	0	430	29.5	492	38.64
+"Steinway St & 28 Ave"	evening	5.29	0	0	430	29.5	492	38.64
+"Steinway St & 28 Ave"	night	0.61	0	0	430	29.5	492	38.64
+"21 St & Queens Plaza North"	morning	4.48	0	0	430	29.5	492	38.64
+"21 St & Queens Plaza North"	afternoon	9.45	0	0	430	29.5	492	38.64
+"21 St & Queens Plaza North"	evening	10.61	0	0	430	29.5	492	38.64
+"21 St & Queens Plaza North"	night	1.0	0	0	430	29.5	492	38.64
+"N 15 St & Wythe Ave"	morning	7.81	0	0	430	29.5	492	38.64
+"N 15 St & Wythe Ave"	afternoon	9.87	0	0	430	29.5	492	38.64
+"N 15 St & Wythe Ave"	evening	7.35	0	0	430	29.5	492	38.64
+"N 15 St & Wythe Ave"	night	0.71	0	0	430	29.5	492	38.64
+"Douglass St & 3 Ave"	morning	15.19	0	0	430	29.5	492	38.64
+"Douglass St & 3 Ave"	afternoon	13.94	0	0	430	29.5	492	38.64
+"Douglass St & 3 Ave"	evening	19.26	0	0	430	29.5	492	38.64
+"Douglass St & 3 Ave"	night	0.94	0	0	430	29.5	492	38.64
+"35 Ave & 37 St"	morning	3.42	0	0	430	29.5	492	38.64
+"35 Ave & 37 St"	afternoon	6.71	0	0	430	29.5	492	38.64
+"35 Ave & 37 St"	evening	8.35	0	0	430	29.5	492	38.64
+"35 Ave & 37 St"	night	0.32	0	0	430	29.5	492	38.64
+"Union Ave & Wallabout St"	morning	4.81	0	0	430	29.5	492	38.64
+"Union Ave & Wallabout St"	afternoon	7.19	0	0	430	29.5	492	38.64
+"Union Ave & Wallabout St"	evening	4.71	0	0	430	29.5	492	38.64
+"Union Ave & Wallabout St"	night	0.35	0	0	430	29.5	492	38.64
+"Yankee Ferry Terminal"	morning	3.68	0	3	430	29.5	29	18.21
+"Yankee Ferry Terminal"	afternoon	21.55	0	3	430	29.5	29	18.21
+"Yankee Ferry Terminal"	evening	0.23	0	3	430	29.5	29	18.21
+"Yankee Ferry Terminal"	night	0.0	0	3	430	29.5	29	18.21
+"Pioneer St & Richards St"	morning	3.74	0	0	430	29.5	492	38.64
+"Pioneer St & Richards St"	afternoon	3.52	0	0	430	29.5	492	38.64
+"Pioneer St & Richards St"	evening	1.81	0	0	430	29.5	492	38.64
+"Pioneer St & Richards St"	night	0.1	0	0	430	29.5	492	38.64
+"Marcy Ave & Lafayette Ave"	morning	5.94	0	0	430	29.5	492	38.64
+"Marcy Ave & Lafayette Ave"	afternoon	5.16	0	0	430	29.5	492	38.64
+"Marcy Ave & Lafayette Ave"	evening	3.68	0	0	430	29.5	492	38.64
+"Marcy Ave & Lafayette Ave"	night	0.39	0	0	430	29.5	492	38.64
+"11 St & 35 Ave"	morning	1.77	0	0	430	29.5	492	38.64
+"11 St & 35 Ave"	afternoon	1.35	0	0	430	29.5	492	38.64
+"11 St & 35 Ave"	evening	0.39	0	0	430	29.5	492	38.64
+"11 St & 35 Ave"	night	0.0	0	0	430	29.5	492	38.64
+"Coffey St & Conover St"	morning	3.81	0	0	430	29.5	492	38.64
+"Coffey St & Conover St"	afternoon	7.87	0	0	430	29.5	492	38.64
+"Coffey St & Conover St"	evening	4.81	0	0	430	29.5	492	38.64
+"Coffey St & Conover St"	night	0.23	0	0	430	29.5	492	38.64
+"49 Ave & 21 St"	morning	7.52	0	0	430	29.5	492	38.64
+"49 Ave & 21 St"	afternoon	2.97	0	0	430	29.5	492	38.64
+"49 Ave & 21 St"	evening	4.42	0	0	430	29.5	492	38.64
+"49 Ave & 21 St"	night	0.35	0	0	430	29.5	492	38.64
+"44 Dr & 21 St"	morning	5.61	0	0	430	29.5	492	38.64
+"44 Dr & 21 St"	afternoon	16.55	0	0	430	29.5	492	38.64
+"44 Dr & 21 St"	evening	17.03	0	0	430	29.5	492	38.64
+"44 Dr & 21 St"	night	0.77	0	0	430	29.5	492	38.64
+"W 116 St & Amsterdam Ave"	morning	14.9	0	0	430	29.5	492	38.64
+"W 116 St & Amsterdam Ave"	afternoon	30.1	0	0	430	29.5	492	38.64
+"W 116 St & Amsterdam Ave"	evening	9.26	0	0	430	29.5	492	38.64
+"W 116 St & Amsterdam Ave"	night	0.74	0	0	430	29.5	492	38.64
+"E 72 St & Park Ave"	morning	17.1	0	0	430	29.5	492	38.64
+"E 72 St & Park Ave"	afternoon	24.94	0	0	430	29.5	492	38.64
+"E 72 St & Park Ave"	evening	10.97	0	0	430	29.5	492	38.64
+"E 72 St & Park Ave"	night	0.39	0	0	430	29.5	492	38.64
+"Morningside Dr & Amsterdam Ave"	morning	3.06	0	0	430	29.5	492	38.64
+"Morningside Dr & Amsterdam Ave"	afternoon	6.23	0	0	430	29.5	492	38.64
+"Morningside Dr & Amsterdam Ave"	evening	3.68	0	0	430	29.5	492	38.64
+"Morningside Dr & Amsterdam Ave"	night	0.19	0	0	430	29.5	492	38.64
+"Kingston Ave & Herkimer St"	morning	7.42	0	3	430	29.5	29	18.21
+"Kingston Ave & Herkimer St"	afternoon	6.52	0	3	430	29.5	29	18.21
+"Kingston Ave & Herkimer St"	evening	5.29	0	3	430	29.5	29	18.21
+"Kingston Ave & Herkimer St"	night	0.81	0	3	430	29.5	29	18.21
+"Adam Clayton Powell Blvd & W 118 St"	morning	9.03	0	0	430	29.5	492	38.64
+"Adam Clayton Powell Blvd & W 118 St"	afternoon	7.1	0	0	430	29.5	492	38.64
+"Adam Clayton Powell Blvd & W 118 St"	evening	4.81	0	0	430	29.5	492	38.64
+"Adam Clayton Powell Blvd & W 118 St"	night	0.58	0	0	430	29.5	492	38.64
+"37 Ave & 35 St"	morning	4.0	0	0	430	29.5	492	38.64
+"37 Ave & 35 St"	afternoon	5.1	0	0	430	29.5	492	38.64
+"37 Ave & 35 St"	evening	3.52	0	0	430	29.5	492	38.64
+"37 Ave & 35 St"	night	0.23	0	0	430	29.5	492	38.64
+"10 Hudson Yards"	morning	2.13	0	0	430	29.5	492	38.64
+"10 Hudson Yards"	afternoon	12.26	0	0	430	29.5	492	38.64
+"10 Hudson Yards"	evening	3.61	0	0	430	29.5	492	38.64
+"10 Hudson Yards"	night	0.0	0	0	430	29.5	492	38.64
+"24 St & 41 Ave"	morning	3.52	0	0	430	29.5	492	38.64
+"24 St & 41 Ave"	afternoon	7.87	0	0	430	29.5	492	38.64
+"24 St & 41 Ave"	evening	5.61	0	0	430	29.5	492	38.64
+"24 St & 41 Ave"	night	0.16	0	0	430	29.5	492	38.64
+"10 St & 7 Ave"	morning	7.16	0	0	430	29.5	492	38.64
+"10 St & 7 Ave"	afternoon	9.68	0	0	430	29.5	492	38.64
+"10 St & 7 Ave"	evening	10.9	0	0	430	29.5	492	38.64
+"10 St & 7 Ave"	night	1.68	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 119 St"	morning	7.29	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 119 St"	afternoon	15.52	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 119 St"	evening	6.65	0	0	430	29.5	492	38.64
+"Amsterdam Ave & W 119 St"	night	0.65	0	0	430	29.5	492	38.64
+"39 St & 2 Ave - Citi Bike HQ at Industry City"	morning	1.35	0	0	430	29.5	492	38.64
+"39 St & 2 Ave - Citi Bike HQ at Industry City"	afternoon	3.26	0	0	430	29.5	492	38.64
+"39 St & 2 Ave - Citi Bike HQ at Industry City"	evening	3.29	0	0	430	29.5	492	38.64
+"39 St & 2 Ave - Citi Bike HQ at Industry City"	night	0.19	0	0	430	29.5	492	38.64
+"Carroll St & Franklin Ave"	morning	2.84	0	0	430	29.5	492	38.64
+"Carroll St & Franklin Ave"	afternoon	2.06	0	0	430	29.5	492	38.64
+"Carroll St & Franklin Ave"	evening	1.9	0	0	430	29.5	492	38.64
+"Carroll St & Franklin Ave"	night	0.19	0	0	430	29.5	492	38.64
+"Old Fulton St"	morning	16.29	1	2	184	94.58	193	140.11
+"Old Fulton St"	afternoon	54.58	1	2	184	94.58	193	140.11
+"Old Fulton St"	evening	29.1	1	2	184	94.58	193	140.11
+"Old Fulton St"	night	2.06	1	2	184	94.58	193	140.11
+"Broad St & Bridge St"	morning	7.68	0	0	430	29.5	492	38.64
+"Broad St & Bridge St"	afternoon	37.9	0	0	430	29.5	492	38.64
+"Broad St & Bridge St"	evening	11.71	0	0	430	29.5	492	38.64
+"Broad St & Bridge St"	night	0.35	0	0	430	29.5	492	38.64
+"3 Ave & 14 St"	morning	8.45	0	3	430	29.5	29	18.21
+"3 Ave & 14 St"	afternoon	10.29	0	3	430	29.5	29	18.21
+"3 Ave & 14 St"	evening	5.61	0	3	430	29.5	29	18.21
+"3 Ave & 14 St"	night	0.61	0	3	430	29.5	29	18.21
+"Crescent St & 30 Ave"	morning	4.29	0	0	430	29.5	492	38.64
+"Crescent St & 30 Ave"	afternoon	5.48	0	0	430	29.5	492	38.64
+"Crescent St & 30 Ave"	evening	5.03	0	0	430	29.5	492	38.64
+"Crescent St & 30 Ave"	night	0.81	0	0	430	29.5	492	38.64
+"W 116 St & Broadway"	morning	11.97	0	0	430	29.5	492	38.64
+"W 116 St & Broadway"	afternoon	17.94	0	0	430	29.5	492	38.64
+"W 116 St & Broadway"	evening	11.35	0	0	430	29.5	492	38.64
+"W 116 St & Broadway"	night	0.74	0	0	430	29.5	492	38.64
+"Gold St & Frankfort St"	morning	10.03	0	0	430	29.5	492	38.64
+"Gold St & Frankfort St"	afternoon	25.32	0	0	430	29.5	492	38.64
+"Gold St & Frankfort St"	evening	10.29	0	0	430	29.5	492	38.64
+"Gold St & Frankfort St"	night	0.32	0	0	430	29.5	492	38.64
+"Carlton Ave & Flushing Ave"	morning	9.26	0	0	430	29.5	492	38.64
+"Carlton Ave & Flushing Ave"	afternoon	18.81	0	0	430	29.5	492	38.64
+"Carlton Ave & Flushing Ave"	evening	12.35	0	0	430	29.5	492	38.64
+"Carlton Ave & Flushing Ave"	night	0.65	0	0	430	29.5	492	38.64
+"9 St & 44 Rd"	morning	2.16	0	0	430	29.5	492	38.64
+"9 St & 44 Rd"	afternoon	5.1	0	0	430	29.5	492	38.64
+"9 St & 44 Rd"	evening	3.19	0	0	430	29.5	492	38.64
+"9 St & 44 Rd"	night	0.71	0	0	430	29.5	492	38.64
+"E 68 St & Madison Ave"	morning	11.77	0	0	430	29.5	492	38.64
+"E 68 St & Madison Ave"	afternoon	20.03	0	0	430	29.5	492	38.64
+"E 68 St & Madison Ave"	evening	5.68	0	0	430	29.5	492	38.64
+"E 68 St & Madison Ave"	night	0.16	0	0	430	29.5	492	38.64
+"Division Ave & Marcy Ave"	morning	3.03	0	0	430	29.5	492	38.64
+"Division Ave & Marcy Ave"	afternoon	7.35	0	0	430	29.5	492	38.64
+"Division Ave & Marcy Ave"	evening	5.55	0	0	430	29.5	492	38.64
+"Division Ave & Marcy Ave"	night	0.52	0	0	430	29.5	492	38.64
+"21 St & 38 Ave"	morning	1.87	0	0	430	29.5	492	38.64
+"21 St & 38 Ave"	afternoon	1.71	0	0	430	29.5	492	38.64
+"21 St & 38 Ave"	evening	1.55	0	0	430	29.5	492	38.64
+"21 St & 38 Ave"	night	0.03	0	0	430	29.5	492	38.64
+"Wolcott St & Dwight St"	morning	3.45	0	0	430	29.5	492	38.64
+"Wolcott St & Dwight St"	afternoon	3.06	0	0	430	29.5	492	38.64
+"Wolcott St & Dwight St"	evening	1.13	0	0	430	29.5	492	38.64
+"Wolcott St & Dwight St"	night	0.0	0	0	430	29.5	492	38.64
+"Vernon Blvd & 47 Rd"	morning	5.84	0	0	430	29.5	492	38.64
+"Vernon Blvd & 47 Rd"	afternoon	9.58	0	0	430	29.5	492	38.64
+"Vernon Blvd & 47 Rd"	evening	11.58	0	0	430	29.5	492	38.64
+"Vernon Blvd & 47 Rd"	night	0.68	0	0	430	29.5	492	38.64
+"Lorimer St & Broadway"	morning	5.84	0	0	430	29.5	492	38.64
+"Lorimer St & Broadway"	afternoon	8.97	0	0	430	29.5	492	38.64
+"Lorimer St & Broadway"	evening	7.42	0	0	430	29.5	492	38.64
+"Lorimer St & Broadway"	night	1.42	0	0	430	29.5	492	38.64
+"31 St & Hoyt Ave N"	morning	5.42	0	0	430	29.5	492	38.64
+"31 St & Hoyt Ave N"	afternoon	10.19	0	0	430	29.5	492	38.64
+"31 St & Hoyt Ave N"	evening	5.81	0	0	430	29.5	492	38.64
+"31 St & Hoyt Ave N"	night	0.48	0	0	430	29.5	492	38.64
+"21 St & 31 Dr"	morning	7.32	0	0	430	29.5	492	38.64
+"21 St & 31 Dr"	afternoon	7.26	0	0	430	29.5	492	38.64
+"21 St & 31 Dr"	evening	5.13	0	0	430	29.5	492	38.64
+"21 St & 31 Dr"	night	0.52	0	0	430	29.5	492	38.64
+"Jackson Ave & 46 Rd"	morning	4.48	0	0	430	29.5	492	38.64
+"Jackson Ave & 46 Rd"	afternoon	6.81	0	0	430	29.5	492	38.64
+"Jackson Ave & 46 Rd"	evening	5.1	0	0	430	29.5	492	38.64
+"Jackson Ave & 46 Rd"	night	0.77	0	0	430	29.5	492	38.64
+"Picnic Point"	morning	0.97	0	3	430	29.5	29	18.21
+"Picnic Point"	afternoon	9.23	0	3	430	29.5	29	18.21
+"Picnic Point"	evening	0.26	0	3	430	29.5	29	18.21
+"Picnic Point"	night	0.0	0	3	430	29.5	29	18.21
+"E 98 St & Park Ave"	morning	4.39	0	0	430	29.5	492	38.64
+"E 98 St & Park Ave"	afternoon	7.61	0	0	430	29.5	492	38.64
+"E 98 St & Park Ave"	evening	3.87	0	0	430	29.5	492	38.64
+"E 98 St & Park Ave"	night	0.16	0	0	430	29.5	492	38.64
+"Sigourney St & Columbia St"	morning	2.35	0	3	430	29.5	29	18.21
+"Sigourney St & Columbia St"	afternoon	8.35	0	3	430	29.5	29	18.21
+"Sigourney St & Columbia St"	evening	1.94	0	3	430	29.5	29	18.21
+"Sigourney St & Columbia St"	night	0.0	0	3	430	29.5	29	18.21
+"E 118 St & Park Ave"	morning	3.06	0	0	430	29.5	492	38.64
+"E 118 St & Park Ave"	afternoon	3.19	0	0	430	29.5	492	38.64
+"E 118 St & Park Ave"	evening	1.55	0	0	430	29.5	492	38.64
+"E 118 St & Park Ave"	night	0.13	0	0	430	29.5	492	38.64
+"47 Ave & 31 St"	morning	2.29	0	0	430	29.5	492	38.64
+"47 Ave & 31 St"	afternoon	9.29	0	0	430	29.5	492	38.64
+"47 Ave & 31 St"	evening	2.97	0	0	430	29.5	492	38.64
+"47 Ave & 31 St"	night	0.42	0	0	430	29.5	492	38.64
+"Center Blvd & Borden Ave"	morning	2.45	0	0	430	29.5	492	38.64
+"Center Blvd & Borden Ave"	afternoon	7.13	0	0	430	29.5	492	38.64
+"Center Blvd & Borden Ave"	evening	3.29	0	0	430	29.5	492	38.64
+"Center Blvd & Borden Ave"	night	0.35	0	0	430	29.5	492	38.64
+"40 Ave & 9 St"	morning	1.84	0	0	430	29.5	492	38.64
+"40 Ave & 9 St"	afternoon	4.13	0	0	430	29.5	492	38.64
+"40 Ave & 9 St"	evening	1.52	0	0	430	29.5	492	38.64
+"40 Ave & 9 St"	night	0.23	0	0	430	29.5	492	38.64
+"5 Ave & E 126 St"	morning	4.13	0	3	430	29.5	29	18.21
+"5 Ave & E 126 St"	afternoon	6.23	0	3	430	29.5	29	18.21
+"5 Ave & E 126 St"	evening	4.9	0	3	430	29.5	29	18.21
+"5 Ave & E 126 St"	night	0.1	0	3	430	29.5	29	18.21
+"Fordham University"	morning	1.55	0	3	430	29.5	29	18.21
+"Fordham University"	afternoon	3.06	0	3	430	29.5	29	18.21
+"Fordham University"	evening	2.19	0	3	430	29.5	29	18.21
+"Fordham University"	night	0.42	0	3	430	29.5	29	18.21
+"3 St & Hoyt St"	morning	5.52	0	0	430	29.5	492	38.64
+"3 St & Hoyt St"	afternoon	12.45	0	0	430	29.5	492	38.64
+"3 St & Hoyt St"	evening	3.26	0	0	430	29.5	492	38.64
+"3 St & Hoyt St"	night	0.13	0	0	430	29.5	492	38.64
+"Henry St & Bay St"	morning	1.74	0	0	430	29.5	492	38.64
+"Henry St & Bay St"	afternoon	2.42	0	0	430	29.5	492	38.64
+"Henry St & Bay St"	evening	1.45	0	0	430	29.5	492	38.64
+"Henry St & Bay St"	night	0.0	0	0	430	29.5	492	38.64
+"Railroad Ave & Kay Ave"	morning	0.94	0	0	430	29.5	492	38.64
+"Railroad Ave & Kay Ave"	afternoon	3.68	0	0	430	29.5	492	38.64
+"Railroad Ave & Kay Ave"	evening	1.23	0	0	430	29.5	492	38.64
+"Railroad Ave & Kay Ave"	night	0.06	0	0	430	29.5	492	38.64
+"Columbia St & W 9 St"	morning	2.48	0	0	430	29.5	492	38.64
+"Columbia St & W 9 St"	afternoon	4.16	0	0	430	29.5	492	38.64
+"Columbia St & W 9 St"	evening	1.19	0	0	430	29.5	492	38.64
+"Columbia St & W 9 St"	night	0.1	0	0	430	29.5	492	38.64
+"Dwight St & Van Dyke St"	morning	2.35	0	0	430	29.5	492	38.64
+"Dwight St & Van Dyke St"	afternoon	4.39	0	0	430	29.5	492	38.64
+"Dwight St & Van Dyke St"	evening	2.13	0	0	430	29.5	492	38.64
+"Dwight St & Van Dyke St"	night	0.03	0	0	430	29.5	492	38.64
+"5 St & Market St"	morning	0.71	0	0	430	29.5	492	38.64
+"5 St & Market St"	afternoon	7.68	0	0	430	29.5	492	38.64
+"5 St & Market St"	evening	4.52	0	0	430	29.5	492	38.64
+"5 St & Market St"	night	0.06	0	0	430	29.5	492	38.64
+"1 Ave & E 44 St"	morning	27.0	1	2	184	94.58	193	140.11
+"1 Ave & E 44 St"	afternoon	53.32	1	2	184	94.58	193	140.11
+"1 Ave & E 44 St"	evening	16.06	1	2	184	94.58	193	140.11
+"1 Ave & E 44 St"	night	1.23	1	2	184	94.58	193	140.11
+"11 St & 43 Ave"	morning	0.74	0	0	430	29.5	492	38.64
+"11 St & 43 Ave"	afternoon	2.52	0	0	430	29.5	492	38.64
+"11 St & 43 Ave"	evening	1.81	0	0	430	29.5	492	38.64
+"11 St & 43 Ave"	night	0.42	0	0	430	29.5	492	38.64
+"47 Ave & Skillman Ave"	morning	0.45	0	0	430	29.5	492	38.64
+"47 Ave & Skillman Ave"	afternoon	1.0	0	0	430	29.5	492	38.64
+"47 Ave & Skillman Ave"	evening	0.97	0	0	430	29.5	492	38.64
+"47 Ave & Skillman Ave"	night	0.0	0	0	430	29.5	492	38.64
+"E 47 St & 1 Ave"	morning	16.61	0	0	430	29.5	492	38.64
+"E 47 St & 1 Ave"	afternoon	29.0	0	0	430	29.5	492	38.64
+"E 47 St & 1 Ave"	evening	12.61	0	0	430	29.5	492	38.64
+"E 47 St & 1 Ave"	night	0.58	0	0	430	29.5	492	38.64
+"West Drive & Prospect Park West"	morning	20.71	1	0	184	94.58	492	38.64
+"West Drive & Prospect Park West"	afternoon	34.94	1	0	184	94.58	492	38.64
+"West Drive & Prospect Park West"	evening	19.19	1	0	184	94.58	492	38.64
+"West Drive & Prospect Park West"	night	1.1	1	0	184	94.58	492	38.64
+"Sterling St & Bedford Ave"	morning	0.35	0	0	430	29.5	492	38.64
+"Sterling St & Bedford Ave"	afternoon	0.42	0	0	430	29.5	492	38.64
+"Sterling St & Bedford Ave"	evening	0.19	0	0	430	29.5	492	38.64
+"Sterling St & Bedford Ave"	night	0.0	0	0	430	29.5	492	38.64
+"LaGuardia Pl & W 3 St"	morning	19.32	1	2	184	94.58	193	140.11
+"LaGuardia Pl & W 3 St"	afternoon	42.16	1	2	184	94.58	193	140.11
+"LaGuardia Pl & W 3 St"	evening	46.26	1	2	184	94.58	193	140.11
+"LaGuardia Pl & W 3 St"	night	4.45	1	2	184	94.58	193	140.11
+"W 15 St & 6 Ave"	morning	11.81	0	0	430	29.5	492	38.64
+"W 15 St & 6 Ave"	afternoon	19.48	0	0	430	29.5	492	38.64
+"W 15 St & 6 Ave"	evening	18.77	0	0	430	29.5	492	38.64
+"W 15 St & 6 Ave"	night	1.23	0	0	430	29.5	492	38.64
+"E 13 St & Avenue A"	morning	31.23	1	2	184	94.58	193	140.11
+"E 13 St & Avenue A"	afternoon	31.84	1	2	184	94.58	193	140.11
+"E 13 St & Avenue A"	evening	30.39	1	2	184	94.58	193	140.11
+"E 13 St & Avenue A"	night	1.9	1	2	184	94.58	193	140.11
+"Bressler"	morning	0.23	0	0	430	29.5	492	38.64
+"Bressler"	afternoon	0.48	0	0	430	29.5	492	38.64
+"Bressler"	evening	0.0	0	0	430	29.5	492	38.64
+"Bressler"	night	0.0	0	0	430	29.5	492	38.64
+"W 35 St & Dyer Ave"	morning	5.0	0	0	430	29.5	492	38.64
+"W 35 St & Dyer Ave"	afternoon	4.45	0	0	430	29.5	492	38.64
+"W 35 St & Dyer Ave"	evening	3.9	0	0	430	29.5	492	38.64
+"W 35 St & Dyer Ave"	night	0.35	0	0	430	29.5	492	38.64
+"Court St & Nelson St"	morning	2.0	0	0	430	29.5	492	38.64
+"Court St & Nelson St"	afternoon	2.39	0	0	430	29.5	492	38.64
+"Court St & Nelson St"	evening	0.97	0	0	430	29.5	492	38.64
+"Court St & Nelson St"	night	0.1	0	0	430	29.5	492	38.64
